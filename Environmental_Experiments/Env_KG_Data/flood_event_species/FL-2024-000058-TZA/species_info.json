@@ -1,0 +1,2337 @@
+{
+    "total_results": 39,
+    "page": 1,
+    "per_page": 500,
+    "results": [
+        {
+            "count": 7,
+            "taxon": {
+                "id": 42405,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 40151,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    40151,
+                    848317,
+                    848320,
+                    848324,
+                    152870,
+                    424850,
+                    42241,
+                    568826,
+                    846321,
+                    42404,
+                    42405
+                ],
+                "is_active": true,
+                "name": "Syncerus caffer",
+                "parent_id": 42404,
+                "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/424850/42241/568826/846321/42404",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 97834194,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97834194/square.jpg",
+                    "original_dimensions": {
+                        "height": 1559,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Bernard DUPONT",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97834194/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/97834194/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 4,
+                "observations_count": 14187,
+                "flag_counts": {
+                    "resolved": 3,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 12892,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/African_buffalo",
+                "iconic_taxon_name": "Mammalia",
+                "preferred_common_name": "African Buffalo",
+                "conservation_status": {
+                    "id": 16086,
+                    "place_id": null,
+                    "source_id": 15286,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "nt",
+                    "status_name": "near threatened",
+                    "geoprivacy": "obscured",
+                    "iucn": 20
+                }
+            }
+        },
+        {
+            "count": 4,
+            "taxon": {
+                "id": 1510574,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 40151,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    40151,
+                    848317,
+                    848320,
+                    848324,
+                    152870,
+                    424850,
+                    42153,
+                    42156,
+                    1510574
+                ],
+                "is_active": true,
+                "name": "Giraffa tippelskirchi",
+                "parent_id": 42156,
+                "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/424850/42153/42156",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 102235423,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Ad Konings, some rights reserved (CC BY-NC), uploaded by Ad Konings",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102235423/square.jpg",
+                    "original_dimensions": {
+                        "height": 768,
+                        "width": 1206
+                    },
+                    "flags": [],
+                    "attribution_name": "Ad Konings",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102235423/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102235423/medium.jpg"
+                },
+                "taxon_changes_count": 1,
+                "taxon_schemes_count": 1,
+                "observations_count": 7027,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 98583,
+                "complete_species_count": null,
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Masai_giraffe",
+                "iconic_taxon_name": "Mammalia",
+                "preferred_common_name": "Maasai Giraffe"
+            }
+        },
+        {
+            "count": 3,
+            "taxon": {
+                "id": 5079,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    71261,
+                    5067,
+                    1541534,
+                    5068,
+                    5079
+                ],
+                "is_active": true,
+                "name": "Aquila rapax",
+                "parent_id": 5068,
+                "ancestry": "48460/1/2/355675/3/71261/5067/1541534/5068",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 76347846,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Nik Borrow, some rights reserved (CC BY-NC), uploaded by Nik Borrow",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76347846/square.jpg",
+                    "original_dimensions": {
+                        "height": 500,
+                        "width": 667
+                    },
+                    "flags": [],
+                    "attribution_name": "Nik Borrow",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76347846/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/76347846/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 6020,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Tawny_eagle",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Tawny Eagle",
+                "conservation_status": {
+                    "id": 1749,
+                    "place_id": null,
+                    "source_id": 18766,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "vu",
+                    "status_name": "vulnerable",
+                    "geoprivacy": "obscured",
+                    "iucn": 30
+                }
+            }
+        },
+        {
+            "count": 3,
+            "taxon": {
+                "id": 14939,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    7251,
+                    14841,
+                    14922,
+                    14939
+                ],
+                "is_active": true,
+                "name": "Lamprotornis superbus",
+                "parent_id": 14922,
+                "ancestry": "48460/1/2/355675/3/7251/14841/14922",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 329009302,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Marc Henrion, some rights reserved (CC BY-NC), uploaded by Marc Henrion",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/329009302/square.jpg",
+                    "original_dimensions": {
+                        "height": 1366,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Marc Henrion",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/329009302/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/329009302/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 4333,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 38603,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Superb_starling",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Superb Starling"
+            }
+        },
+        {
+            "count": 3,
+            "taxon": {
+                "id": 41955,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 40151,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    40151,
+                    848317,
+                    848320,
+                    848324,
+                    41573,
+                    41944,
+                    846179,
+                    41954,
+                    41955
+                ],
+                "is_active": true,
+                "name": "Acinonyx jubatus",
+                "parent_id": 41954,
+                "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41944/846179/41954",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 57582224,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Irene Domhoff, some rights reserved (CC BY-NC), uploaded by Irene Domhoff",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57582224/square.jpg",
+                    "original_dimensions": {
+                        "height": 965,
+                        "width": 1447
+                    },
+                    "flags": [],
+                    "attribution_name": "Irene Domhoff",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57582224/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/57582224/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 4,
+                "observations_count": 6634,
+                "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 13175,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Cheetah",
+                "iconic_taxon_name": "Mammalia",
+                "preferred_common_name": "Cheetah",
+                "conservation_status": {
+                    "id": 15873,
+                    "place_id": null,
+                    "source_id": 15286,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "vu",
+                    "status_name": "vulnerable",
+                    "geoprivacy": "obscured",
+                    "iucn": 30
+                }
+            }
+        },
+        {
+            "count": 3,
+            "taxon": {
+                "id": 43694,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 40151,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    40151,
+                    848317,
+                    848320,
+                    848321,
+                    43691,
+                    43692,
+                    43693,
+                    43694
+                ],
+                "is_active": true,
+                "name": "Loxodonta africana",
+                "parent_id": 43693,
+                "ancestry": "48460/1/2/355675/40151/848317/848320/848321/43691/43692/43693",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 93674728,
+                    "license_code": "cc-by",
+                    "attribution": "(c) dhfischer, some rights reserved (CC BY), uploaded by dhfischer",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93674728/square.jpg",
+                    "original_dimensions": {
+                        "height": 533,
+                        "width": 800
+                    },
+                    "flags": [],
+                    "attribution_name": "dhfischer",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93674728/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/93674728/medium.jpg"
+                },
+                "taxon_changes_count": 1,
+                "taxon_schemes_count": 4,
+                "observations_count": 27318,
+                "flag_counts": {
+                    "resolved": 3,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 3276,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/African_bush_elephant",
+                "iconic_taxon_name": "Mammalia",
+                "preferred_common_name": "African Savanna Elephant",
+                "conservation_status": {
+                    "id": 16771,
+                    "place_id": null,
+                    "source_id": 37,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "en",
+                    "status_name": "endangered",
+                    "geoprivacy": "obscured",
+                    "iucn": 40
+                }
+            }
+        },
+        {
+            "count": 2,
+            "taxon": {
+                "id": 115,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    71266,
+                    75,
+                    107,
+                    115
+                ],
+                "is_active": true,
+                "name": "Ardeotis kori",
+                "parent_id": 107,
+                "ancestry": "48460/1/2/355675/3/71266/75/107",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 73258609,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Doug Macdonald, some rights reserved (CC BY-NC), uploaded by Doug Macdonald",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73258609/square.jpeg",
+                    "original_dimensions": {
+                        "height": 1536,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Doug Macdonald",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73258609/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/73258609/medium.jpeg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 4749,
+                "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Kori_bustard",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Kori Bustard",
+                "conservation_status": {
+                    "id": 40,
+                    "place_id": null,
+                    "source_id": 18766,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "nt",
+                    "status_name": "near threatened",
+                    "geoprivacy": "obscured",
+                    "iucn": 20
+                }
+            }
+        },
+        {
+            "count": 2,
+            "taxon": {
+                "id": 5241,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    71261,
+                    5067,
+                    1541532,
+                    5239,
+                    5241
+                ],
+                "is_active": true,
+                "name": "Circaetus cinereus",
+                "parent_id": 5239,
+                "ancestry": "48460/1/2/355675/3/71261/5067/1541532/5239",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 17278444,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) brian fisher, some rights reserved (CC BY-NC), uploaded by brian fisher",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17278444/square.jpg",
+                    "original_dimensions": {
+                        "height": 2048,
+                        "width": 1791
+                    },
+                    "flags": [],
+                    "attribution_name": "brian fisher",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17278444/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17278444/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 2913,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Brown_snake_eagle",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Brown Snake-Eagle"
+            }
+        },
+        {
+            "count": 2,
+            "taxon": {
+                "id": 5344,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    71261,
+                    5067,
+                    1541534,
+                    5343,
+                    5344
+                ],
+                "is_active": true,
+                "name": "Polemaetus bellicosus",
+                "parent_id": 5343,
+                "ancestry": "48460/1/2/355675/3/71261/5067/1541534/5343",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 397866680,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Corn\u00e9 Rautenbach, some rights reserved (CC BY-NC), uploaded by Corn\u00e9 Rautenbach",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397866680/square.jpeg",
+                    "original_dimensions": {
+                        "height": 1615,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Corn\u00e9 Rautenbach",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397866680/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/397866680/medium.jpeg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 4003,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Martial_eagle",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Martial Eagle",
+                "conservation_status": {
+                    "id": 1902,
+                    "place_id": null,
+                    "source_id": 18766,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "en",
+                    "status_name": "endangered",
+                    "geoprivacy": "obscured",
+                    "iucn": 40
+                }
+            }
+        },
+        {
+            "count": 2,
+            "taxon": {
+                "id": 5363,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    71261,
+                    5067,
+                    1541533,
+                    5362,
+                    5363
+                ],
+                "is_active": true,
+                "name": "Gyps africanus",
+                "parent_id": 5362,
+                "ancestry": "48460/1/2/355675/3/71261/5067/1541533/5362",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 150470465,
+                    "license_code": "cc-by-nc-sa",
+                    "attribution": "(c) Ian White, some rights reserved (CC BY-NC-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150470465/square.jpg",
+                    "original_dimensions": {
+                        "height": 1350,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Ian White",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150470465/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/150470465/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 8023,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/White-backed_vulture",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "White-backed Vulture",
+                "conservation_status": {
+                    "id": 1908,
+                    "place_id": null,
+                    "source_id": 18766,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "cr",
+                    "status_name": "critically endangered",
+                    "geoprivacy": "obscured",
+                    "iucn": 50
+                }
+            }
+        },
+        {
+            "count": 2,
+            "taxon": {
+                "id": 41963,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 40151,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    40151,
+                    848317,
+                    848320,
+                    848324,
+                    41573,
+                    41944,
+                    846273,
+                    41962,
+                    41963
+                ],
+                "is_active": true,
+                "name": "Panthera pardus",
+                "parent_id": 41962,
+                "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41944/846273/41962",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 8666580,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) janaohrner, some rights reserved (CC BY-NC), uploaded by janaohrner",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8666580/square.jpeg",
+                    "original_dimensions": {
+                        "height": 1361,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "janaohrner",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8666580/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8666580/medium.jpeg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 4,
+                "observations_count": 13017,
+                "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 13193,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Leopard",
+                "iconic_taxon_name": "Mammalia",
+                "preferred_common_name": "Leopard",
+                "conservation_status": {
+                    "id": 15878,
+                    "place_id": null,
+                    "source_id": 15286,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "vu",
+                    "status_name": "vulnerable",
+                    "geoprivacy": "obscured",
+                    "iucn": 30
+                }
+            }
+        },
+        {
+            "count": 2,
+            "taxon": {
+                "id": 41964,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 40151,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    40151,
+                    848317,
+                    848320,
+                    848324,
+                    41573,
+                    41944,
+                    846273,
+                    41962,
+                    41964
+                ],
+                "is_active": true,
+                "name": "Panthera leo",
+                "parent_id": 41962,
+                "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/41944/846273/41962",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 9225318,
+                    "license_code": "cc-by-nc-nd",
+                    "attribution": "(c) seasav, some rights reserved (CC BY-NC-ND), uploaded by seasav",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9225318/square.jpg",
+                    "original_dimensions": {
+                        "height": 1536,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "seasav",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9225318/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9225318/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 4,
+                "observations_count": 22337,
+                "flag_counts": {
+                    "resolved": 6,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 3277,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Lion",
+                "iconic_taxon_name": "Mammalia",
+                "preferred_common_name": "Lion",
+                "conservation_status": {
+                    "id": 15879,
+                    "place_id": null,
+                    "source_id": 15286,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "vu",
+                    "status_name": "vulnerable",
+                    "geoprivacy": "obscured",
+                    "iucn": 30
+                }
+            }
+        },
+        {
+            "count": 2,
+            "taxon": {
+                "id": 42328,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 40151,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    40151,
+                    848317,
+                    848320,
+                    848324,
+                    152870,
+                    424850,
+                    42241,
+                    568847,
+                    846366,
+                    42325,
+                    42328
+                ],
+                "is_active": true,
+                "name": "Kobus ellipsiprymnus",
+                "parent_id": 42325,
+                "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/424850/42241/568847/846366/42325",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 72428489,
+                    "license_code": "cc-by-nc-sa",
+                    "attribution": "(c) Sergey Pisarevskiy, some rights reserved (CC BY-NC-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72428489/square.jpg",
+                    "original_dimensions": {
+                        "height": 685,
+                        "width": 1000
+                    },
+                    "flags": [],
+                    "attribution_name": "Sergey Pisarevskiy",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72428489/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/72428489/medium.jpg"
+                },
+                "taxon_changes_count": 1,
+                "taxon_schemes_count": 4,
+                "observations_count": 10656,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 1
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 12950,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Waterbuck",
+                "iconic_taxon_name": "Mammalia",
+                "preferred_common_name": "Waterbuck"
+            }
+        },
+        {
+            "count": 2,
+            "taxon": {
+                "id": 43335,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 40151,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    40151,
+                    848317,
+                    848320,
+                    848324,
+                    43327,
+                    43328,
+                    43329,
+                    43335
+                ],
+                "is_active": true,
+                "name": "Equus quagga",
+                "parent_id": 43329,
+                "ancestry": "48460/1/2/355675/40151/848317/848320/848324/43327/43328/43329",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 335469754,
+                    "license_code": "cc-by-nc-nd",
+                    "attribution": "(c) simben, some rights reserved (CC BY-NC-ND), uploaded by simben",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335469754/square.jpg",
+                    "original_dimensions": {
+                        "height": 1493,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "simben",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335469754/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/335469754/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 4,
+                "observations_count": 22594,
+                "flag_counts": {
+                    "resolved": 5,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 12055,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Plains_zebra",
+                "iconic_taxon_name": "Mammalia",
+                "preferred_common_name": "Plains Zebra",
+                "conservation_status": {
+                    "id": 16534,
+                    "place_id": null,
+                    "source_id": 15286,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "nt",
+                    "status_name": "near threatened",
+                    "geoprivacy": "obscured",
+                    "iucn": 20
+                }
+            }
+        },
+        {
+            "count": 2,
+            "taxon": {
+                "id": 1315988,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 47178,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    47178,
+                    1632273,
+                    1303736,
+                    54196,
+                    503896,
+                    86689,
+                    1315988
+                ],
+                "is_active": true,
+                "name": "Astatotilapia gigliolii",
+                "parent_id": 86689,
+                "ancestry": "48460/1/2/355675/47178/1632273/1303736/54196/503896/86689",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 5873349,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Martin Grimm, some rights reserved (CC BY-NC), uploaded by Martin Grimm",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5873349/square.jpg",
+                    "original_dimensions": {
+                        "height": 1365,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Martin Grimm",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5873349/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/5873349/medium.jpg"
+                },
+                "taxon_changes_count": 1,
+                "taxon_schemes_count": 0,
+                "observations_count": 18,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": null,
+                "iconic_taxon_name": "Actinopterygii"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 53,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    4,
+                    23,
+                    49,
+                    53
+                ],
+                "is_active": true,
+                "name": "Balearica regulorum",
+                "parent_id": 49,
+                "ancestry": "48460/1/2/355675/3/4/23/49",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 261339008,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Wayne and Pam Osborn, some rights reserved (CC BY-NC), uploaded by Wayne and Pam Osborn",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/261339008/square.jpg",
+                    "original_dimensions": {
+                        "height": 2048,
+                        "width": 1924
+                    },
+                    "flags": [],
+                    "attribution_name": "Wayne and Pam Osborn",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/261339008/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/261339008/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 5493,
+                "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 1
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Grey_crowned_crane",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Gray Crowned-Crane",
+                "conservation_status": {
+                    "id": 18,
+                    "place_id": null,
+                    "source_id": 18766,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "en",
+                    "status_name": "endangered",
+                    "geoprivacy": "obscured",
+                    "iucn": 40
+                }
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 1428,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    573,
+                    1426,
+                    1427,
+                    1428
+                ],
+                "is_active": true,
+                "name": "Numida meleagris",
+                "parent_id": 1427,
+                "ancestry": "48460/1/2/355675/3/573/1426/1427",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 199644869,
+                    "license_code": "cc-by-nc-sa",
+                    "attribution": "(c) Tarique Sani, some rights reserved (CC BY-NC-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199644869/square.jpg",
+                    "original_dimensions": {
+                        "height": 960,
+                        "width": 1280
+                    },
+                    "flags": [],
+                    "attribution_name": "Tarique Sani",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199644869/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/199644869/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 9,
+                "observations_count": 23928,
+                "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Helmeted_guineafowl",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Helmeted Guineafowl"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 2269,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    2114,
+                    2262,
+                    2263,
+                    2269
+                ],
+                "is_active": true,
+                "name": "Coracias caudatus",
+                "parent_id": 2263,
+                "ancestry": "48460/1/2/355675/3/2114/2262/2263",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 8050,
+                    "license_code": "cc-by-nc-sa",
+                    "attribution": "(c) Dave Govoni, some rights reserved (CC BY-NC-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8050/square.jpg",
+                    "original_dimensions": {
+                        "height": 949,
+                        "width": 1429
+                    },
+                    "flags": [],
+                    "attribution_name": "Dave Govoni",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8050/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8050/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 8347,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Lilac-breasted_roller",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Lilac-breasted Roller"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 4259,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    67569,
+                    4255,
+                    91013,
+                    4259
+                ],
+                "is_active": true,
+                "name": "Phoeniconaias minor",
+                "parent_id": 91013,
+                "ancestry": "48460/1/2/355675/3/67569/4255/91013",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 89723844,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Uday Agashe, some rights reserved (CC BY-NC), uploaded by Uday Agashe",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89723844/square.jpg",
+                    "original_dimensions": {
+                        "height": 800,
+                        "width": 1200
+                    },
+                    "flags": [],
+                    "attribution_name": "Uday Agashe",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89723844/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/89723844/medium.jpg"
+                },
+                "taxon_changes_count": 2,
+                "taxon_schemes_count": 4,
+                "observations_count": 4397,
+                "flag_counts": {
+                    "resolved": 3,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Lesser_flamingo",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Lesser Flamingo",
+                "conservation_status": {
+                    "id": 1331,
+                    "place_id": null,
+                    "source_id": 18766,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "nt",
+                    "status_name": "near threatened",
+                    "geoprivacy": "obscured",
+                    "iucn": 20
+                }
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 4327,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    67566,
+                    4323,
+                    4324,
+                    4327
+                ],
+                "is_active": true,
+                "name": "Pelecanus onocrotalus",
+                "parent_id": 4324,
+                "ancestry": "48460/1/2/355675/3/67566/4323/4324",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 114441448,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Luca Boscain, some rights reserved (CC BY-NC), uploaded by Luca Boscain",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114441448/square.jpg",
+                    "original_dimensions": {
+                        "height": 728,
+                        "width": 999
+                    },
+                    "flags": [],
+                    "attribution_name": "Luca Boscain",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114441448/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/114441448/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 8833,
+                "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Great_white_pelican",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Great White Pelican"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 4754,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    3726,
+                    4730,
+                    4752,
+                    4754
+                ],
+                "is_active": true,
+                "name": "Ephippiorhynchus senegalensis",
+                "parent_id": 4752,
+                "ancestry": "48460/1/2/355675/3/3726/4730/4752",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 339545431,
+                    "license_code": null,
+                    "attribution": "(c) Asrat Ayalew Gella, all rights reserved, uploaded by Asrat Ayalew Gella",
+                    "url": "https://static.inaturalist.org/photos/339545431/square.jpg",
+                    "original_dimensions": {
+                        "height": 1181,
+                        "width": 1772
+                    },
+                    "flags": [],
+                    "attribution_name": "Asrat Ayalew Gella",
+                    "square_url": "https://static.inaturalist.org/photos/339545431/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/339545431/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 3979,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Saddle-billed_stork",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Saddle-billed Stork"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 7146,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    6888,
+                    6912,
+                    7145,
+                    7146
+                ],
+                "is_active": true,
+                "name": "Plectropterus gambensis",
+                "parent_id": 7145,
+                "ancestry": "48460/1/2/355675/3/6888/6912/7145",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 2826842,
+                    "license_code": "cc-by-nc-sa",
+                    "attribution": "(c) Tarique Sani, some rights reserved (CC BY-NC-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2826842/square.jpg",
+                    "original_dimensions": {
+                        "height": 960,
+                        "width": 1440
+                    },
+                    "flags": [],
+                    "attribution_name": "Tarique Sani",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2826842/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2826842/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 4688,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Spur-winged_goose",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Spur-winged Goose"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 7160,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    6888,
+                    6912,
+                    7159,
+                    7160
+                ],
+                "is_active": true,
+                "name": "Sarkidiornis melanotos",
+                "parent_id": 7159,
+                "ancestry": "48460/1/2/355675/3/6888/6912/7159",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 299783983,
+                    "license_code": null,
+                    "attribution": "(c) Asrat Ayalew Gella, all rights reserved, uploaded by Asrat Ayalew Gella",
+                    "url": "https://static.inaturalist.org/photos/299783983/square.jpg",
+                    "original_dimensions": {
+                        "height": 1365,
+                        "width": 2013
+                    },
+                    "flags": [],
+                    "attribution_name": "Asrat Ayalew Gella",
+                    "square_url": "https://static.inaturalist.org/photos/299783983/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/299783983/medium.jpg"
+                },
+                "taxon_changes_count": 1,
+                "taxon_schemes_count": 7,
+                "observations_count": 2593,
+                "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 24034,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Sarkidiornis",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Knob-billed Duck"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 14030,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    7251,
+                    71322,
+                    14025,
+                    14030
+                ],
+                "is_active": true,
+                "name": "Uraeginthus cyanocephalus",
+                "parent_id": 14025,
+                "ancestry": "48460/1/2/355675/3/7251/71322/14025",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 9202221,
+                    "license_code": "cc-by-nc-nd",
+                    "attribution": "(c) markus lilje, some rights reserved (CC BY-NC-ND), uploaded by markus lilje",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9202221/square.jpeg",
+                    "original_dimensions": {
+                        "height": 768,
+                        "width": 1152
+                    },
+                    "flags": [],
+                    "attribution_name": "markus lilje",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9202221/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/9202221/medium.jpeg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 363,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 36322,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Blue-capped_cordon-bleu",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Blue-capped Cordonbleu"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 14087,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    7251,
+                    71354,
+                    14086,
+                    14087
+                ],
+                "is_active": true,
+                "name": "Dinemellia dinemelli",
+                "parent_id": 14086,
+                "ancestry": "48460/1/2/355675/3/7251/71354/14086",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 8163,
+                    "license_code": "cc-by-nc-nd",
+                    "attribution": "(c) Melvin Yap, some rights reserved (CC BY-NC-ND)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8163/square.jpg",
+                    "original_dimensions": {
+                        "height": 853,
+                        "width": 1280
+                    },
+                    "flags": [],
+                    "attribution_name": "Melvin Yap",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8163/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/8163/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 1414,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/White-headed_buffalo_weaver",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "White-headed Buffalo-Weaver"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 20526,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    20487,
+                    20523,
+                    20524,
+                    20526
+                ],
+                "is_active": true,
+                "name": "Struthio camelus",
+                "parent_id": 20524,
+                "ancestry": "48460/1/2/355675/3/20487/20523/20524",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 2568822,
+                    "license_code": null,
+                    "attribution": "(c) tlim, all rights reserved, uploaded by tlim",
+                    "url": "https://static.inaturalist.org/photos/2568822/square.jpg",
+                    "original_dimensions": {
+                        "height": 1536,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "tlim",
+                    "square_url": "https://static.inaturalist.org/photos/2568822/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/2568822/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 8,
+                "observations_count": 13878,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 11425,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Common_ostrich",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Common Ostrich"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 20969,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    525653,
+                    20967,
+                    20968,
+                    20969
+                ],
+                "is_active": true,
+                "name": "Upupa epops",
+                "parent_id": 20968,
+                "ancestry": "48460/1/2/355675/3/525653/20967/20968",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 60494705,
+                    "license_code": "cc-by-nc-sa",
+                    "attribution": "(c) Andrej Chud\u00fd, some rights reserved (CC BY-NC-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60494705/square.jpg",
+                    "original_dimensions": {
+                        "height": 1365,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Andrej Chud\u00fd",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60494705/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/60494705/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 45411,
+                "flag_counts": {
+                    "resolved": 3,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Eurasian_hoopoe",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Common Hoopoe"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 23411,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 20978,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    20978,
+                    20979,
+                    24545,
+                    717696,
+                    23396,
+                    23411
+                ],
+                "is_active": true,
+                "name": "Leptopelis uluguruensis",
+                "parent_id": 23396,
+                "ancestry": "48460/1/2/355675/20978/20979/24545/717696/23396",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 34525637,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Lorenzo Vinciguerra, some rights reserved (CC BY-NC), uploaded by Lorenzo Vinciguerra",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34525637/square.jpg",
+                    "original_dimensions": {
+                        "height": 1332,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Lorenzo Vinciguerra",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34525637/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/34525637/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 7,
+                "observations_count": 60,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 4528,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Uluguru_forest_tree_frog",
+                "iconic_taxon_name": "Amphibia",
+                "preferred_common_name": "Ruby-eyed Tree Frog",
+                "conservation_status": {
+                    "id": 9541,
+                    "place_id": null,
+                    "source_id": 37,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "nt",
+                    "status_name": "near threatened",
+                    "geoprivacy": "obscured",
+                    "iucn": 20
+                }
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 40092,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 26036,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    26036,
+                    39532,
+                    40019,
+                    92254,
+                    40092
+                ],
+                "is_active": true,
+                "name": "Stigmochelys pardalis",
+                "parent_id": 92254,
+                "ancestry": "48460/1/2/355675/26036/39532/40019/92254",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 12902301,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12902301/square.jpg",
+                    "original_dimensions": {
+                        "height": 1536,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Bernard DUPONT",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12902301/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/12902301/medium.jpg"
+                },
+                "taxon_changes_count": 1,
+                "taxon_schemes_count": 3,
+                "observations_count": 9701,
+                "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 111042,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Leopard_tortoise",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Reptilia",
+                "preferred_common_name": "Leopard Tortoise"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 42278,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 40151,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    40151,
+                    848317,
+                    848320,
+                    848324,
+                    152870,
+                    424850,
+                    42241,
+                    568847,
+                    846298,
+                    42277,
+                    42278
+                ],
+                "is_active": true,
+                "name": "Aepyceros melampus",
+                "parent_id": 42277,
+                "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/424850/42241/568847/846298/42277",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 64268875,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Diogo Luiz, some rights reserved (CC BY), uploaded by Diogo Luiz",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64268875/square.jpg",
+                    "original_dimensions": {
+                        "height": 1333,
+                        "width": 2000
+                    },
+                    "flags": [],
+                    "attribution_name": "Diogo Luiz",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64268875/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/64268875/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 4,
+                "observations_count": 16298,
+                "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 3285,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Impala",
+                "iconic_taxon_name": "Mammalia",
+                "preferred_common_name": "Impala"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 42339,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 40151,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    40151,
+                    848317,
+                    848320,
+                    848324,
+                    152870,
+                    424850,
+                    42241,
+                    568826,
+                    846305,
+                    42337,
+                    1431368,
+                    42339
+                ],
+                "is_active": true,
+                "name": "Tragelaphus strepsiceros",
+                "parent_id": 1431368,
+                "ancestry": "48460/1/2/355675/40151/848317/848320/848324/152870/424850/42241/568826/846305/42337/1431368",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 22442121,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) copper, some rights reserved (CC BY-NC), uploaded by copper",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22442121/square.jpeg",
+                    "original_dimensions": {
+                        "height": 1284,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "copper",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22442121/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/22442121/medium.jpeg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 5,
+                "observations_count": 10778,
+                "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 12912,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Greater_kudu",
+                "iconic_taxon_name": "Mammalia",
+                "preferred_common_name": "Greater Kudu"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 68137,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 40151,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    40151,
+                    848317,
+                    848320,
+                    848323,
+                    43367,
+                    786045,
+                    936377,
+                    936369,
+                    43443,
+                    479424,
+                    846302,
+                    43522,
+                    68137
+                ],
+                "is_active": true,
+                "name": "Chlorocebus pygerythrus",
+                "parent_id": 43522,
+                "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43367/786045/936377/936369/43443/479424/846302/43522",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 47225717,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) rickpower88, some rights reserved (CC BY-NC), uploaded by rickpower88",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47225717/square.jpeg",
+                    "original_dimensions": {
+                        "height": 1365,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "rickpower88",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47225717/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/47225717/medium.jpeg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 4,
+                "observations_count": 12357,
+                "flag_counts": {
+                    "resolved": 3,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Vervet_monkey",
+                "iconic_taxon_name": "Mammalia",
+                "preferred_common_name": "Vervet Monkey"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 74832,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 40151,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    40151,
+                    848317,
+                    848320,
+                    848323,
+                    43367,
+                    786045,
+                    936377,
+                    936369,
+                    43443,
+                    479424,
+                    846334,
+                    43534,
+                    74832
+                ],
+                "is_active": true,
+                "name": "Papio anubis",
+                "parent_id": 43534,
+                "ancestry": "48460/1/2/355675/40151/848317/848320/848323/43367/786045/936377/936369/43443/479424/846334/43534",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 358065075,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) David Torres, some rights reserved (CC BY-NC), uploaded by David Torres",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358065075/square.jpg",
+                    "original_dimensions": {
+                        "height": 1365,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "David Torres",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358065075/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/358065075/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 4,
+                "observations_count": 6340,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Olive_baboon",
+                "iconic_taxon_name": "Mammalia",
+                "preferred_common_name": "Olive Baboon"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 144281,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    525653,
+                    5438,
+                    5435,
+                    144281
+                ],
+                "is_active": true,
+                "name": "Bucorvus leadbeateri",
+                "parent_id": 5435,
+                "ancestry": "48460/1/2/355675/3/525653/5438/5435",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 64757984,
+                    "license_code": null,
+                    "attribution": "(c) Chien Lee, all rights reserved, uploaded by Chien Lee",
+                    "url": "https://static.inaturalist.org/photos/64757984/square.jpg",
+                    "original_dimensions": {
+                        "height": 721,
+                        "width": 1080
+                    },
+                    "flags": [],
+                    "attribution_name": "Chien Lee",
+                    "square_url": "https://static.inaturalist.org/photos/64757984/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/64757984/medium.jpg"
+                },
+                "taxon_changes_count": 1,
+                "taxon_schemes_count": 7,
+                "observations_count": 4266,
+                "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Southern_ground_hornbill",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Southern Ground Hornbill",
+                "conservation_status": {
+                    "id": 61008,
+                    "place_id": null,
+                    "source_id": 18766,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "vu",
+                    "status_name": "vulnerable",
+                    "geoprivacy": "obscured",
+                    "iucn": 30
+                }
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 327608,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    71261,
+                    5067,
+                    1541533,
+                    5362,
+                    327608
+                ],
+                "is_active": true,
+                "name": "Gyps rueppelli",
+                "parent_id": 5362,
+                "ancestry": "48460/1/2/355675/3/71261/5067/1541533/5362",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 782498,
+                    "license_code": "cc-by-nc-sa",
+                    "attribution": "(c) Steve Garvie, some rights reserved (CC BY-NC-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/782498/square.jpg",
+                    "original_dimensions": {
+                        "height": 996,
+                        "width": 1500
+                    },
+                    "flags": [],
+                    "attribution_name": "Steve Garvie",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/782498/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/782498/medium.jpg"
+                },
+                "taxon_changes_count": 2,
+                "taxon_schemes_count": 3,
+                "observations_count": 1916,
+                "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/R\u00fcppell's_vulture",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "R\u00fcppell's Griffon",
+                "conservation_status": {
+                    "id": 65579,
+                    "place_id": null,
+                    "source_id": 18766,
+                    "user_id": null,
+                    "authority": "IUCN Red List",
+                    "status": "cr",
+                    "status_name": "critically endangered",
+                    "geoprivacy": "obscured",
+                    "iucn": 50
+                }
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 411086,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    67566,
+                    4929,
+                    597395,
+                    4950,
+                    411086
+                ],
+                "is_active": true,
+                "name": "Ardea ibis",
+                "parent_id": 4950,
+                "ancestry": "48460/1/2/355675/3/67566/4929/597395/4950",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 278764160,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0421\u0438\u0437\u043e\u0432, some rights reserved (CC BY-NC), uploaded by \u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0421\u0438\u0437\u043e\u0432",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278764160/square.jpg",
+                    "original_dimensions": {
+                        "height": 758,
+                        "width": 975
+                    },
+                    "flags": [],
+                    "attribution_name": "\u0410\u043b\u0435\u043a\u0441\u0435\u0439 \u0421\u0438\u0437\u043e\u0432",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278764160/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/278764160/medium.jpg"
+                },
+                "taxon_changes_count": 2,
+                "taxon_schemes_count": 2,
+                "observations_count": 90379,
+                "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 123626,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Cattle_egret",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Western Cattle-Egret"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 516943,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    7251,
+                    14841,
+                    14922,
+                    516943
+                ],
+                "is_active": true,
+                "name": "Lamprotornis unicolor",
+                "parent_id": 14922,
+                "ancestry": "48460/1/2/355675/3/7251/14841/14922",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 28422981,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) world_lineage, some rights reserved (CC BY-NC), uploaded by world_lineage",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28422981/square.jpg",
+                    "original_dimensions": {
+                        "height": 1365,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "world_lineage",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28422981/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/28422981/medium.jpg"
+                },
+                "taxon_changes_count": 2,
+                "taxon_schemes_count": 2,
+                "observations_count": 438,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Ashy_starling",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Ashy Starling"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 1210966,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 40151,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    40151,
+                    848317,
+                    848320,
+                    848324,
+                    41573,
+                    42043,
+                    1210963,
+                    1210966
+                ],
+                "is_active": true,
+                "name": "Lupulella mesomelas",
+                "parent_id": 1210963,
+                "ancestry": "48460/1/2/355675/40151/848317/848320/848324/41573/42043/1210963",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 477185480,
+                    "license_code": "cc-by-sa",
+                    "attribution": "(c) Bernard DUPONT, some rights reserved (CC BY-SA)",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477185480/square.jpg",
+                    "original_dimensions": {
+                        "height": 1365,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Bernard DUPONT",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477185480/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/477185480/medium.jpg"
+                },
+                "taxon_changes_count": 1,
+                "taxon_schemes_count": 0,
+                "observations_count": 7143,
+                "flag_counts": {
+                    "resolved": 1,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 30905,
+                "complete_species_count": null,
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Black-backed_jackal",
+                "iconic_taxon_name": "Mammalia",
+                "preferred_common_name": "Black-backed Jackal"
+            }
+        },
+        {
+            "count": 1,
+            "taxon": {
+                "id": 1441745,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    19350,
+                    19728,
+                    20338,
+                    1441745
+                ],
+                "is_active": true,
+                "name": "Ketupa lactea",
+                "parent_id": 20338,
+                "ancestry": "48460/1/2/355675/3/19350/19728/20338",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 1865389,
+                    "license_code": "cc-by-nc-sa",
+                    "attribution": "(c) Yvonne A. de Jong, some rights reserved (CC BY-NC-SA), uploaded by Yvonne A. de Jong",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1865389/square.jpg",
+                    "original_dimensions": {
+                        "height": 667,
+                        "width": 1000
+                    },
+                    "flags": [],
+                    "attribution_name": "Yvonne A. de Jong",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1865389/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1865389/medium.jpg"
+                },
+                "taxon_changes_count": 1,
+                "taxon_schemes_count": 0,
+                "observations_count": 1852,
+                "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 69704,
+                "complete_species_count": null,
+                "wikipedia_url": "https://en.wikipedia.org/wiki/Verreaux's_eagle-owl",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "Verreaux's Eagle-Owl"
+            }
+        }
+    ]
+}

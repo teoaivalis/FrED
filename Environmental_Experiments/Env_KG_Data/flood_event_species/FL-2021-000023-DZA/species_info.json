@@ -1,0 +1,61 @@
+{
+    "total_results": 1,
+    "page": 1,
+    "per_page": 500,
+    "results": [
+        {
+            "count": 1,
+            "taxon": {
+                "id": 9398,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 3,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    2,
+                    355675,
+                    3,
+                    7251,
+                    9079,
+                    9358,
+                    9398
+                ],
+                "is_active": true,
+                "name": "Carduelis carduelis",
+                "parent_id": 9358,
+                "ancestry": "48460/1/2/355675/3/7251/9079/9358",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 61457230,
+                    "license_code": null,
+                    "attribution": "(c) Paul, all rights reserved, uploaded by Paul",
+                    "url": "https://static.inaturalist.org/photos/61457230/square.jpg",
+                    "original_dimensions": {
+                        "height": 1173,
+                        "width": 1600
+                    },
+                    "flags": [],
+                    "attribution_name": "Paul",
+                    "square_url": "https://static.inaturalist.org/photos/61457230/square.jpg",
+                    "medium_url": "https://static.inaturalist.org/photos/61457230/medium.jpg"
+                },
+                "taxon_changes_count": 2,
+                "taxon_schemes_count": 8,
+                "observations_count": 113400,
+                "flag_counts": {
+                    "resolved": 2,
+                    "unresolved": 1
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": 123140,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/European_goldfinch",
+                "complete_rank": "subspecies",
+                "iconic_taxon_name": "Aves",
+                "preferred_common_name": "European Goldfinch"
+            }
+        }
+    ]
+}

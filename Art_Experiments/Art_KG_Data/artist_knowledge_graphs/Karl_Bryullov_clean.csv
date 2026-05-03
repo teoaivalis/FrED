@@ -1,0 +1,246 @@
+subject,predicate,object
+Karl_Bryullov,type,owl#Thing
+Karl_Bryullov,type,Person
+Karl_Bryullov,type,Person
+Karl_Bryullov,type,Person
+Karl_Bryullov,type,DUL.owl#NaturalPerson
+Karl_Bryullov,type,Q19088
+Karl_Bryullov,type,Q215627
+Karl_Bryullov,type,Q483501
+Karl_Bryullov,type,Q5
+Karl_Bryullov,type,Q729
+Karl_Bryullov,type,Animal
+Karl_Bryullov,type,Animal
+Karl_Bryullov,type,Artist
+Karl_Bryullov,type,Artist
+Karl_Bryullov,type,Artist
+Karl_Bryullov,type,Eukaryote
+Karl_Bryullov,type,Eukaryote
+Karl_Bryullov,type,Species
+Karl_Bryullov,type,Species
+Karl_Bryullov,type,Person
+Karl_Bryullov,sameAs,76488284
+Karl_Bryullov,sameAs,m.04mrdf
+Karl_Bryullov,sameAs,119521482
+Karl_Bryullov,sameAs,Karl_Bryullov
+Karl_Bryullov,sameAs,Q4768
+Karl_Bryullov,sameAs,Karl_Pawlowitsch_Brjullow
+Karl_Bryullov,sameAs,Karl_Briulov
+Karl_Bryullov,sameAs,Karl_Pavlovič_Brjullov
+Karl_Bryullov,sameAs,Karl_Brjoellov
+Karl_Bryullov,sameAs,Karł_Briułłow
+Karl_Bryullov,sameAs,Karl_Bryullov
+Karl_Bryullov,sameAs,Karl_Brioullov
+Karl_Bryullov,sameAs,קארל_ברולוב
+Karl_Bryullov,sameAs,Karl_Pavlovics_Brjullov
+Karl_Bryullov,sameAs,カール・ブリューロフ
+Karl_Bryullov,sameAs,Karl_Pawlowitsch_Brjullow
+Karl_Bryullov,sameAs,"Брюллов,_Карл_Павлович"
+Karl_Bryullov,sameAs,卡尔·布留洛夫
+Karl_Bryullov,sameAs,Karl_Brjullov
+Karl_Bryullov,sameAs,Карл_Паўлавіч_Брулоў
+Karl_Bryullov,sameAs,Καρλ_Μπριουλόφ
+Karl_Bryullov,sameAs,Karl_Bryullov
+Karl_Bryullov,sameAs,카를_브률로프
+Karl_Bryullov,sameAs,Karl_Briul·lov
+Karl_Bryullov,sameAs,Karl_Brüllov
+Karl_Bryullov,sameAs,p10654831X
+Karl_Bryullov,sameAs,كارل_بريولوف
+Karl_Bryullov,sameAs,كارل_بريولوڤ
+Karl_Bryullov,sameAs,Karl_Brüllov
+Karl_Bryullov,sameAs,Карл_Брюлов
+Karl_Bryullov,sameAs,Karl_Brjullov
+Karl_Bryullov,sameAs,Karl_Brjulov
+Karl_Bryullov,sameAs,Karl_Bryullov
+Karl_Bryullov,sameAs,کارل_بریولوف
+Karl_Bryullov,sameAs,Karl_Brjullov
+Karl_Bryullov,sameAs,Կառլ_Բրյուլով
+Karl_Bryullov,sameAs,Karl_Briullov
+Karl_Bryullov,sameAs,კარლ_ბრიულოვი
+Karl_Bryullov,sameAs,Карл_Павлович_Брюллов
+Karl_Bryullov,sameAs,Карл_Брюллов
+Karl_Bryullov,sameAs,Carolus_Brjullov
+Karl_Bryullov,sameAs,Karlas_Briulovas
+Karl_Bryullov,sameAs,Kārlis_Brilovs
+Karl_Bryullov,sameAs,Karl_Brjullov
+Karl_Bryullov,sameAs,Karl_Brjullov
+Karl_Bryullov,sameAs,Karl_Brjulov
+Karl_Bryullov,sameAs,Karl_Pavlovič_Briullov
+Karl_Bryullov,sameAs,Karl_Brjullov
+Karl_Bryullov,sameAs,Карл_Брјулов
+Karl_Bryullov,sameAs,Карл_Бриуллов
+Karl_Bryullov,sameAs,Брюллов_Карл_Павлович
+Karl_Bryullov,sameAs,Karl_Bryullov
+Karl_Bryullov,sameAs,"Брюллов,_Карл_Павлович"
+Karl_Bryullov,sameAs,4QQhx
+Karl_Bryullov,name,Karl Bryullov
+Karl_Bryullov,label,Karl Bryullov
+Karl_Bryullov,label,Karl Briul·lov
+Karl_Bryullov,label,Karl Brjullov
+Karl_Bryullov,label,كارل بريولوف
+Karl_Bryullov,label,Καρλ Μπριουλόφ
+Karl_Bryullov,label,Karl Brjulov
+Karl_Bryullov,label,Karl Bryullov
+Karl_Bryullov,label,Karl Pawlowitsch Brjullow
+Karl_Bryullov,label,Karl Briulov
+Karl_Bryullov,label,Karl Bryullov
+Karl_Bryullov,label,Karl Brioullov
+Karl_Bryullov,label,Karl Pavlovič Brjullov
+Karl_Bryullov,label,カール・ブリューロフ
+Karl_Bryullov,label,카를 브률로프
+Karl_Bryullov,label,Karl Brjoellov
+Karl_Bryullov,label,Karl Pawlowitsch Brjullow
+Karl_Bryullov,label,Karł Briułłow
+Karl_Bryullov,label,"Брюллов, Карл Павлович"
+Karl_Bryullov,label,Karl Brjullov
+Karl_Bryullov,label,Брюллов Карл Павлович
+Karl_Bryullov,label,卡尔·布留洛夫
+Karl_Bryullov,deathPlace,Manziana
+Karl_Bryullov,deathPlace,"Manziana, Papal State"
+Karl_Bryullov,deathDate,1852-06-11
+Karl_Bryullov,birthPlace,Saint_Petersburg
+Karl_Bryullov,birthPlace,"St. Petersburg, Russian Empire"
+Karl_Bryullov,birthDate,1799-12-12
+Karl_Bryullov,subject,"Category:Burials_in_the_Protestant_Cemetery,_Rome"
+Karl_Bryullov,subject,Category:1799_births
+Karl_Bryullov,subject,Category:1852_deaths
+Karl_Bryullov,subject,Category:19th-century_painters_from_the_Russian_Empire
+Karl_Bryullov,subject,Category:Painters_from_Saint_Petersburg
+Karl_Bryullov,subject,Category:Russian_neoclassical_painters
+Karl_Bryullov,subject,Category:Russian_people_of_French_descent
+Karl_Bryullov,subject,Category:Russian_people_of_German_descent
+Karl_Bryullov,subject,Category:Russian_romantic_painters
+Karl_Bryullov,subject,Category:Russian_Orientalist_painters
+Karl_Bryullov,subject,Category:People_from_Sankt-Peterburgsky_Uyezd
+Karl_Bryullov,wikiPageWikiLink,Italy
+Karl_Bryullov,wikiPageWikiLink,Rome
+Karl_Bryullov,wikiPageWikiLink,Russia
+Karl_Bryullov,wikiPageWikiLink,"Category:Burials_in_the_Protestant_Cemetery,_Rome"
+Karl_Bryullov,wikiPageWikiLink,Alexander_Pushkin
+Karl_Bryullov,wikiPageWikiLink,Classicism
+Karl_Bryullov,wikiPageWikiLink,Leo_Tolstoy
+Karl_Bryullov,wikiPageWikiLink,Manziana
+Karl_Bryullov,wikiPageWikiLink,Neoclassicism
+Karl_Bryullov,wikiPageWikiLink,Painting
+Karl_Bryullov,wikiPageWikiLink,Peter_Paul_Rubens
+Karl_Bryullov,wikiPageWikiLink,Pushkin_Museum
+Karl_Bryullov,wikiPageWikiLink,Realism_(arts)
+Karl_Bryullov,wikiPageWikiLink,Romanticism
+Karl_Bryullov,wikiPageWikiLink,The_Last_Day_of_Pompeii
+Karl_Bryullov,wikiPageWikiLink,Madeira
+Karl_Bryullov,wikiPageWikiLink,Imperial_Academy_of_Arts
+Karl_Bryullov,wikiPageWikiLink,Ilya_Repin
+Karl_Bryullov,wikiPageWikiLink,Engraving
+Karl_Bryullov,wikiPageWikiLink,List_of_Russian_artists
+Karl_Bryullov,wikiPageWikiLink,Fortuneteller_Svetlana
+Karl_Bryullov,wikiPageWikiLink,Russian_Museum
+Karl_Bryullov,wikiPageWikiLink,Tretyakov_Gallery
+Karl_Bryullov,wikiPageWikiLink,Plafond
+Karl_Bryullov,wikiPageWikiLink,What_Is_Art%3F
+Karl_Bryullov,wikiPageWikiLink,Giovanni_Pacini
+Karl_Bryullov,wikiPageWikiLink,Alexander_Brullov
+Karl_Bryullov,wikiPageWikiLink,Kunsthalle_Kiel
+Karl_Bryullov,wikiPageWikiLink,Category:1799_births
+Karl_Bryullov,wikiPageWikiLink,Category:1852_deaths
+Karl_Bryullov,wikiPageWikiLink,Category:19th-century_painters_from_the_Russian_Empire
+Karl_Bryullov,wikiPageWikiLink,Category:Orientalist_painters
+Karl_Bryullov,wikiPageWikiLink,Category:Imperial_Academy_of_Arts_alumni
+Karl_Bryullov,wikiPageWikiLink,Category:Painters_from_Saint_Petersburg
+Karl_Bryullov,wikiPageWikiLink,Category:Russian_neoclassical_painters
+Karl_Bryullov,wikiPageWikiLink,Category:Russian_people_of_French_descent
+Karl_Bryullov,wikiPageWikiLink,Category:Russian_people_of_German_descent
+Karl_Bryullov,wikiPageWikiLink,Category:Russian_romantic_painters
+Karl_Bryullov,wikiPageWikiLink,Category:Awarded_with_a_large_gold_medal_of_the_Academy_of_Arts
+Karl_Bryullov,wikiPageWikiLink,Category:People_from_Sankt-Peterburgsky_Uyezd
+Karl_Bryullov,wikiPageWikiLink,Cimitero_Acattolico
+Karl_Bryullov,wikiPageWikiLink,St._Petersburg
+Karl_Bryullov,wikiPageWikiLink,Huguenot
+Karl_Bryullov,wikiPageWikiLink,Gogol
+Karl_Bryullov,wikiPageWikiLink,St_Isaac's_Cathedral
+Karl_Bryullov,wikiPageWikiLink,Van_Dyck
+Karl_Bryullov,wikiPageWikiLink,Wikisource:Why_Do_Men_Stupefy_Themselves%3F
+Karl_Bryullov,wikiPageExternalLink,doc.vphp%3Fid=466
+Karl_Bryullov,wikiPageExternalLink,01004180464%23%3Fpage=30
+Karl_Bryullov,wikiPageExternalLink,briullov.html
+Karl_Bryullov,wikiPageExternalLink,brullov.htm
+Karl_Bryullov,wikiPageExternalLink,brulloff2more.html
+Karl_Bryullov,description,"primeiro pintor russo a ganhar renome internacional, aquarelista, desenhista, representante da corrente do academismo"
+Karl_Bryullov,description,Rus ressam (1799-1852)
+Karl_Bryullov,description,Ruský maliar
+Karl_Bryullov,description,Russian painter (1799-1852)
+Karl_Bryullov,description,kunstschilder uit Keizerrijk Rusland (1799-1852)
+Karl_Bryullov,description,orosz romantikus festő
+Karl_Bryullov,description,peintre russe
+Karl_Bryullov,description,pintor ruso (1799-1852)
+Karl_Bryullov,description,pittore russo
+Karl_Bryullov,description,rosyjski malarz i architekt żyjący w XIX wieku
+Karl_Bryullov,description,ruský malíř
+Karl_Bryullov,description,russischer Maler und Architekt
+Karl_Bryullov,description,"русский художник, живописец, монументалист, акварелист, рисовальщик, представитель академизма"
+Karl_Bryullov,description,Ρώσος ζωγράφος
+Karl_Bryullov,description,російський художник
+Karl_Bryullov,description,руски сликар
+Karl_Bryullov,description,руски сликар
+Karl_Bryullov,description,نقاش روس
+Karl_Bryullov,description,रूसी चित्रकार
+Karl_Bryullov,description,"рускі мастак, жывапісец, манументаліст, акварэліст, малявальшчык, прадстаўнік акадэмізму"
+Karl_Bryullov,description,러시아의 화가
+Karl_Bryullov,name,Karl Bryullov
+Karl_Bryullov,depiction,Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg
+Karl_Bryullov,depiction,BrullovKP_OsadaPskovPolGTG.jpg
+Karl_Bryullov,depiction,1832._BRULLOV_VSADNICA1.jpg
+Karl_Bryullov,depiction,"Briullov,_Karl_-_A_Dream_of_a_Girl_Before_a_Sunrise.jpg"
+Karl_Bryullov,depiction,Brjullov.jpg
+Karl_Bryullov,depiction,Brjullov_Italianskij_Poldenj.jpg
+Karl_Bryullov,depiction,Brjullov_Italianskoe_Utro.jpg
+Karl_Bryullov,depiction,"Girl_gathering_grapes_in_the_vicinity_of_Naples_(1827),_by_Karl_Briullov.jpg"
+Karl_Bryullov,depiction,Ivan_Krylov.jpg
+Karl_Bryullov,depiction,Karl_Bryullov_(Bryullo)_-_Вирсавия_-_Google_Art_Project.jpg
+Karl_Bryullov,depiction,Portrait_of_Sophia_Shuvalova_(married_name_Bobrinskaya).jpg
+Karl_Bryullov,depiction,"Svetlana_at_fortune-telling_by_K.Brullov_(1836,_Nizhniy_Novgorod_museum).jpg"
+Karl_Bryullov,depiction,Yuliya_Samoylova.jpg
+Karl_Bryullov,depiction,Брюллов_Нарцисс.jpg
+Karl_Bryullov,depiction,Брюллов_Явление_Аврааму_трех_ангелов_у_дуба_Мамврийского.jpg
+Karl_Bryullov,knownFor,Painting and draughtsmanship
+Karl_Bryullov,birthName,Karl Pavlovich Bryullo
+Karl_Bryullov,movement,Romanticism
+Karl_Bryullov,notableWork,The_Last_Day_of_Pompeii
+Karl_Bryullov,restingPlace,Rome
+Karl_Bryullov,restingPlace,"Protestant_Cemetery,_Rome"
+Karl_Bryullov,thumbnail,Brjullov.jpg?width=300
+Karl_Bryullov,wikiPageUsesTemplate,Template:Cite_book
+Karl_Bryullov,wikiPageUsesTemplate,Template:Authority_control
+Karl_Bryullov,wikiPageUsesTemplate,Template:Birth_date
+Karl_Bryullov,wikiPageUsesTemplate,Template:Britannica
+Karl_Bryullov,wikiPageUsesTemplate,Template:Cite_web
+Karl_Bryullov,wikiPageUsesTemplate,Template:Death_date_and_age
+Karl_Bryullov,wikiPageUsesTemplate,Template:Efn
+Karl_Bryullov,wikiPageUsesTemplate,Template:Family_name_hatnote
+Karl_Bryullov,wikiPageUsesTemplate,Template:Imperial_Academy_of_Arts
+Karl_Bryullov,wikiPageUsesTemplate,Template:In_lang
+Karl_Bryullov,wikiPageUsesTemplate,Template:Infobox_artist
+Karl_Bryullov,wikiPageUsesTemplate,Template:Langx
+Karl_Bryullov,wikiPageUsesTemplate,Template:Ne
+Karl_Bryullov,wikiPageUsesTemplate,Template:Nobold
+Karl_Bryullov,wikiPageUsesTemplate,Template:Notelist
+Karl_Bryullov,wikiPageUsesTemplate,Template:OldStyleDate
+Karl_Bryullov,wikiPageUsesTemplate,Template:Reflist
+Karl_Bryullov,wikiPageUsesTemplate,Template:Romanticism
+Karl_Bryullov,wikiPageUsesTemplate,Template:Short_description
+Karl_Bryullov,wikiPageUsesTemplate,Template:Use_dmy_dates
+Karl_Bryullov,wikiPageUsesTemplate,Template:Webarchive
+Karl_Bryullov,wikiPageUsesTemplate,Template:Commons_category
+Karl_Bryullov,birthDate,1799-12-12
+Karl_Bryullov,deathDate,1852-06-11
+Karl_Bryullov,restingPlace,Rome
+Karl_Bryullov,restingPlace,"Protestant_Cemetery,_Rome"
+Karl_Bryullov,birthName,Karl Pavlovich Bryullo
+Karl_Bryullov,wasDerivedFrom,Karl_Bryullov?oldid=1306020835&ns=0
+Karl_Bryullov,works,"The Last Day of Pompeii, 1830–1833"
+Karl_Bryullov,caption,"Self-Portrait, 1848; Tretyakov Gallery, Moscow"
+Karl_Bryullov,date,2020-10-20
+Karl_Bryullov,url,brulloff2more.html
+Karl_Bryullov,movement,Romanticism
+Karl_Bryullov,hypernym,Painter
+Karl_Bryullov,isPrimaryTopicOf,Karl_Bryullov
+Karl_Bryullov,sameAs,76488284

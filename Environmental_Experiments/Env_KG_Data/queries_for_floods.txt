@@ -1,0 +1,185 @@
+🛠️ Part 1: The Transformation (Refactor Commands)
+These are the final, corrected scripts we used to move data from the "Triple Store" (Attribute nodes) into a "Property Graph" (Disaster node properties).
+
+1. Metric Migration (Integers)
+This converts impact statistics into numbers for mathematical analysis.
+
+MATCH (d:Disaster)
+OPTIONAL MATCH (d)-[r1:fatalitiesReported]->(a1:Attribute)
+SET d.fatalities = toInteger(a1.name)
+DELETE r1
+WITH d
+OPTIONAL MATCH (d)-[r2:displacedPeople]->(a2:Attribute)
+SET d.displacedPeople = toInteger(a2.name)
+DELETE r2
+WITH d
+OPTIONAL MATCH (d)-[r3:peopleAffected]->(a3:Attribute)
+SET d.peopleAffected = toInteger(a3.name)
+DELETE r3
+WITH d
+OPTIONAL MATCH (d)-[r4:housesCollapsed]->(a4:Attribute)
+SET d.housesCollapsed = toInteger(a4.name)
+DELETE r4;
+
+2. Environmental Feature Migration (OSM Data)
+This moves geospatial counts into the Disaster nodes.
+
+MATCH (d:Disaster)
+OPTIONAL MATCH (d)-[r1:hasWoods]->(a1:Attribute)
+SET d.woodsCount = toInteger(a1.name)
+DELETE r1
+WITH d
+OPTIONAL MATCH (d)-[r2:hasWaters]->(a2:Attribute)
+SET d.watersCount = toInteger(a2.name)
+DELETE r2;
+
+3. Boolean Flag Migration (Logic)
+This converts "true/false" strings into actual Boolean data types.
+
+MATCH (d:Disaster)
+OPTIONAL MATCH (d)-[r1:powerOutage]->(a1:Attribute)
+WITH d, r1, a1 WHERE r1 IS NOT NULL
+SET d.powerOutage = (toLower(a1.name) IN ["true", "1", "yes"])
+DELETE r1
+WITH d
+OPTIONAL MATCH (d)-[r2:waterSupplyCut]->(a2:Attribute)
+WITH d, r2, a2 WHERE r2 IS NOT NULL
+SET d.waterSupplyCut = (toLower(a2.name) IN ["true", "1", "yes"])
+DELETE r2;
+
+
+4. Semantic Cleaning (Case Sensitivity)
+This merges "Shelter" and "shelter" to ensure your statistics are accurate.
+
+MATCH (duplicate:Attribute {name: "Shelter"}), (master:Attribute {name: "shelter"})
+MATCH (d:Disaster)-[r:humanitarianNeeds]->(duplicate)
+MERGE (d)-[:humanitarianNeeds]->(master)
+DETACH DELETE duplicate;
+
+📊 Part 2: Knowledge Discovery Queries
+Use these queries to generate reports and visualizations for your research.
+
+1. Severity Ranking by Country
+Purpose: Identify which nations face the highest humanitarian burden.
+
+MATCH (d:Disaster)-[:hasCountry]->(c:Region)
+RETURN c.name AS Country, 
+       sum(d.fatalities) AS TotalFatalities, 
+       sum(d.displacedPeople) AS TotalDisplaced
+ORDER BY TotalFatalities DESC;
+
+2. The "Needs" Correlation Web (Visual)
+Purpose: Visualize which disasters share the same requirements, crossing international borders.
+
+MATCH (n:Attribute)<-[:humanitarianNeeds]-(d:Disaster)-[:hasCountry]->(r:Region)
+WHERE n.name IN ["shelter", "food", "water", "evacuation"]
+RETURN d, n, r LIMIT 100;
+
+3. Environmental Impact Analysis
+Purpose: See if "Wooded" areas or "Water" features correlate with higher displacement.
+
+MATCH (d:Disaster)
+WHERE d.woodsCount IS NOT NULL AND d.displacedPeople IS NOT NULL
+RETURN d.woodsCount AS ForestDensity, 
+       avg(d.displacedPeople) AS AvgDisplacement
+ORDER BY ForestDensity DESC;
+
+4. Infrastructure Vulnerability Check
+Purpose: Find events where power and water were lost, and see which countries they hit.
+
+MATCH (d:Disaster)-[:hasCountry]->(c:Region)
+WHERE d.powerOutage = true AND d.waterSupplyCut = true
+RETURN d.name, c.name, d.date
+ORDER BY d.date DESC;
+
+
+📝 Part 3: Knowledge Graph Architecture Summary
+For your documentation, you can describe the final architecture as follows:
+
+Disaster Nodes: Act as "Data Hubs" containing intrinsic properties (Date, Fatalities, Displacement, Geospatial Counts).
+
+Region Nodes: Act as "Geographic Anchors" to group events by territory.
+
+Attribute Nodes: Act as "Semantic Bridges" for non-numeric concepts like humanitarianNeeds or weatherCause, allowing the graph to link disparate events through shared context.
+
+Edges: Represent the relationship between an event and its geography (hasCountry) or its specific needs (humanitarianNeeds).
+
+
+
+// Run this repeatedly until "Properties Set" is 0
+MATCH (d:Disaster)-[rLat:hasLatitude]->(alat:Attribute)
+WITH d, rLat, alat LIMIT 500
+SET d.latitude = toFloat(alat.name)
+DELETE rLat
+RETURN count(*) AS BatchProcessed;
+
+
+MATCH (d:Disaster)-[rLat:hasLatitude]->(alat:Attribute)
+WITH d, rLat, alat LIMIT 1000
+SET d.latitude = toFloat(alat.name)
+DELETE rLat;
+
+MATCH (d:Disaster)-[rLon:hasLongitude]->(alon:Attribute)
+WITH d, rLon, alon LIMIT 1000
+SET d.longitude = toFloat(alon.name)
+DELETE rLon;
+
+
+// Repeat for each feature: Springs, Grasslands, Wetlands, Scrubs, Trees
+MATCH (d:Disaster)-[:hasCountry]->(r:Region), (d)-[re:hasSprings]->(a:Attribute)
+WITH r, re, a LIMIT 1000
+SET r.springsCount = toInteger(a.name)
+DELETE re;
+
+
+
+MATCH (d:Disaster)-[r:hasLongitude]->(a:Attribute)
+WITH d, r, a LIMIT 1000
+SET d.longitude = toFloat(a.name)
+DELETE r;
+
+MATCH (d:Disaster)-[r:hasLatitude]->(a:Attribute)
+WITH d, r, a LIMIT 1000
+SET d.latitude = toFloat(a.name)
+DELETE r;
+
+
+MATCH (d:Disaster)-[:hasCountry]->(r:Region), (d)-[re:hasSprings]->(a:Attribute)
+WITH r, re, a LIMIT 1000
+SET r.springsCount = toInteger(a.name)
+DELETE re;
+
+// Repeat this logic for Trees/Wetlands if you want them moved to Region
+MATCH (d:Disaster)-[:hasCountry]->(r:Region), (d)-[re:hasTrees]->(a:Attribute)
+WITH r, re, a LIMIT 1000
+SET r.treesCount = toInteger(a.name)
+DELETE re;
+
+
+MATCH (d:Disaster)-[r:hasISO3]->(a:Attribute)
+WITH d, r, a LIMIT 1000
+SET d.iso3 = a.name
+DELETE r;
+
+MATCH (d:Disaster)-[r:hasStatus]->(a:Attribute)
+WITH d, r, a LIMIT 1000
+SET d.status = a.name
+DELETE r;
+
+
+MATCH (d:Disaster)-[:hasCountry]->(r:Region)
+WHERE d.latitude IS NOT NULL AND d.longitude IS NOT NULL
+  AND r.latitude IS NULL // Only target the ones still missing data
+WITH r, d LIMIT 1000
+SET r.latitude = d.latitude, 
+    r.longitude = d.longitude
+RETURN count(*) AS RegionsSynced;
+
+
+
+MATCH (d:Disaster)-[:hasCountry]->(r:Region), (d)-[re:hasTrees]->(a:Attribute)
+WITH r, re, a LIMIT 1000
+SET r.treesCount = toInteger(a.name)
+DELETE re;
+
+

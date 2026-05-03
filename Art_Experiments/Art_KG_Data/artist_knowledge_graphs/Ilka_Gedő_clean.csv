@@ -1,0 +1,225 @@
+subject,predicate,object
+Ilka_Gedő,type,owl#Thing
+Ilka_Gedő,type,Person
+Ilka_Gedő,type,Person
+Ilka_Gedő,type,Person
+Ilka_Gedő,type,DUL.owl#NaturalPerson
+Ilka_Gedő,type,Q19088
+Ilka_Gedő,type,Q215627
+Ilka_Gedő,type,Q483501
+Ilka_Gedő,type,Q5
+Ilka_Gedő,type,Q729
+Ilka_Gedő,type,Animal
+Ilka_Gedő,type,Animal
+Ilka_Gedő,type,Artist
+Ilka_Gedő,type,Artist
+Ilka_Gedő,type,Artist
+Ilka_Gedő,type,Eukaryote
+Ilka_Gedő,type,Eukaryote
+Ilka_Gedő,type,Species
+Ilka_Gedő,type,Species
+Ilka_Gedő,type,Person
+Ilka_Gedő,sameAs,m.0d8bbj
+Ilka_Gedő,sameAs,Q546182
+Ilka_Gedő,sameAs,Ilka_Gedő
+Ilka_Gedő,sameAs,Ilka_Gedő
+Ilka_Gedő,sameAs,Ilka_Gedő
+Ilka_Gedő,sameAs,Ilka_Gedő
+Ilka_Gedő,sameAs,Ilka_Gedő
+Ilka_Gedő,sameAs,Ilka_Gedő
+Ilka_Gedő,sameAs,Ilka_Gedő
+Ilka_Gedő,sameAs,אילקה_גדה
+Ilka_Gedő,sameAs,Gedő_Ilka
+Ilka_Gedő,sameAs,Ilka_Gedő
+Ilka_Gedő,sameAs,"Гедё,_Илка"
+Ilka_Gedő,sameAs,Ilka_Gedő
+Ilka_Gedő,sameAs,إلكا_غيدو
+Ilka_Gedő,sameAs,ايلكا_جيدو
+Ilka_Gedő,sameAs,Ilka_Gedő
+Ilka_Gedő,sameAs,Ilka_Gedő
+Ilka_Gedő,sameAs,4jJAS
+Ilka_Gedő,sameAs,119319926
+Ilka_Gedő,sameAs,3278052
+Ilka_Gedő,name,Ilka Gedő
+Ilka_Gedő,label,Ilka Gedő
+Ilka_Gedő,label,Ilka Gedő
+Ilka_Gedő,label,إلكا غيدو
+Ilka_Gedő,label,Ilka Gedő
+Ilka_Gedő,label,Ilka Gedő
+Ilka_Gedő,label,Ilka Gedő
+Ilka_Gedő,label,Ilka Gedő
+Ilka_Gedő,label,Ilka Gedő
+Ilka_Gedő,label,Ilka Gedő
+Ilka_Gedő,label,Ilka Gedő
+Ilka_Gedő,label,"Гедё, Илка"
+Ilka_Gedő,deathPlace,Budapest
+Ilka_Gedő,deathPlace,"Budapest, Hungary"
+Ilka_Gedő,deathDate,1985-06-19
+Ilka_Gedő,birthPlace,Budapest
+Ilka_Gedő,birthPlace,"Budapest, Hungary"
+Ilka_Gedő,birthDate,1921-06-26
+Ilka_Gedő,subject,Category:1985_deaths
+Ilka_Gedő,subject,Category:1921_births
+Ilka_Gedő,subject,Category:20th-century_Hungarian_painters
+Ilka_Gedő,subject,Category:Jewish_painters
+Ilka_Gedő,subject,Category:Expressionist_painters
+Ilka_Gedő,subject,Category:20th-century_Hungarian_women_painters
+Ilka_Gedő,subject,Category:Jewish_women_painters
+Ilka_Gedő,subject,Category:Artists_from_Budapest
+Ilka_Gedő,subject,Category:Jewish_Hungarian_painters
+Ilka_Gedő,wikiPageWikiLink,Budapest
+Ilka_Gedő,wikiPageWikiLink,Johannes_Itten
+Ilka_Gedő,wikiPageWikiLink,Expressionism
+Ilka_Gedő,wikiPageWikiLink,OMIKE
+Ilka_Gedő,wikiPageWikiLink,Theory_of_Colours
+Ilka_Gedő,wikiPageWikiLink,Endre_Bíró
+Ilka_Gedő,wikiPageWikiLink,Albert_Szent-Györgyi
+Ilka_Gedő,wikiPageWikiLink,Self-portrait
+Ilka_Gedő,wikiPageWikiLink,Budapest_Ghetto
+Ilka_Gedő,wikiPageWikiLink,Category:1985_deaths
+Ilka_Gedő,wikiPageWikiLink,Category:1921_births
+Ilka_Gedő,wikiPageWikiLink,Category:20th-century_Hungarian_painters
+Ilka_Gedő,wikiPageWikiLink,Category:Hungarian_Jews
+Ilka_Gedő,wikiPageWikiLink,Category:Jewish_painters
+Ilka_Gedő,wikiPageWikiLink,Category:Expressionist_painters
+Ilka_Gedő,wikiPageWikiLink,Category:Hungarian_women_painters
+Ilka_Gedő,wikiPageWikiLink,Category:20th-century_Hungarian_women_artists
+Ilka_Gedő,wikiPageWikiLink,Category:Artists_from_Budapest
+Ilka_Gedő,wikiPageWikiLink,Third_Eye_Centre
+Ilka_Gedő,wikiPageWikiLink,Modern_Art
+Ilka_Gedő,wikiPageWikiLink,File:Albertina04_Gedo_M44_015.jpg
+Ilka_Gedő,wikiPageWikiLink,File:Biro_My_Version_of_the_Story_Image_19.jpg
+Ilka_Gedő,wikiPageWikiLink,File:Gedo_Ilka_British_Museum_06.jpg
+Ilka_Gedő,wikiPageWikiLink,File:Ilka_Gedő_(around_1960).jpg
+Ilka_Gedő,wikiPageWikiLink,File:Ilka_Gedő_-_Jardin_des_Plantes.jpg
+Ilka_Gedő,wikiPageExternalLink,"collection%3Fsearch_data=%5B%7B%22logical_value%22:%22and%22,%22type_value%22:%22muvesznev%22,%22search_value%22:%22Ilka%20Gedo%22%7D,%7B%22logical_value%22:%22and%22,%22type_value%22:%22gyujtemeny%22,%22search_value%22:%22%22%7D%5D"
+Ilka_Gedő,wikiPageExternalLink,collection%3Fsearch_data=%5B%7B%22logical_value%22%3A%22and%22%2C%22type_value%22%3A%22muvesznev%22%2C%22search_value%22%3A%22Ilka%20Gedo%22%7D%2C%7B%22logical_value%22%3A%22and%22%2C%22type_value%22%3A%22gyujtemeny%22%2C%22search_value%22%3A%22%22%7D%5D
+Ilka_Gedő,wikiPageExternalLink,Category:Ilka_Ged%C5%91
+Ilka_Gedő,wikiPageExternalLink,07415
+Ilka_Gedő,wikiPageExternalLink,07416
+Ilka_Gedő,wikiPageExternalLink,07417
+Ilka_Gedő,wikiPageExternalLink,21304
+Ilka_Gedő,wikiPageExternalLink,21311
+Ilka_Gedő,wikiPageExternalLink,gedo-ilka
+Ilka_Gedő,wikiPageExternalLink,
+Ilka_Gedő,wikiPageExternalLink,search%3Fq=Ilka+Ged%C5%91
+Ilka_Gedő,wikiPageExternalLink,
+Ilka_Gedő,wikiPageExternalLink,sammlungenonline.albertina.at
+Ilka_Gedő,wikiPageExternalLink,www.ilkagedo.hu
+Ilka_Gedő,wikiPageExternalLink,132929
+Ilka_Gedő,wikiPageExternalLink,search_results.aspx%3FsearchText=Ilka+Gedo
+Ilka_Gedő,wikiPageExternalLink,search%3Fdeptids=9&ft=*%23!%3Fq=Ilka%20Gedo&sortBy=Relevance&sortOrder=asc&page=1
+Ilka_Gedő,wikiPageExternalLink,07416
+Ilka_Gedő,wikiPageExternalLink,
+Ilka_Gedő,wikiPageExternalLink,
+Ilka_Gedő,wikiPageExternalLink,
+Ilka_Gedő,wikiPageExternalLink,gedo.asp
+Ilka_Gedő,wikiPageExternalLink,search-collection%3Fkeyword=Ilka+Ged%C5%91&search_by=all&op=Search&title=Ilka+Ged%C5%91&field_brief_bio_value=Ilka+Ged%C5%91&title_person=Ilka+Ged%C5%91&field_description_value=Ilka+Ged%C5%91
+Ilka_Gedő,description,Ungari kunstnik
+Ilka_Gedő,description,ealaíontóir Ungárach
+Ilka_Gedő,description,হাঙ্গেরীয় শিল্পী
+Ilka_Gedő,description,نقاش اهل مجارستان
+Ilka_Gedő,description,artista hongaresa
+Ilka_Gedő,description,artista húngara
+Ilka_Gedő,description,artista húngara
+Ilka_Gedő,description,artiste hungareze
+Ilka_Gedő,description,artistă maghiară
+Ilka_Gedő,description,אמנית הונגרייה
+Ilka_Gedő,description,فنانة مجرية
+Ilka_Gedő,description,artiste hongroise
+Ilka_Gedő,description,Hongaars kunstschilderes (1921-1985)
+Ilka_Gedő,description,Hungarian artist (1921-1985)
+Ilka_Gedő,description,Macar sanatçı (1921-1985)
+Ilka_Gedő,description,"magyar festő, grafikus"
+Ilka_Gedő,description,pittrice e grafica ungherese
+Ilka_Gedő,description,ungarische Grafikerin und Malerin
+Ilka_Gedő,description,مصممه من المجر
+Ilka_Gedő,name,Ilka Gedő
+Ilka_Gedő,depiction,"001._CROSSES_ON_GRAVES,_1947,_Oil_on_paper,_32_x_25_cm..jpg"
+Ilka_Gedő,depiction,"002._GARDEN,_1947,_Oil_on_paper,_47_x_39_cm..jpg"
+Ilka_Gedő,depiction,"005._HOUSES_IN_SZENTENDRE,_1947,_Oil_on_paper,_53.5_x_38_cm..jpg"
+Ilka_Gedő,depiction,"015._THE_PAINTER_BÉLA_VESZELSZKY,_1968,_Oil_on_paper,_46_x_35_cm..jpg"
+Ilka_Gedő,depiction,"049._EVE_TAKES_FROM_THE_TREE_OF_KNOWLEDGE,_1971,_Oil_on_canvas,_32_x_29_cm..jpg"
+Ilka_Gedő,depiction,"062._PORTRAIT_OF_KLÁRI_HORVÁTH_I,_1971–72,_Oil_on_paper_laid_down_on_canvas,_60_x_48_cm..jpg"
+Ilka_Gedő,depiction,"063._PORTRAIT_OF_KLÁRI_HORVÁTH_II,_1971–72,_Oil_on_paper_laid_down_on_canvas,_61.5_x_47_cm..jpg"
+Ilka_Gedő,depiction,"073._RIBBED_ROSE_GARDEN,_BLUISH,_1973–74,_Oil_on_canvas,_40_x_65_cm..jpg"
+Ilka_Gedő,depiction,"079._ROSE_GARDEN_IN_THE_MORNING,_1974,_Oil_on_paper,_46_x_52_cm..jpg"
+Ilka_Gedő,depiction,"084._ARTIFICIAL_FLOWER_WITH_A_PINK_BACKGROUND,_1974,_Oil_on_paper_laid_down_on_canvas,_28_x_54_cm..jpg"
+Ilka_Gedő,depiction,"086._ARTIFICIAL_FLOWER_WITH_INSCRIPTION,_1974–75,_Oil_on_canvas,_51.5_x_88_cm..jpg"
+Ilka_Gedő,depiction,"089._ROSE_GARDEN_WITH_WINDOW_I,_1975,_Oil_on_canvas,_71_x_66_cm..jpg"
+Ilka_Gedő,depiction,"095._ROSE_GARDEN_WITH_A_YELLOW_BACKGROUND,_1975–76,_Oil_on_canvas,_56.5_x_60_cm..jpg"
+Ilka_Gedő,depiction,"104._EQUILIBRISTS,_CIRCUS,_1977,_Oil_on_canvas,_64_x_42_cm..jpg"
+Ilka_Gedő,depiction,"107._ARTFICIAL_FLOWER_“WITH_FLYPAPER”_II,_1978,_Oil_on_wooden_board,_61_x_61_cm..jpg"
+Ilka_Gedő,depiction,"109._ROSE_GARDEN_WITH_WINDOW_II,_1978,_Oil_on_canvas,_54_x_51_cm..jpg"
+Ilka_Gedő,depiction,"116._ARTIFICIAL_FLOWER_ON_A_NAPLES_YELLOW_BACKGROUND,_1978-1980,_Oil_on_paper_laid_down_on_wooden_board,_45_x_46_cm..jpg"
+Ilka_Gedő,depiction,"119._DEJECTED_ANGEL,_1979,_Oil_on_cardboard,_46_x_49.5_cm..jpg"
+Ilka_Gedő,depiction,"130._PICTURE_WITH_INSCRIPTION,_1981,_Oil_on_photographic_paper_laid_down_on_canvas,_51_x_66_cm..jpg"
+Ilka_Gedő,depiction,"133._ROSE_GARDEN_WITH_A_GREEN_BACKGROUND,_1981,_Oil_on_canvas,_72_x_50_cm..jpg"
+Ilka_Gedő,depiction,"136._MAN_AND_WOMAN_(KIDNAP),_1982,_Oil_on_canvas,_80_x_66_cm..jpg"
+Ilka_Gedő,depiction,"137._SELF-PORTRAIT_WITH_A_HAT,_1983,_Oil_on_photographic_paper_laid_down_on_canvas,_60_x_48_cm..jpg"
+Ilka_Gedő,depiction,"143._SELF-PORTRAIT_WITH_A_STRAWHAT,_1984,_Oil_on_photographic_paper_laid_down_on_canvas,_60_x_48.5_cm..jpg"
+Ilka_Gedő,depiction,"146._THE_BUTTERFLY,_1984–85,_Oil_on_canvas,_40_x_69_cm..jpg"
+Ilka_Gedő,depiction,Albertina01_Gedo_M44_001.jpg
+Ilka_Gedő,depiction,Albertina04_Gedo_M44_015.jpg
+Ilka_Gedő,depiction,Biro_My_Version_of_the_Story_Image_29.jpg
+Ilka_Gedő,depiction,Gedo_HAUM_Braunschweig_16_M49_004.jpg
+Ilka_Gedő,depiction,Gedo_HAUM_Braunschweig_18_M37_012.jpg
+Ilka_Gedő,depiction,Gedo_HAUM_Braunschweig_20_M37_041.jpg
+Ilka_Gedő,depiction,Gedo_Ilka_British_Museum_06.jpg
+Ilka_Gedő,depiction,Gedo_Ilka_British_Museum_13.jpg
+Ilka_Gedő,depiction,Gedo_M10_031.jpg
+Ilka_Gedő,depiction,Gedo_Yad_Vashem_Art_Museum_64.jpg
+Ilka_Gedő,depiction,Ilka_Gedő_(around_1960).jpg
+Ilka_Gedő,depiction,Ilka_Gedő_-_Artificial_Flower_with_Daggers.jpg
+Ilka_Gedő,depiction,Ilka_Gedő_-_Domed_Rose_Garden.jpg
+Ilka_Gedő,depiction,Ilka_Gedő_-_Jardin_des_Plantes.jpg
+Ilka_Gedő,depiction,Ilka_Gedő_-_Mask_Store.jpg
+Ilka_Gedő,depiction,Ilka_Gedő_-_Monster_and_Boy.jpg
+Ilka_Gedő,depiction,Ilka_Gedő_-_Rose_Garden_with_a_Triangular_Window.jpg
+Ilka_Gedő,depiction,Ilka_Gedő_-_The_March_of_Triangles.jpg
+Ilka_Gedő,depiction,Ilka_Gedő_-_Turreted_Rose_Garden.jpg
+Ilka_Gedő,depiction,Ilka_Gedő_-_Witches_in_Preparation.jpg
+Ilka_Gedő,depiction,"Ilka_Gedő_Ganz_Factory,_1949,_pastel,_thick_cardboard,_500_x_327_mm.jpg"
+Ilka_Gedő,depiction,"Ilka_Gedő_Selbstporträt_aus_dem_Budapester_Ghetto,_1944.jpg"
+Ilka_Gedő,depiction,"Ilka_Gedő_Wistful_Self-Portrait,_1946-1947,_pencil,_paper,_156_x_97_mm.jpg"
+Ilka_Gedő,depiction,Ilka_Gedő_in_her_studio.jpg
+Ilka_Gedő,depiction,MNG_Gedo_lista_03.jpg
+Ilka_Gedő,depiction,MNG_Gedo_lista_04_album_31.jpg
+Ilka_Gedő,depiction,MNG_Gedo_lista_24_album_51.jpg
+Ilka_Gedő,depiction,Shepherd_Gallery_NY_Gedo_Exhib_cover.jpg
+Ilka_Gedő,depiction,92_10_161x157cm.jpg
+Ilka_Gedő,depiction,Ilka_Gedő_-_Double_Self-Portrait.jpg
+Ilka_Gedő,birthName,Gedő Ilka
+Ilka_Gedő,movement,Expressionism
+Ilka_Gedő,movement,Modern_art
+Ilka_Gedő,spouse,Endre_Bíró
+Ilka_Gedő,thumbnail,Ilka_Gedő_-_Double_Self-Portrait.jpg?width=300
+Ilka_Gedő,training,Budapest
+Ilka_Gedő,wikiPageUsesTemplate,Template:Authority_control
+Ilka_Gedő,wikiPageUsesTemplate,Template:Birth_date
+Ilka_Gedő,wikiPageUsesTemplate,Template:Death_date_and_age
+Ilka_Gedő,wikiPageUsesTemplate,Template:Infobox_artist
+Ilka_Gedő,wikiPageUsesTemplate,Template:Reflist
+Ilka_Gedő,wikiPageUsesTemplate,Template:Short_description
+Ilka_Gedő,wikiPageUsesTemplate,Template:Spaced_ndash
+Ilka_Gedő,wikiPageUsesTemplate,Template:Webarchive
+Ilka_Gedő,birthDate,1921-06-26
+Ilka_Gedő,deathDate,1985-06-19
+Ilka_Gedő,spouse,Endre_Bíró
+Ilka_Gedő,nationality,Hungarian
+Ilka_Gedő,birthName,Gedő Ilka
+Ilka_Gedő,wasDerivedFrom,Ilka_Gedő?oldid=1306643524&ns=0
+Ilka_Gedő,field,"Painting, drawing"
+Ilka_Gedő,works,"approximately 3,500 drawings and 152 paintings"
+Ilka_Gedő,caption,"Double Self-Portrait, 1985, Oil on photographic paper laid down on canvas, 58 x 42 cm"
+Ilka_Gedő,date,2012-10-14
+Ilka_Gedő,date,2016-06-10
+Ilka_Gedő,date,2022-12-23
+Ilka_Gedő,url,gedo.asp
+Ilka_Gedő,url,"collection%3Fsearch_data=%5B%7B%22logical_value%22:%22and%22,%22type_value%22:%22muvesznev%22,%22search_value%22:%22Ilka%20Gedo%22%7D,%7B%22logical_value%22:%22and%22,%22type_value%22:%22gyujtemeny%22,%22search_value%22:%22%22%7D%5D"
+Ilka_Gedő,url,
+Ilka_Gedő,movement,Expressionism
+Ilka_Gedő,movement,Modern_art
+Ilka_Gedő,training,"Self-taught, private schools Budapest"
+Ilka_Gedő,hypernym,Painter
+Ilka_Gedő,isPrimaryTopicOf,Ilka_Gedő

@@ -1,0 +1,67 @@
+{
+    "total_results": 1,
+    "page": 1,
+    "per_page": 500,
+    "results": [
+        {
+            "count": 1,
+            "taxon": {
+                "id": 304995,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 47158,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    47120,
+                    372739,
+                    47158,
+                    184884,
+                    47208,
+                    71130,
+                    372852,
+                    60473,
+                    48736,
+                    367389,
+                    508027,
+                    1100881,
+                    130307,
+                    304995
+                ],
+                "is_active": true,
+                "name": "Rhynchophorus phoenicis",
+                "parent_id": 130307,
+                "ancestry": "48460/1/47120/372739/47158/184884/47208/71130/372852/60473/48736/367389/508027/1100881/130307",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 31040071,
+                    "license_code": "cc-by",
+                    "attribution": "(c) Robert Taylor, some rights reserved (CC BY), uploaded by Robert Taylor",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31040071/square.jpeg",
+                    "original_dimensions": {
+                        "height": 1348,
+                        "width": 2048
+                    },
+                    "flags": [],
+                    "attribution_name": "Robert Taylor",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31040071/square.jpeg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/31040071/medium.jpeg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 2,
+                "observations_count": 46,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": "http://en.wikipedia.org/wiki/Rhynchophorus_phoenicis",
+                "iconic_taxon_name": "Insecta",
+                "preferred_common_name": "African Palm Weevil"
+            }
+        }
+    ]
+}

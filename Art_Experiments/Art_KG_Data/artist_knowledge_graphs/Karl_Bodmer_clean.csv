@@ -1,0 +1,195 @@
+subject,predicate,object
+Karl_Bodmer,type,owl#Thing
+Karl_Bodmer,type,Person
+Karl_Bodmer,type,Person
+Karl_Bodmer,type,Person
+Karl_Bodmer,type,DUL.owl#NaturalPerson
+Karl_Bodmer,type,Q19088
+Karl_Bodmer,type,Q215627
+Karl_Bodmer,type,Q483501
+Karl_Bodmer,type,Q5
+Karl_Bodmer,type,Q729
+Karl_Bodmer,type,Animal
+Karl_Bodmer,type,Animal
+Karl_Bodmer,type,Artist
+Karl_Bodmer,type,Artist
+Karl_Bodmer,type,Artist
+Karl_Bodmer,type,Eukaryote
+Karl_Bodmer,type,Eukaryote
+Karl_Bodmer,type,Species
+Karl_Bodmer,type,Species
+Karl_Bodmer,type,Person
+Karl_Bodmer,sameAs,m.01b_mr
+Karl_Bodmer,sameAs,71387631
+Karl_Bodmer,sameAs,118512323
+Karl_Bodmer,sameAs,Karl_Bodmer
+Karl_Bodmer,sameAs,Q124099
+Karl_Bodmer,sameAs,Karl_Bodmer
+Karl_Bodmer,sameAs,Karl_Bodmer
+Karl_Bodmer,sameAs,Karl_Bodmer
+Karl_Bodmer,sameAs,Karl_Bodmer
+Karl_Bodmer,sameAs,Karl_Bodmer
+Karl_Bodmer,sameAs,Karl_Bodmer
+Karl_Bodmer,sameAs,カール・ボドマー
+Karl_Bodmer,sameAs,"Бодмер,_Карл"
+Karl_Bodmer,sameAs,Karl_Bodmer
+Karl_Bodmer,sameAs,p07148910X
+Karl_Bodmer,sameAs,كارل_بودمير
+Karl_Bodmer,sameAs,Karl_Bodmer
+Karl_Bodmer,sameAs,Karl_Bodmer
+Karl_Bodmer,sameAs,Karl_Bodmer
+Karl_Bodmer,sameAs,Карл_Бодмер
+Karl_Bodmer,sameAs,HAZX
+Karl_Bodmer,name,Karl Bodmer
+Karl_Bodmer,label,Karl Bodmer
+Karl_Bodmer,label,Karl Bodmer
+Karl_Bodmer,label,Karl Bodmer
+Karl_Bodmer,label,Karl Bodmer
+Karl_Bodmer,label,Karl Bodmer
+Karl_Bodmer,label,Karl Bodmer
+Karl_Bodmer,label,カール・ボドマー
+Karl_Bodmer,label,Karl Bodmer
+Karl_Bodmer,label,"Бодмер, Карл"
+Karl_Bodmer,label,Karl Bodmer
+Karl_Bodmer,label,Карл Бодмер
+Karl_Bodmer,fa,y
+Karl_Bodmer,deathPlace,Paris
+Karl_Bodmer,deathPlace,"Paris, France"
+Karl_Bodmer,deathDate,1893-10-30
+Karl_Bodmer,birthPlace,Switzerland
+Karl_Bodmer,birthPlace,Zurich
+Karl_Bodmer,birthPlace,"Zürich, Switzerland"
+Karl_Bodmer,birthDate,1809-02-11
+Karl_Bodmer,subject,Category:Artists_of_the_American_West
+Karl_Bodmer,subject,Category:1809_births
+Karl_Bodmer,subject,Category:1893_deaths
+Karl_Bodmer,subject,Category:Swiss_emigrants_to_France
+Karl_Bodmer,subject,Category:Swiss_expatriates_in_Germany
+Karl_Bodmer,subject,Category:Swiss_expatriates_in_the_United_States
+Karl_Bodmer,subject,Category:19th-century_Swiss_male_artists
+Karl_Bodmer,subject,Category:Native_Americans_in_art
+Karl_Bodmer,subject,Category:Artists_from_Zurich
+Karl_Bodmer,wikiPageWikiLink,Aquatint
+Karl_Bodmer,wikiPageWikiLink,Keelboat
+Karl_Bodmer,wikiPageWikiLink,Claude_Monet
+Karl_Bodmer,wikiPageWikiLink,Paris
+Karl_Bodmer,wikiPageWikiLink,Pittsburgh
+Karl_Bodmer,wikiPageWikiLink,Rhine
+Karl_Bodmer,wikiPageWikiLink,Zurich
+Karl_Bodmer,wikiPageWikiLink,Indigenous_peoples_of_the_Americas
+Karl_Bodmer,wikiPageWikiLink,Koblenz
+Karl_Bodmer,wikiPageWikiLink,Legion_of_Honour
+Karl_Bodmer,wikiPageWikiLink,Missouri_River
+Karl_Bodmer,wikiPageWikiLink,New_Orleans
+Karl_Bodmer,wikiPageWikiLink,"Omaha,_Nebraska"
+Karl_Bodmer,wikiPageWikiLink,Fort_Clark_Trading_Post_State_Historic_Site
+Karl_Bodmer,wikiPageWikiLink,Cholera
+Karl_Bodmer,wikiPageWikiLink,Fontainebleau
+Karl_Bodmer,wikiPageWikiLink,Woodburytype
+Karl_Bodmer,wikiPageWikiLink,Mato-tope
+Karl_Bodmer,wikiPageWikiLink,Hidatsa
+Karl_Bodmer,wikiPageWikiLink,Mandan
+Karl_Bodmer,wikiPageWikiLink,Epidemic
+Karl_Bodmer,wikiPageWikiLink,Printmaker
+Karl_Bodmer,wikiPageWikiLink,Lahn
+Karl_Bodmer,wikiPageWikiLink,Barbizon
+Karl_Bodmer,wikiPageWikiLink,Barbizon_School
+Karl_Bodmer,wikiPageWikiLink,"New_Harmony,_Indiana"
+Karl_Bodmer,wikiPageWikiLink,Thomas_Say
+Karl_Bodmer,wikiPageWikiLink,Henry_Fuseli
+Karl_Bodmer,wikiPageWikiLink,Joslyn_Art_Museum
+Karl_Bodmer,wikiPageWikiLink,Philip_Gilbert_Hamerton
+Karl_Bodmer,wikiPageWikiLink,Prince_Maximilian_of_Wied-Neuwied
+Karl_Bodmer,wikiPageWikiLink,"Fort_Benton,_Montana"
+Karl_Bodmer,wikiPageWikiLink,Category:Artists_of_the_American_West
+Karl_Bodmer,wikiPageWikiLink,John_C._Ewers
+Karl_Bodmer,wikiPageWikiLink,Category:1809_births
+Karl_Bodmer,wikiPageWikiLink,Category:1893_deaths
+Karl_Bodmer,wikiPageWikiLink,Category:19th-century_Swiss_painters
+Karl_Bodmer,wikiPageWikiLink,Category:Swiss_expatriates_in_the_United_States
+Karl_Bodmer,wikiPageWikiLink,Category:People_from_Zürich
+Karl_Bodmer,wikiPageWikiLink,Category:Swiss_male_painters
+Karl_Bodmer,wikiPageWikiLink,Category:19th-century_Swiss_male_artists
+Karl_Bodmer,wikiPageWikiLink,Category:Native_Americans_in_art
+Karl_Bodmer,wikiPageWikiLink,"Boston,_Massachusetts"
+Karl_Bodmer,wikiPageWikiLink,Draftsman
+Karl_Bodmer,wikiPageWikiLink,Lithographer
+Karl_Bodmer,wikiPageWikiLink,Moselle_(river)
+Karl_Bodmer,wikiPageWikiLink,"St._Louis,_Missouri"
+Karl_Bodmer,wikiPageWikiLink,"Zurich,_Switzerland"
+Karl_Bodmer,wikiPageWikiLink,Etcher
+Karl_Bodmer,wikiPageWikiLink,Charles-Alexandre_Lesueur
+Karl_Bodmer,wikiPageWikiLink,"Mt._Vernon,_Indiana"
+Karl_Bodmer,wikiPageWikiLink,North_America_Native_Museum
+Karl_Bodmer,wikiPageWikiLink,Henri_Beraldi
+Karl_Bodmer,wikiPageWikiLink,Maximilian_zu_Wied-Neuwied
+Karl_Bodmer,wikiPageWikiLink,File:Karl_Bodmer_Travels_in_America_(43).jpg
+Karl_Bodmer,wikiPageWikiLink,File:A_Stop;_Evening_Bivouac_by_Karl_Bodmer_1833.jpg
+Karl_Bodmer,wikiPageWikiLink,File:Karl_Bodmer_-_Scalp_Dance_of_the_Minitarres_-_Google_Art_Project.jpg
+Karl_Bodmer,wikiPageWikiLink,File:Map_to_illustrate_the_Route_of_Prince_Maximilian_of_Wied_in_the_interior_of_North_America_1832-1834.jpg
+Karl_Bodmer,wikiPageExternalLink,sketchbook.php%3Fvol=4&owner=0&vl=26&isKiosk=&vo=0&vl=26
+Karl_Bodmer,wikiPageExternalLink,index.html
+Karl_Bodmer,wikiPageExternalLink,main.php%3Fg2_itemId=30172
+Karl_Bodmer,wikiPageExternalLink,Karl_Bodmer.htm
+Karl_Bodmer,wikiPageExternalLink,Wied.html
+Karl_Bodmer,wikiPageExternalLink,Bodmer
+Karl_Bodmer,wikiPageExternalLink,Bodmer&CISOPTR=813&CISOSHOW=447&REC=1
+Karl_Bodmer,wikiPageExternalLink,bodmer.htm
+Karl_Bodmer,description,livour galleg
+Karl_Bodmer,description,ֆրանսիացի նկարիչ
+Karl_Bodmer,description,pittore svizzero
+Karl_Bodmer,description,스위스 화가
+Karl_Bodmer,description,"peintre, dessinateur, graveur et photographe franco-suisse (1809-1893)"
+Karl_Bodmer,description,"Schweizer Maler, Künstler des Wilden Westens, später französischer Maler der Schule von Barbizon"
+Karl_Bodmer,description,Swiss-French artist
+Karl_Bodmer,description,kunstschilder uit Zwitserland (1809-1893)
+Karl_Bodmer,description,szwajcarski malarz
+Karl_Bodmer,description,İsviçreli ressam (1809-1893)
+Karl_Bodmer,name,Karl Bodmer
+Karl_Bodmer,depiction,Map_to_illustrate_the_Route_of_Prince_Maximilian_of_Wied_in_the_interior_of_North_America_1832-1834.jpg
+Karl_Bodmer,depiction,A_Mandan_chief_0046v.jpg
+Karl_Bodmer,depiction,A_Stop;_Evening_Bivouac_by_Karl_Bodmer_1833.jpg
+Karl_Bodmer,depiction,Guerrier_dacota.jpg
+Karl_Bodmer,depiction,Karl_Bodmer_-_Horse_Racing_of_the_Sioux_(Source).jpg
+Karl_Bodmer,depiction,Karl_Bodmer_-_Scalp_Dance_of_the_Minitarres_-_Google_Art_Project.jpg
+Karl_Bodmer,depiction,Karl_Bodmer_Magic_Pile_of_Assinboin_Indians.jpg
+Karl_Bodmer,depiction,Karl_Bodmer_Travels_in_America_(3).jpg
+Karl_Bodmer,depiction,Karl_Bodmer_Travels_in_America_(38).jpg
+Karl_Bodmer,depiction,Moenitarri_warrior_in_the_costume_of_the_dog_danse_0056v.jpg
+Karl_Bodmer,depiction,Photograph_of_Karl_Bodmer_(1877).jpg
+Karl_Bodmer,depiction,Tableau_24_Abdih_-_Hiddisch_by_Karl_Bodmer.jpg
+Karl_Bodmer,depiction,Karl_Bodmer_Travels_in_America_(43).jpg
+Karl_Bodmer,birthName,Karl Bodmer
+Karl_Bodmer,nationality,France
+Karl_Bodmer,nationality,Switzerland
+Karl_Bodmer,thumbnail,Photograph_of_Karl_Bodmer_(1877).jpg?width=300
+Karl_Bodmer,wikiPageUsesTemplate,Template:Authority_control
+Karl_Bodmer,wikiPageUsesTemplate,Template:Citation_needed
+Karl_Bodmer,wikiPageUsesTemplate,Template:Death_date_and_age
+Karl_Bodmer,wikiPageUsesTemplate,Template:Expand_language
+Karl_Bodmer,wikiPageUsesTemplate,Template:ISBN
+Karl_Bodmer,wikiPageUsesTemplate,Template:Infobox_artist
+Karl_Bodmer,wikiPageUsesTemplate,Template:More_footnotes_needed
+Karl_Bodmer,wikiPageUsesTemplate,Template:Reflist
+Karl_Bodmer,wikiPageUsesTemplate,Template:Short_description
+Karl_Bodmer,wikiPageUsesTemplate,Template:Webarchive
+Karl_Bodmer,wikiPageUsesTemplate,Template:Commons_category
+Karl_Bodmer,alt,60.0
+Karl_Bodmer,birthDate,1809-02-11
+Karl_Bodmer,deathDate,1893-10-30
+Karl_Bodmer,nationality,Swiss and French
+Karl_Bodmer,birthName,Karl Bodmer
+Karl_Bodmer,wasDerivedFrom,Karl_Bodmer?oldid=1306228186&ns=0
+Karl_Bodmer,wikiPageInterLanguageLink,Category:Paintings_by_Karl_Bodmer
+Karl_Bodmer,caption,Bodmer depicted in a Woodburytype portrait in 1877
+Karl_Bodmer,date,2014-10-26
+Karl_Bodmer,date,2020-09-21
+Karl_Bodmer,date,May 2025
+Karl_Bodmer,url,main.php%3Fg2_itemId=30172
+Karl_Bodmer,url,Karl_Bodmer.htm
+Karl_Bodmer,langcode,de
+Karl_Bodmer,topic,bio
+Karl_Bodmer,patrons,Prince_Maximilian_of_Wied-Neuwied
+Karl_Bodmer,hypernym,Printmaker
+Karl_Bodmer,isPrimaryTopicOf,Karl_Bodmer
+Karl_Bodmer,sameAs,71387631

@@ -1,0 +1,65 @@
+{
+    "total_results": 1,
+    "page": 1,
+    "per_page": 500,
+    "results": [
+        {
+            "count": 1,
+            "taxon": {
+                "id": 1031200,
+                "rank": "species",
+                "rank_level": 10,
+                "iconic_taxon_id": 47158,
+                "ancestor_ids": [
+                    48460,
+                    1,
+                    47120,
+                    372739,
+                    47158,
+                    184884,
+                    47208,
+                    71130,
+                    702480,
+                    48202,
+                    48201,
+                    125819,
+                    362585,
+                    120365,
+                    1031200
+                ],
+                "is_active": true,
+                "name": "Heliocopris pauliani",
+                "parent_id": 120365,
+                "ancestry": "48460/1/47120/372739/47158/184884/47208/71130/702480/48202/48201/125819/362585/120365",
+                "extinct": false,
+                "provisional": false,
+                "default_photo": {
+                    "id": 17572809,
+                    "license_code": "cc-by-nc",
+                    "attribution": "(c) Alex Rebelo, some rights reserved (CC BY-NC), uploaded by Alex Rebelo",
+                    "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17572809/square.jpg",
+                    "original_dimensions": {
+                        "height": 768,
+                        "width": 909
+                    },
+                    "flags": [],
+                    "attribution_name": "Alex Rebelo",
+                    "square_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17572809/square.jpg",
+                    "medium_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/17572809/medium.jpg"
+                },
+                "taxon_changes_count": 0,
+                "taxon_schemes_count": 1,
+                "observations_count": 2,
+                "flag_counts": {
+                    "resolved": 0,
+                    "unresolved": 0
+                },
+                "current_synonymous_taxon_ids": null,
+                "atlas_id": null,
+                "complete_species_count": null,
+                "wikipedia_url": null,
+                "iconic_taxon_name": "Insecta"
+            }
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+subject,predicate,object
+Edgar_Chahine,type,owl#Thing
+Edgar_Chahine,type,Person
+Edgar_Chahine,type,Person
+Edgar_Chahine,type,Person
+Edgar_Chahine,type,Person
+Edgar_Chahine,type,DUL.owl#NaturalPerson
+Edgar_Chahine,type,Q19088
+Edgar_Chahine,type,Q215627
+Edgar_Chahine,type,Q5
+Edgar_Chahine,type,Q729
+Edgar_Chahine,type,Animal
+Edgar_Chahine,type,Animal
+Edgar_Chahine,type,Eukaryote
+Edgar_Chahine,type,Eukaryote
+Edgar_Chahine,type,Species
+Edgar_Chahine,type,Species
+Edgar_Chahine,type,Person
+Edgar_Chahine,sameAs,m.0n48bm0
+Edgar_Chahine,sameAs,Edgar_Chahine
+Edgar_Chahine,sameAs,7407427
+Edgar_Chahine,sameAs,Q785327
+Edgar_Chahine,sameAs,Edgar_Chahine
+Edgar_Chahine,sameAs,Edgar_Chahine
+Edgar_Chahine,sameAs,Edgar_Chahine
+Edgar_Chahine,sameAs,Edgar_Chahine
+Edgar_Chahine,sameAs,"Шахин,_Эдгар"
+Edgar_Chahine,sameAs,Edgar_Chahine
+Edgar_Chahine,sameAs,121629023
+Edgar_Chahine,sameAs,p070393311
+Edgar_Chahine,sameAs,إدغار_شاهين
+Edgar_Chahine,sameAs,ادجار_شاهين
+Edgar_Chahine,sameAs,ادگار_شاهین
+Edgar_Chahine,sameAs,Էդգար_Շահին
+Edgar_Chahine,sameAs,Edgar_Chahine
+Edgar_Chahine,sameAs,4wHe5
+Edgar_Chahine,name,Edgar Chahine
+Edgar_Chahine,label,Edgar Chahine
+Edgar_Chahine,label,Edgar Chahine
+Edgar_Chahine,label,إدغار شاهين
+Edgar_Chahine,label,Edgar Chahine
+Edgar_Chahine,label,Edgar Chahine
+Edgar_Chahine,label,Edgar Chahine
+Edgar_Chahine,label,Edgar Chahine
+Edgar_Chahine,label,"Шахин, Эдгар"
+Edgar_Chahine,deathPlace,France
+Edgar_Chahine,deathPlace,Paris
+Edgar_Chahine,deathPlace,France
+Edgar_Chahine,deathPlace,Paris
+Edgar_Chahine,deathDate,1947-03-18
+Edgar_Chahine,birthPlace,Austria
+Edgar_Chahine,birthPlace,Vienna
+Edgar_Chahine,birthPlace,Austria
+Edgar_Chahine,birthPlace,Vienna
+Edgar_Chahine,birthDate,1874-10-31
+Edgar_Chahine,subject,Category:1947_deaths
+Edgar_Chahine,subject,Category:Austrian_people_of_Armenian_descent
+Edgar_Chahine,subject,Category:École_des_Beaux-Arts_alumni
+Edgar_Chahine,subject,Category:19th-century_French_painters
+Edgar_Chahine,subject,Category:20th-century_French_painters
+Edgar_Chahine,subject,Category:1874_births
+Edgar_Chahine,subject,Category:Accademia_di_Belle_Arti_di_Venezia_alumni
+Edgar_Chahine,subject,Category:19th-century_French_engravers
+Edgar_Chahine,subject,Category:French_male_painters
+Edgar_Chahine,subject,Category:Academic_staff_of_the_Académie_Julian
+Edgar_Chahine,subject,Category:Ethnic_Armenian_painters
+Edgar_Chahine,subject,Category:French_people_of_Armenian_descent
+Edgar_Chahine,subject,Category:19th-century_illustrators
+Edgar_Chahine,subject,Category:19th-century_Armenian_artists
+Edgar_Chahine,subject,Category:19th-century_French_male_artists
+Edgar_Chahine,subject,Category:20th-century_French_male_artists
+Edgar_Chahine,subject,Category:20th-century_Armenian_artists
+Edgar_Chahine,subject,Category:Armenians_from_the_Ottoman_Empire
+Edgar_Chahine,subject,Category:Emigrants_from_the_Ottoman_Empire_to_France
+Edgar_Chahine,subject,Category:Armenian_illustrators
+Edgar_Chahine,subject,Category:20th-century_French_engravers
+Edgar_Chahine,subject,Category:Académie_Julian_alumni
+Edgar_Chahine,subject,Category:20th-century_Armenian_illustrators
+Edgar_Chahine,subject,Category:Painters_from_Vienna
+Edgar_Chahine,wikiPageWikiLink,Category:1947_deaths
+Edgar_Chahine,wikiPageWikiLink,Engraver
+Edgar_Chahine,wikiPageWikiLink,Crouttes
+Edgar_Chahine,wikiPageWikiLink,Armenia
+Edgar_Chahine,wikiPageWikiLink,Austria
+Edgar_Chahine,wikiPageWikiLink,France
+Edgar_Chahine,wikiPageWikiLink,Paris
+Edgar_Chahine,wikiPageWikiLink,Venice
+Edgar_Chahine,wikiPageWikiLink,Vienna
+Edgar_Chahine,wikiPageWikiLink,Constantinople
+Edgar_Chahine,wikiPageWikiLink,Illustrator
+Edgar_Chahine,wikiPageWikiLink,Painting
+Edgar_Chahine,wikiPageWikiLink,Orne
+Edgar_Chahine,wikiPageWikiLink,Académie_Julian
+Edgar_Chahine,wikiPageWikiLink,Accademia_di_Belle_Arti_di_Venezia
+Edgar_Chahine,wikiPageWikiLink,Venice_Biennale
+Edgar_Chahine,wikiPageWikiLink,Vimoutiers
+Edgar_Chahine,wikiPageWikiLink,Ottoman_Bank
+Edgar_Chahine,wikiPageWikiLink,Armenians_in_Italy
+Edgar_Chahine,wikiPageWikiLink,Category:Artists_from_Vienna
+Edgar_Chahine,wikiPageWikiLink,Category:Austrian_people_of_Armenian_descent
+Edgar_Chahine,wikiPageWikiLink,Category:École_des_Beaux-Arts_alumni
+Edgar_Chahine,wikiPageWikiLink,Category:19th-century_French_painters
+Edgar_Chahine,wikiPageWikiLink,Category:20th-century_French_painters
+Edgar_Chahine,wikiPageWikiLink,Category:1874_births
+Edgar_Chahine,wikiPageWikiLink,Category:Accademia_di_Belle_Arti_di_Venezia_alumni
+Edgar_Chahine,wikiPageWikiLink,Category:French_male_painters
+Edgar_Chahine,wikiPageWikiLink,Category:Ethnic_Armenian_painters
+Edgar_Chahine,wikiPageWikiLink,Category:French_people_of_Armenian_descent
+Edgar_Chahine,wikiPageWikiLink,Category:19th-century_French_male_artists
+Edgar_Chahine,wikiPageWikiLink,Category:20th-century_French_male_artists
+Edgar_Chahine,wikiPageWikiLink,Category:20th-century_Armenian_artists
+Edgar_Chahine,wikiPageWikiLink,Category:Armenian_illustrators
+Edgar_Chahine,wikiPageWikiLink,Category:Académie_Julian_alumni
+Edgar_Chahine,wikiPageWikiLink,Légion_d'Honneur
+Edgar_Chahine,wikiPageWikiLink,San_Lazzaro_Island
+Edgar_Chahine,wikiPageWikiLink,Universal_Exhibition
+Edgar_Chahine,wikiPageWikiLink,Society_of_French_Artists
+Edgar_Chahine,wikiPageWikiLink,Category:Académie_Julian_faculty
+Edgar_Chahine,wikiPageExternalLink,edgar-chahine
+Edgar_Chahine,wikiPageExternalLink,edgar-chahine
+Edgar_Chahine,description,livour galleg
+Edgar_Chahine,description,pintor franses
+Edgar_Chahine,description,Frans kunstschilder
+Edgar_Chahine,description,peintre français
+Edgar_Chahine,description,نقاش فرانسوی
+Edgar_Chahine,description,французский живописец
+Edgar_Chahine,description,Fransız gravürcü ve ressam (1874 – 1947)
+Edgar_Chahine,description,armenisch-französischer Maler und Grafiker
+Edgar_Chahine,description,francouzsko-arménský malíř
+Edgar_Chahine,description,painter and engraver (1874-1947)
+Edgar_Chahine,description,"հայ նկարիչ-փորագրող, նկարիչ"
+Edgar_Chahine,name,Edgar Chahine
+Edgar_Chahine,depiction,Edgar_Chahine.jpg
+Edgar_Chahine,imageSize,250
+Edgar_Chahine,almaMater,Moorat-Raphael College
+Edgar_Chahine,almaMater,Ca'_Zenobio_degli_Armeni
+Edgar_Chahine,birthYear,1874
+Edgar_Chahine,deathYear,1947
+Edgar_Chahine,occupation,Engraver
+Edgar_Chahine,occupation,Illustrator
+Edgar_Chahine,occupation,Painting
+Edgar_Chahine,occupation,Edgar_Chahine__PersonFunction__1
+Edgar_Chahine,thumbnail,Edgar_Chahine.jpg?width=300
+Edgar_Chahine,wikiPageUsesTemplate,Template:Authority_control_(arts)
+Edgar_Chahine,wikiPageUsesTemplate,Template:Citation_needed
+Edgar_Chahine,wikiPageUsesTemplate,Template:Death_date_and_age
+Edgar_Chahine,wikiPageUsesTemplate,Template:Infobox_person
+Edgar_Chahine,wikiPageUsesTemplate,Template:Langx
+Edgar_Chahine,wikiPageUsesTemplate,Template:Reflist
+Edgar_Chahine,wikiPageUsesTemplate,Template:Short_description
+Edgar_Chahine,birthDate,1874-10-31
+Edgar_Chahine,deathDate,1947-03-18
+Edgar_Chahine,occupation,Engraver
+Edgar_Chahine,occupation,Illustrator
+Edgar_Chahine,occupation,Painting
+Edgar_Chahine,nationality,French
+Edgar_Chahine,wasDerivedFrom,Edgar_Chahine?oldid=1299653355&ns=0
+Edgar_Chahine,caption,Edgar Chahine
+Edgar_Chahine,nativeName,Էդգար Շահին
+Edgar_Chahine,hypernym,Painter
+Edgar_Chahine,isPrimaryTopicOf,Edgar_Chahine
+Edgar_Chahine,sameAs,7407427

@@ -1,0 +1,169 @@
+subject,predicate,object
+Dado_(painter),type,owl#Thing
+Dado_(painter),type,Person
+Dado_(painter),type,Person
+Dado_(painter),type,Person
+Dado_(painter),type,Person
+Dado_(painter),type,DUL.owl#NaturalPerson
+Dado_(painter),type,Q19088
+Dado_(painter),type,Q215627
+Dado_(painter),type,Q5
+Dado_(painter),type,Q729
+Dado_(painter),type,Animal
+Dado_(painter),type,Animal
+Dado_(painter),type,Eukaryote
+Dado_(painter),type,Eukaryote
+Dado_(painter),type,Species
+Dado_(painter),type,Species
+Dado_(painter),type,Person
+Dado_(painter),sameAs,m.0gvv8ng
+Dado_(painter),sameAs,95805465
+Dado_(painter),sameAs,118899406
+Dado_(painter),sameAs,Dado_(painter)
+Dado_(painter),sameAs,Q476279
+Dado_(painter),sameAs,Miodrag_Djuric
+Dado_(painter),sameAs,Miodrag_Đurić
+Dado_(painter),sameAs,Miodrag_Đurić
+Dado_(painter),sameAs,Dado
+Dado_(painter),sameAs,"Джурич,_Миодраг"
+Dado_(painter),sameAs,岱鐸
+Dado_(painter),sameAs,Міядраг_Джурыч
+Dado_(painter),sameAs,1090258577
+Dado_(painter),sameAs,174197810
+Dado_(painter),sameAs,p070420602
+Dado_(painter),sameAs,ميودراج_دجوريتش
+Dado_(painter),sameAs,Миодраг_Ђурић
+Dado_(painter),sameAs,4QCvu
+Dado_(painter),name,Miodrag Đurić
+Dado_(painter),label,Dado (painter)
+Dado_(painter),label,Miodrag Djuric
+Dado_(painter),label,Miodrag Đurić
+Dado_(painter),label,Miodrag Đurić
+Dado_(painter),label,Dado
+Dado_(painter),label,"Джурич, Миодраг"
+Dado_(painter),label,岱鐸
+Dado_(painter),deathPlace,France
+Dado_(painter),deathPlace,Pontoise
+Dado_(painter),deathPlace,France
+Dado_(painter),deathPlace,Pontoise
+Dado_(painter),deathDate,2010-11-27
+Dado_(painter),birthPlace,Kingdom_of_Yugoslavia
+Dado_(painter),birthPlace,Cetinje
+Dado_(painter),birthPlace,Kingdom_of_Yugoslavia
+Dado_(painter),birthPlace,Cetinje
+Dado_(painter),birthDate,1933-10-04
+Dado_(painter),subject,Category:1933_births
+Dado_(painter),subject,Category:2010_deaths
+Dado_(painter),subject,Category:20th-century_French_painters
+Dado_(painter),subject,Category:Chevaliers_of_the_Ordre_des_Arts_et_des_Lettres
+Dado_(painter),subject,Category:Montenegrin_painters
+Dado_(painter),subject,Category:French_male_painters
+Dado_(painter),subject,Category:Yugoslav_emigrants_to_France
+Dado_(painter),subject,Category:Artists_from_Cetinje
+Dado_(painter),wikiPageWikiLink,Hessie
+Dado_(painter),wikiPageWikiLink,Roy_Goodman
+Dado_(painter),wikiPageWikiLink,Central_African_Republic
+Dado_(painter),wikiPageWikiLink,France
+Dado_(painter),wikiPageWikiLink,Montenegro
+Dado_(painter),wikiPageWikiLink,Serbia
+Dado_(painter),wikiPageWikiLink,Slovenia
+Dado_(painter),wikiPageWikiLink,Belgrade
+Dado_(painter),wikiPageWikiLink,Eure
+Dado_(painter),wikiPageWikiLink,George_Frideric_Handel
+Dado_(painter),wikiPageWikiLink,Irène_Némirovsky
+Dado_(painter),wikiPageWikiLink,Josip_Broz_Tito
+Dado_(painter),wikiPageWikiLink,Kingdom_of_Yugoslavia
+Dado_(painter),wikiPageWikiLink,Ordre_des_Arts_et_des_Lettres
+Dado_(painter),wikiPageWikiLink,Cetinje
+Dado_(painter),wikiPageWikiLink,International_Council_of_Museums
+Dado_(painter),wikiPageWikiLink,Gisors
+Dado_(painter),wikiPageWikiLink,Lithography
+Dado_(painter),wikiPageWikiLink,Hérault
+Dado_(painter),wikiPageWikiLink,Oise
+Dado_(painter),wikiPageWikiLink,Pontoise
+Dado_(painter),wikiPageWikiLink,Jean_Dubuffet
+Dado_(painter),wikiPageWikiLink,Citroën_Traction_Avant
+Dado_(painter),wikiPageWikiLink,Stavros_Xarchakos
+Dado_(painter),wikiPageWikiLink,Atelier_Lacourière-Frélaut
+Dado_(painter),wikiPageWikiLink,Herceg_Novi
+Dado_(painter),wikiPageWikiLink,Federico_García_Lorca
+Dado_(painter),wikiPageWikiLink,Vexin
+Dado_(painter),wikiPageWikiLink,Tamerlano
+Dado_(painter),wikiPageWikiLink,Badisches_Staatstheater_Karlsruhe
+Dado_(painter),wikiPageWikiLink,Yugoslavs
+Dado_(painter),wikiPageWikiLink,.museum
+Dado_(painter),wikiPageWikiLink,Georges_Perec
+Dado_(painter),wikiPageWikiLink,Category:1933_births
+Dado_(painter),wikiPageWikiLink,Category:2010_deaths
+Dado_(painter),wikiPageWikiLink,Category:20th-century_French_painters
+Dado_(painter),wikiPageWikiLink,Category:Chevaliers_of_the_Ordre_des_Arts_et_des_Lettres
+Dado_(painter),wikiPageWikiLink,Category:Montenegrin_painters
+Dado_(painter),wikiPageWikiLink,Category:French_male_painters
+Dado_(painter),wikiPageWikiLink,Category:Yugoslav_emigrants_to_France
+Dado_(painter),wikiPageWikiLink,Category:Artists_from_Cetinje
+Dado_(painter),wikiPageWikiLink,Théatre_Impérial_de_Compiègne
+Dado_(painter),wikiPageWikiLink,File:Dado-Painting-untitled-1997.jpg
+Dado_(painter),wikiPageWikiLink,File:Dado-Temporary_Installation_Herouval-Sculptures-2010.jpg
+Dado_(painter),wikiPageWikiLink,File:Dado-_copper_plate-Engraving.jpg
+Dado_(painter),wikiPageExternalLink,www.dado.virtual.museum
+Dado_(painter),wikiPageExternalLink,books%3Fid=MakqAQAACAAJ%7Cyear=1991%7Cpublisher=La
+Dado_(painter),description,livour galleg
+Dado_(painter),description,ֆրանսիացի նկարիչ
+Dado_(painter),description,צייר צרפתי
+Dado_(painter),description,српски сликар
+Dado_(painter),description,"Yugoslavian-born artist, active in France (1933-2010)"
+Dado_(painter),description,jugoslawisch-französischer Maler
+Dado_(painter),description,kunstschilder uit Joegoslavië (1933-2010)
+Dado_(painter),description,pintor francés (1933–2010)
+Dado_(painter),description,"pintor, dibujante, grabador y escultor yugoslavo"
+Dado_(painter),description,"peintre, dessinateur, graveur et sculpteur yougoslave (1933-2010)"
+Dado_(painter),description,راسم من يوجوسلافيا
+Dado_(painter),homepage,www.dado.virtual.anti.museum
+Dado_(painter),homepage,www.dado.virtual.museum
+Dado_(painter),name,Miodrag Đurić
+Dado_(painter),depiction,Dado-Painting-untitled-1997.jpg
+Dado_(painter),depiction,Dado-Temporary_Installation_Herouval-Sculptures-2010.jpg
+Dado_(painter),depiction,Dado-_copper_plate-Engraving.jpg
+Dado_(painter),depiction,Dado_Djuric_in_the_early_70's.jpg
+Dado_(painter),birthName,Miodrag Đurić
+Dado_(painter),birthYear,1933
+Dado_(painter),deathYear,2010
+Dado_(painter),nationality,Yugoslavs
+Dado_(painter),occupation,Dado_(painter)__PersonFunction__1
+Dado_(painter),occupation,Sculpture
+Dado_(painter),occupation,Engraving
+Dado_(painter),spouse,Hessie
+Dado_(painter),stateOfOrigin,Yugoslavs
+Dado_(painter),thumbnail,Dado_Djuric_in_the_early_70's.jpg?width=300
+Dado_(painter),wikiPageUsesTemplate,Template:Cite_book
+Dado_(painter),wikiPageUsesTemplate,Template:Authority_control_(arts)
+Dado_(painter),wikiPageUsesTemplate,Template:Birth_date
+Dado_(painter),wikiPageUsesTemplate,Template:Citation_needed
+Dado_(painter),wikiPageUsesTemplate,Template:Commons_category-inline
+Dado_(painter),wikiPageUsesTemplate,Template:Death_date_and_age
+Dado_(painter),wikiPageUsesTemplate,Template:Infobox_person
+Dado_(painter),wikiPageUsesTemplate,Template:Langx
+Dado_(painter),wikiPageUsesTemplate,Template:More_citations_needed
+Dado_(painter),wikiPageUsesTemplate,Template:Not_a_typo
+Dado_(painter),wikiPageUsesTemplate,Template:Reflist
+Dado_(painter),wikiPageUsesTemplate,Template:Sfn
+Dado_(painter),wikiPageUsesTemplate,Template:Short_description
+Dado_(painter),wikiPageUsesTemplate,Template:Small
+Dado_(painter),wikiPageUsesTemplate,Template:Unreferenced_section
+Dado_(painter),birthDate,1933-10-04
+Dado_(painter),deathDate,2010-11-27
+Dado_(painter),nativeNameLang,cnr
+Dado_(painter),occupation,"Painter, engraver, sculptor"
+Dado_(painter),spouse,Hessie
+Dado_(painter),website,www.dado.virtual.anti.museum
+Dado_(painter),nationality,Yugoslavs
+Dado_(painter),birthName,Miodrag Đurić
+Dado_(painter),wasDerivedFrom,Dado_(painter)?oldid=1284059523&ns=0
+Dado_(painter),alias,Dado
+Dado_(painter),otherNames,Dado
+Dado_(painter),caption,1970.0
+Dado_(painter),children,5
+Dado_(painter),nativeName,Миодраг Ђурић
+Dado_(painter),hypernym,Artist
+Dado_(painter),isPrimaryTopicOf,Dado_(painter)
+Dado_(painter),sameAs,95805465

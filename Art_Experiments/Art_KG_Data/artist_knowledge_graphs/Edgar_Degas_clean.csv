@@ -1,0 +1,578 @@
+subject,predicate,object
+Edgar_Degas,type,owl#Thing
+Edgar_Degas,type,Person
+Edgar_Degas,type,Person
+Edgar_Degas,type,Person
+Edgar_Degas,type,DUL.owl#NaturalPerson
+Edgar_Degas,type,Q19088
+Edgar_Degas,type,Q215627
+Edgar_Degas,type,Q483501
+Edgar_Degas,type,Q5
+Edgar_Degas,type,Q729
+Edgar_Degas,type,Animal
+Edgar_Degas,type,Animal
+Edgar_Degas,type,Artist
+Edgar_Degas,type,Artist
+Edgar_Degas,type,Artist
+Edgar_Degas,type,Eukaryote
+Edgar_Degas,type,Eukaryote
+Edgar_Degas,type,Species
+Edgar_Degas,type,Species
+Edgar_Degas,type,Person
+Edgar_Degas,type,Artist
+Edgar_Degas,type,PersonWithOccupation
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,m.0g_lz
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,"Degas,%20Edgar"
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,41863744
+Edgar_Degas,sameAs,118524291
+Edgar_Degas,sameAs,Q46373
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,אדגר_דגה
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,エドガー・ドガ
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,"Дега,_Эдгар"
+Edgar_Degas,sameAs,埃德加·德加
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Эдгар_Дэга
+Edgar_Degas,sameAs,Εντγκάρ_Ντεγκά
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,에드가_드가
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,f12aed12-2a2c-47e4-9747-71d292fb82ff
+Edgar_Degas,sameAs,p068855184
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,إدغار_ديغا
+Edgar_Degas,sameAs,ادجار_ديجا
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edqar_Deqa
+Edgar_Degas,sameAs,Эдгар_Дега
+Edgar_Degas,sameAs,Едгар_Дега
+Edgar_Degas,sameAs,এদ্‌গার_দ্যগা
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,ئێدگار_دیگا
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Эдгар_Дега
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,ادگار_دگا
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,एद्गर_देगास
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Էդգար_Դեգա
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,ედგარ_დეგა
+Edgar_Degas,sameAs,ಎಡ್ಗರ್_ಡಗಾ
+Edgar_Degas,sameAs,Эдгар_Дега
+Edgar_Degas,sameAs,Edgarus_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgars_Degā
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Едгар_Дега
+Edgar_Degas,sameAs,എഡ്ഗാർ_ഡെഗാ
+Edgar_Degas,sameAs,एदगा_दगा
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Dega
+Edgar_Degas,sameAs,แอดการ์_เดอกา
+Edgar_Degas,sameAs,Едґар_Деґа
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,Edgar_Degas
+Edgar_Degas,sameAs,4JFhs
+Edgar_Degas,name,Edgar Degas
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,إدغار ديغا
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,Εντγκάρ Ντεγκά
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,エドガー・ドガ
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,에드가 드가
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,"Дега, Эдгар"
+Edgar_Degas,label,Едґар Деґа
+Edgar_Degas,label,Edgar Degas
+Edgar_Degas,label,埃德加·德加
+Edgar_Degas,deathPlace,Paris
+Edgar_Degas,deathPlace,"Paris, France"
+Edgar_Degas,deathDate,1917-09-27
+Edgar_Degas,birthPlace,Paris
+Edgar_Degas,birthPlace,"Paris, France"
+Edgar_Degas,birthDate,1834-07-19
+Edgar_Degas,subject,Category:Edgar_Degas
+Edgar_Degas,subject,Category:Artists_from_Paris
+Edgar_Degas,subject,Category:École_des_Beaux-Arts_alumni
+Edgar_Degas,subject,Category:1834_births
+Edgar_Degas,subject,Category:1917_deaths
+Edgar_Degas,subject,Category:19th-century_French_sculptors
+Edgar_Degas,subject,Category:20th-century_French_sculptors
+Edgar_Degas,subject,Category:Antidreyfusards
+Edgar_Degas,subject,Category:Lycée_Louis-le-Grand_alumni
+Edgar_Degas,subject,Category:19th-century_French_painters
+Edgar_Degas,subject,Category:20th-century_French_painters
+Edgar_Degas,subject,Category:Burials_at_Montmartre_Cemetery
+Edgar_Degas,subject,Category:20th-century_French_printmakers
+Edgar_Degas,subject,Category:French_male_painters
+Edgar_Degas,subject,Category:French_male_sculptors
+Edgar_Degas,subject,Category:French_Impressionist_painters
+Edgar_Degas,subject,Category:French_military_personnel_of_the_Franco-Prussian_War
+Edgar_Degas,subject,Category:French_people_of_Haitian_descent
+Edgar_Degas,subject,Category:Impressionist_sculptors
+Edgar_Degas,subject,Category:Members_of_the_Ligue_de_la_patrie_française
+Edgar_Degas,subject,Category:French_people_of_Louisiana_Creole_descent
+Edgar_Degas,subject,Category:20th-century_French_male_artists
+Edgar_Degas,subject,Category:Antisemitism_in_France
+Edgar_Degas,subject,Category:French_sports_painters
+Edgar_Degas,wikiPageWikiLink,En_plein_air
+Edgar_Degas,wikiPageWikiLink,Henri_de_Toulouse-Lautrec
+Edgar_Degas,wikiPageWikiLink,Young_Spartans_Exercising
+Edgar_Degas,wikiPageWikiLink,Waiting_(Degas)
+Edgar_Degas,wikiPageWikiLink,Cambridge
+Edgar_Degas,wikiPageWikiLink,El_Greco
+Edgar_Degas,wikiPageWikiLink,France
+Edgar_Degas,wikiPageWikiLink,Haiti
+Edgar_Degas,wikiPageWikiLink,Italy
+Edgar_Degas,wikiPageWikiLink,London
+Edgar_Degas,wikiPageWikiLink,Louisiana
+Edgar_Degas,wikiPageWikiLink,Stéphane_Mallarmé
+Edgar_Degas,wikiPageWikiLink,Women's_suffrage
+Edgar_Degas,wikiPageWikiLink,Boulevard_de_Clichy
+Edgar_Degas,wikiPageWikiLink,Drawing
+Edgar_Degas,wikiPageWikiLink,Etching
+Edgar_Degas,wikiPageWikiLink,Franco-Prussian_War
+Edgar_Degas,wikiPageWikiLink,Impressionism
+Edgar_Degas,wikiPageWikiLink,Le_Havre
+Edgar_Degas,wikiPageWikiLink,Lycée_Louis-le-Grand
+Edgar_Degas,wikiPageWikiLink,Michelangelo
+Edgar_Degas,wikiPageWikiLink,Naples
+Edgar_Degas,wikiPageWikiLink,New_Orleans
+Edgar_Degas,wikiPageWikiLink,Normandy
+Edgar_Degas,wikiPageWikiLink,Port-au-Prince
+Edgar_Degas,wikiPageWikiLink,Printmaking
+Edgar_Degas,wikiPageWikiLink,Pushkin_Museum
+Edgar_Degas,wikiPageWikiLink,Raphael
+Edgar_Degas,wikiPageWikiLink,Renaissance
+Edgar_Degas,wikiPageWikiLink,Republicanism
+Edgar_Degas,wikiPageWikiLink,Sculpture
+Edgar_Degas,wikiPageWikiLink,Solomon_R._Guggenheim_Museum
+Edgar_Degas,wikiPageWikiLink,Thérèse_Raquin
+Edgar_Degas,wikiPageWikiLink,Ukiyo-e
+Edgar_Degas,wikiPageWikiLink,University_of_Paris
+Edgar_Degas,wikiPageWikiLink,History_painting
+Edgar_Degas,wikiPageWikiLink,Pierre-Auguste_Renoir
+Edgar_Degas,wikiPageWikiLink,Suzanne_Manet
+Edgar_Degas,wikiPageWikiLink,École_des_Beaux-Arts
+Edgar_Degas,wikiPageWikiLink,Camille_Pissarro
+Edgar_Degas,wikiPageWikiLink,Honolulu_Museum_of_Art
+Edgar_Degas,wikiPageWikiLink,Portrait
+Edgar_Degas,wikiPageWikiLink,Jean-François_Raffaëlli
+Edgar_Degas,wikiPageWikiLink,Paul_Durand-Ruel
+Edgar_Degas,wikiPageWikiLink,Lithograph
+Edgar_Degas,wikiPageWikiLink,Category:Edgar_Degas
+Edgar_Degas,wikiPageWikiLink,"Cambridge,_Massachusetts"
+Edgar_Degas,wikiPageWikiLink,"Chapel_Hill,_North_Carolina"
+Edgar_Degas,wikiPageWikiLink,"Pau,_Pyrénées-Atlantiques"
+Edgar_Degas,wikiPageWikiLink,Titian
+Edgar_Degas,wikiPageWikiLink,Louvre
+Edgar_Degas,wikiPageWikiLink,Bronze
+Edgar_Degas,wikiPageWikiLink,Eugène_Delacroix
+Edgar_Degas,wikiPageWikiLink,Jean-Auguste-Dominique_Ingres
+Edgar_Degas,wikiPageWikiLink,Musée_d'Orsay
+Edgar_Degas,wikiPageWikiLink,National_Gallery_of_Art
+Edgar_Degas,wikiPageWikiLink,Édouard_Manet
+Edgar_Degas,wikiPageWikiLink,Suzanne_Valadon
+Edgar_Degas,wikiPageWikiLink,Villard_(imprint)
+Edgar_Degas,wikiPageWikiLink,Louisiana_Creole_people
+Edgar_Degas,wikiPageWikiLink,Law_school
+Edgar_Degas,wikiPageWikiLink,Smarthistory
+Edgar_Degas,wikiPageWikiLink,Art_Institute_of_Chicago
+Edgar_Degas,wikiPageWikiLink,Metropolitan_Museum_of_Art
+Edgar_Degas,wikiPageWikiLink,Pastel
+Edgar_Degas,wikiPageWikiLink,Yale_University_Press
+Edgar_Degas,wikiPageWikiLink,Atavism
+Edgar_Degas,wikiPageWikiLink,Jean-Louis_Forain
+Edgar_Degas,wikiPageWikiLink,Laundry
+Edgar_Degas,wikiPageWikiLink,Baccalauréat
+Edgar_Degas,wikiPageWikiLink,Jules-Antoine_Castagnary
+Edgar_Degas,wikiPageWikiLink,The_Dancing_Class
+Edgar_Degas,wikiPageWikiLink,A_Cotton_Office_in_New_Orleans
+Edgar_Degas,wikiPageWikiLink,Abrams_Books
+Edgar_Degas,wikiPageWikiLink,Edgar_Degas
+Edgar_Degas,wikiPageWikiLink,Hatmaking
+Edgar_Degas,wikiPageWikiLink,L'Absinthe
+Edgar_Degas,wikiPageWikiLink,Léon_Gambetta
+Edgar_Degas,wikiPageWikiLink,"Museum_of_Fine_Arts,_Boston"
+Edgar_Degas,wikiPageWikiLink,Nude_(art)
+Edgar_Degas,wikiPageWikiLink,Plaster
+Edgar_Degas,wikiPageWikiLink,"The_Ballet_Class_(Degas,_Musée_d'Orsay)"
+Edgar_Degas,wikiPageWikiLink,The_Bellelli_Family
+Edgar_Degas,wikiPageWikiLink,The_Tub
+Edgar_Degas,wikiPageWikiLink,Minneapolis_Institute_of_Art
+Edgar_Degas,wikiPageWikiLink,Dreyfus_affair
+Edgar_Degas,wikiPageWikiLink,Mary_Cassatt
+Edgar_Degas,wikiPageWikiLink,Pierre_Puvis_de_Chavannes
+Edgar_Degas,wikiPageWikiLink,Studio
+Edgar_Degas,wikiPageWikiLink,Rosita_Mauri
+Edgar_Degas,wikiPageWikiLink,Shelburne_Museum
+Edgar_Degas,wikiPageWikiLink,Miss_La_La_at_the_Cirque_Fernando
+Edgar_Degas,wikiPageWikiLink,The_Millinery_Shop
+Edgar_Degas,wikiPageWikiLink,Woman_in_a_Tub_(Degas)
+Edgar_Degas,wikiPageWikiLink,National_Gallery
+Edgar_Degas,wikiPageWikiLink,"Farmington,_Connecticut"
+Edgar_Degas,wikiPageWikiLink,Calouste_Gulbenkian_Museum
+Edgar_Degas,wikiPageWikiLink,Ny_Carlsberg_Glyptotek
+Edgar_Degas,wikiPageWikiLink,Portraits_at_the_Stock_Exchange
+Edgar_Degas,wikiPageWikiLink,Fitzwilliam_Museum
+Edgar_Degas,wikiPageWikiLink,Little_Dancer_of_Fourteen_Years
+Edgar_Degas,wikiPageWikiLink,Thames_&_Hudson
+Edgar_Degas,wikiPageWikiLink,Henri_Michel-Lévy
+Edgar_Degas,wikiPageWikiLink,Carol_Armstrong
+Edgar_Degas,wikiPageWikiLink,Odd_Man_Out:_Readings_of_the_Work_and_Reputation_of_Edgar_Degas
+Edgar_Degas,wikiPageWikiLink,Ludovic-Napoléon_Lepic
+Edgar_Degas,wikiPageWikiLink,Category:Artists_from_Paris
+Edgar_Degas,wikiPageWikiLink,Category:École_des_Beaux-Arts_alumni
+Edgar_Degas,wikiPageWikiLink,Princeton_University_Press
+Edgar_Degas,wikiPageWikiLink,Walter_Sickert
+Edgar_Degas,wikiPageWikiLink,Museu_Picasso
+Edgar_Degas,wikiPageWikiLink,Oil_paint
+Edgar_Degas,wikiPageWikiLink,Kitakyushu_Municipal_Museum_of_Art
+Edgar_Degas,wikiPageWikiLink,"Esplanade_Avenue,_New_Orleans"
+Edgar_Degas,wikiPageWikiLink,Thannhauser_Galleries
+Edgar_Degas,wikiPageWikiLink,Category:1834_births
+Edgar_Degas,wikiPageWikiLink,Physiognomy
+Edgar_Degas,wikiPageWikiLink,George_Moore_(novelist)
+Edgar_Degas,wikiPageWikiLink,Désiré_Dihau
+Edgar_Degas,wikiPageWikiLink,Louis_Edmond_Duranty
+Edgar_Degas,wikiPageWikiLink,Paul_Gavarni
+Edgar_Degas,wikiPageWikiLink,Canvas
+Edgar_Degas,wikiPageWikiLink,Louis_Lamothe
+Edgar_Degas,wikiPageWikiLink,Carte_de_visite
+Edgar_Degas,wikiPageWikiLink,Ackland_Art_Museum
+Edgar_Degas,wikiPageWikiLink,Interior_(Degas)
+Edgar_Degas,wikiPageWikiLink,Category:1917_deaths
+Edgar_Degas,wikiPageWikiLink,Category:19th-century_French_sculptors
+Edgar_Degas,wikiPageWikiLink,Category:20th-century_French_sculptors
+Edgar_Degas,wikiPageWikiLink,Category:Antidreyfusards
+Edgar_Degas,wikiPageWikiLink,Category:Lycée_Louis-le-Grand_alumni
+Edgar_Degas,wikiPageWikiLink,Category:19th-century_French_painters
+Edgar_Degas,wikiPageWikiLink,Category:20th-century_French_painters
+Edgar_Degas,wikiPageWikiLink,Category:Burials_at_Montmartre_Cemetery
+Edgar_Degas,wikiPageWikiLink,Category:20th-century_French_printmakers
+Edgar_Degas,wikiPageWikiLink,Category:French_male_painters
+Edgar_Degas,wikiPageWikiLink,Category:French_male_sculptors
+Edgar_Degas,wikiPageWikiLink,Category:French_Impressionist_painters
+Edgar_Degas,wikiPageWikiLink,Category:French_military_personnel_of_the_Franco-Prussian_War
+Edgar_Degas,wikiPageWikiLink,Category:French_people_of_Haitian_descent
+Edgar_Degas,wikiPageWikiLink,Category:Impressionist_sculptors
+Edgar_Degas,wikiPageWikiLink,Category:Members_of_the_Ligue_de_la_patrie_française
+Edgar_Degas,wikiPageWikiLink,Category:French_people_of_Louisiana_Creole_descent
+Edgar_Degas,wikiPageWikiLink,Category:20th-century_French_male_artists
+Edgar_Degas,wikiPageWikiLink,File:Edgar_Degas_-_In_a_Café_-_Google_Art_Project_2.jpg
+Edgar_Degas,wikiPageWikiLink,Van_Gogh
+Edgar_Degas,wikiPageWikiLink,Category:Antisemitism_in_France
+Edgar_Degas,wikiPageWikiLink,Anna_Gruetzner_Robins
+Edgar_Degas,wikiPageWikiLink,Monotype
+Edgar_Degas,wikiPageWikiLink,Racehorse
+Edgar_Degas,wikiPageWikiLink,Harper_&_Row
+Edgar_Degas,wikiPageWikiLink,L’Absinthe
+Edgar_Degas,wikiPageWikiLink,Protestant
+Edgar_Degas,wikiPageWikiLink,The_Walters_Art_Museum
+Edgar_Degas,wikiPageWikiLink,Getty_Museum
+Edgar_Degas,wikiPageWikiLink,Genre_works
+Edgar_Degas,wikiPageWikiLink,"National_Gallery,_London"
+Edgar_Degas,wikiPageWikiLink,Paris_Salon
+Edgar_Degas,wikiPageWikiLink,Anti-Semitic
+Edgar_Degas,wikiPageWikiLink,Fogg_Art_Museum
+Edgar_Degas,wikiPageWikiLink,Morgan_Library
+Edgar_Degas,wikiPageWikiLink,Cézanne
+Edgar_Degas,wikiPageWikiLink,History_painter
+Edgar_Degas,wikiPageWikiLink,Impressionist
+Edgar_Degas,wikiPageWikiLink,Realist_visual_arts
+Edgar_Degas,wikiPageWikiLink,Velázquez
+Edgar_Degas,wikiPageWikiLink,Monet
+Edgar_Degas,wikiPageWikiLink,Place_de_la_Concorde_(painting)
+Edgar_Degas,wikiPageWikiLink,Before_the_Race_(painting)
+Edgar_Degas,wikiPageWikiLink,Gauguin
+Edgar_Degas,wikiPageWikiLink,Musée_Malraux
+Edgar_Degas,wikiPageWikiLink,"After_the_Bath,_Woman_drying_herself"
+Edgar_Degas,wikiPageWikiLink,Manet
+Edgar_Degas,wikiPageWikiLink,Hill-Stead_Museum
+Edgar_Degas,wikiPageWikiLink,Corot
+Edgar_Degas,wikiPageWikiLink,Daumier
+Edgar_Degas,wikiPageWikiLink,La_Petite_Danseuse_de_Quatorze_Ans
+Edgar_Degas,wikiPageWikiLink,Morisot
+Edgar_Degas,wikiPageWikiLink,Dreyfus_Affair
+Edgar_Degas,wikiPageWikiLink,Phillips_Collection
+Edgar_Degas,wikiPageWikiLink,Courbet
+Edgar_Degas,wikiPageWikiLink,Pissarro
+Edgar_Degas,wikiPageWikiLink,Ingres
+Edgar_Degas,wikiPageWikiLink,"Portraits,_At_the_Stock_Exchange"
+Edgar_Degas,wikiPageWikiLink,The_Detroit_Institute_of_Arts
+Edgar_Degas,wikiPageWikiLink,St._Louis_Art_Museum
+Edgar_Degas,wikiPageWikiLink,Édouard_Brandon
+Edgar_Degas,wikiPageWikiLink,Watson-Guptill_Publications
+Edgar_Degas,wikiPageWikiLink,File:Cottonexchange1873-Degas.jpg
+Edgar_Degas,wikiPageWikiLink,File:Edgar_Degas_-_Orchestra_Musicians_-_Google_Art_Project.jpg
+Edgar_Degas,wikiPageWikiLink,File:Edgar_Degas_-_The_Ballet_Class_-_Google_Art_Project.jpg
+Edgar_Degas,wikiPageWikiLink,File:At_The_Stock_Exchange.jpg
+Edgar_Degas,wikiPageWikiLink,File:Dancers-(1900)-Degas.jpg
+Edgar_Degas,wikiPageWikiLink,"File:Edgar_Degas,_Little_Dancer_Aged_Fourteen,_1878-1881,_NGA_110292.jpg"
+Edgar_Degas,wikiPageWikiLink,"File:Edgar_Degas,_Self-Portrait,_c._1855,_NGA_73867.jpg"
+Edgar_Degas,wikiPageWikiLink,File:Edgar_Degas_(1834-1917).jpg
+Edgar_Degas,wikiPageWikiLink,File:Edgar_Degas_-_At_the_Races.jpg
+Edgar_Degas,wikiPageWikiLink,File:Edgar_Degas_Place_de_la_Concorde.jpg
+Edgar_Degas,wikiPageWikiLink,File:Edgar_Degas_self_portrait_photograph.jpeg
+Edgar_Degas,wikiPageWikiLink,File:Edgar_Germain_Hilaire_Degas_029.jpg
+Edgar_Degas,wikiPageWikiLink,File:Edgar_Germain_Hilaire_Degas_044.jpg
+Edgar_Degas,wikiPageWikiLink,File:Mary_Stevenson_Cassatt.jpg
+Edgar_Degas,wikiPageWikiLink,File:Mary_Stevenson_Cassatt_-_Mary_Cassatt_Self-Portrait_-_Google_Art_Project.jpg
+Edgar_Degas,wikiPageWikiLink,Two_Women_Picking_Fruit
+Edgar_Degas,wikiPageExternalLink,6
+Edgar_Degas,wikiPageExternalLink,78705
+Edgar_Degas,wikiPageExternalLink,index.php%3Foption=com_content&view=article&id=110&Itemid=78
+Edgar_Degas,wikiPageExternalLink,lanouvellepeint00firgoog
+Edgar_Degas,wikiPageExternalLink,marycassattmoder0000cass
+Edgar_Degas,wikiPageExternalLink,109
+Edgar_Degas,wikiPageExternalLink,Degas
+Edgar_Degas,wikiPageExternalLink,edgar-degas
+Edgar_Degas,wikiPageExternalLink,26580
+Edgar_Degas,wikiPageExternalLink,a3670-1.html
+Edgar_Degas,wikiPageExternalLink,indexl.html
+Edgar_Degas,wikiPageExternalLink,index1.html
+Edgar_Degas,wikiPageExternalLink,degas
+Edgar_Degas,wikiPageExternalLink,degas-sickert-and-toulouse-lautrec
+Edgar_Degas,wikiPageExternalLink,degas-dance-class.html
+Edgar_Degas,wikiPageExternalLink,artist.php%3Fartist=117
+Edgar_Degas,wikiPageExternalLink,videoDetails%3Fcat=5&segid=3830
+Edgar_Degas,wikiPageExternalLink,ULANFullDisplay%3Ffind=degas&role=&nation=&prev_page=1&subjectid=500115194
+Edgar_Degas,wikiPageExternalLink,index1.html
+Edgar_Degas,wikiPageExternalLink,indexl.html
+Edgar_Degas,wikiPageExternalLink,browse_artist.php%3Fname=Degas%2C+Edgar
+Edgar_Degas,description,Ransiya mama llaqtayuq llimphiq
+Edgar_Degas,description,livour galleg
+Edgar_Degas,description,pintor franses
+Edgar_Degas,description,френски художник
+Edgar_Degas,description,ֆրանսիացի նկարիչ
+Edgar_Degas,description,Γάλλος ζωγράφος
+Edgar_Degas,description,Prantsusmaa kunstnik
+Edgar_Degas,description,artist francez
+Edgar_Degas,description,artist francez
+Edgar_Degas,description,ealaíontóir Francach
+Edgar_Degas,description,francia festő és szobrász
+Edgar_Degas,description,法國印象派藝術家
+Edgar_Degas,description,artista francés
+Edgar_Degas,description,frantsöösken Moaler
+Edgar_Degas,description,французький художник
+Edgar_Degas,description,ফরাসি শিল্পী
+Edgar_Degas,description,"француски сликар, графичар и вајар"
+Edgar_Degas,description,"французский художник, импрессионист"
+Edgar_Degas,description,"ranskalainen taidemaalari, taidegraafikko ja kuvanveistäjä"
+Edgar_Degas,description,Frans kunstschilder (1834–1917)
+Edgar_Degas,description,Fransız ressam (1834-1917)
+Edgar_Degas,description,French Impressionist artist (1834–1917)
+Edgar_Degas,description,Painter
+Edgar_Degas,description,Phransiya jacha marka yäpa llimphiyri
+Edgar_Degas,description,artista francès
+Edgar_Degas,description,artista francês
+Edgar_Degas,description,franca artisto (1834–1917)
+Edgar_Degas,description,francouzský malíř a sochař
+Edgar_Degas,description,"francuski slikar, grafičar, kipar i fotograf"
+Edgar_Degas,description,"fransk konstnär, grafiker och skulptör"
+Edgar_Degas,description,franséische Moler a Sculpteur
+Edgar_Degas,description,französischer Maler und Bildhauer (1834–1917)
+Edgar_Degas,description,họa sĩ người Pháp (1834–1917)
+Edgar_Degas,description,malarz i rzeźbiarz francuski
+Edgar_Degas,description,peintre et graveur français (1834–1917)
+Edgar_Degas,description,"pintor, escultor y grabador francés"
+Edgar_Degas,description,pittore e scultore francese (1834-1917)
+Edgar_Degas,description,francoski impresionistični slikar in kipar (1834–1917)
+Edgar_Degas,description,צייר ופסל צרפתי
+Edgar_Degas,description,رسام و نحات فرنسى
+Edgar_Degas,description,フランスの画家 (1834-1917)
+Edgar_Degas,description,شاعر، نقاش، و مجسمه‌ساز فرانسوی
+Edgar_Degas,description,"프랑스의 화가, 조각가"
+Edgar_Degas,exactMatch,i94882
+Edgar_Degas,name,Edgar Degas
+Edgar_Degas,depiction,Pellegrinibydegas.jpg
+Edgar_Degas,depiction,"Edgar_Degas_-_After_the_bath,_woman_drying_herself_-_Google_Art_Project.jpg"
+Edgar_Degas,depiction,Edgar_Degas_-_Dancers_at_the_Barre_-_Google_Art_Project.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_In_a_Café_-_Google_Art_Project_2.jpg
+Edgar_Degas,depiction,Edgar_Germain_Hilaire_Degas_032.jpg
+Edgar_Degas,depiction,Edgar_Germain_Hilaire_Degas_069.jpg
+Edgar_Degas,depiction,Edgar_Germain_Hilaire_Degas_076.jpg
+Edgar_Degas,depiction,Young_Spartans_Exercising_National_Gallery_NG3860.jpg
+Edgar_Degas,depiction,Edgar_Germain_Hilaire_Degas_017.jpg
+Edgar_Degas,depiction,"'Woman_Getting_out_of_the_Bath'_by_Edgar_Degas,_Norton_Simon_Museum.jpg"
+Edgar_Degas,depiction,At_The_Stock_Exchange.jpg
+Edgar_Degas,depiction,Before_the_race.jpg
+Edgar_Degas,depiction,Cottonexchange1873-Degas.jpg
+Edgar_Degas,depiction,Danceringreen.jpg
+Edgar_Degas,depiction,Dancers-(1900)-Degas.jpg
+Edgar_Degas,depiction,Dancers_in_the_classroom.jpg
+Edgar_Degas,depiction,"Degas,_A_Woman_Seated_beside_a_Vase_of_Flowers_(Madame_Paul_Valpinçon).jpg"
+Edgar_Degas,depiction,"Degas,_Deux_danseuses_.jpg"
+Edgar_Degas,depiction,Degas_-_Cafekonzert_Sängerin_mit_Handschuh.jpg
+Edgar_Degas,depiction,Degas_-_Frau_mit_Stadtkostüm.jpg
+Edgar_Degas,depiction,"Degas_-_Self_Portrait,_c.1852.jpg"
+Edgar_Degas,depiction,Degas_3x.jpg
+Edgar_Degas,depiction,Degas_autograph.png
+Edgar_Degas,depiction,"Edgar_Degas,_Little_Dancer_Aged_Fourteen,_1878-1881,_NGA_110292.jpg"
+Edgar_Degas,depiction,"Edgar_Degas,_Miss_La_La_at_the_Cirque_Fernando,_1879.jpg"
+Edgar_Degas,depiction,"Edgar_Degas,_Self-Portrait,_c._1855,_NGA_73867.jpg"
+Edgar_Degas,depiction,Edgar_Degas_(1834-1917).jpg
+Edgar_Degas,depiction,"Edgar_Degas_(1834-1917)_-_'The_Bath-_Woman_Supporting_her_Back',_pastel_on_paper,_c._1887.jpg"
+Edgar_Degas,depiction,Edgar_Degas_-_Achille_De_Gas_in_the_Uniform_of_a_Cadet.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_At_the_Races.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_At_the_Races_in_the_Countryside_-_Google_Art_Project.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_Ballet_Rehearsal_on_Stage_-_Google_Art_Project.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_Before_the_Race_-_Walters_37850.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_Chasse_de_danse.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_Orchestra_Musicians_-_Google_Art_Project.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_Portrait_of_James_Tissot.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_Portrait_of_Mlle._Hortense_Valpinçon_-_Google_Art_Project.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_The_Ballet_Class_-_Google_Art_Project.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_The_Bellelli_Family_-_Google_Art_Project.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_The_Milliners_-_25-2007_-_Saint_Louis_Art_Museum.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_The_Millinery_Shop_-_Google_Art_Project.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_The_Orchestra_at_the_Opera_-_Google_Art_Project_2.jpg
+Edgar_Degas,depiction,Edgar_Degas_-_Ukrainian_Dancers_-_c._1899.png
+Edgar_Degas,depiction,Edgar_Degas_-_Waiting_-_Google_Art_Project.jpg
+Edgar_Degas,depiction,"Edgar_Degas_-_Woman_Washing,_c._1906.jpg"
+Edgar_Degas,depiction,Edgar_Degas_Place_de_la_Concorde.jpg
+Edgar_Degas,depiction,Edgar_Degas_self_portrait_photograph.jpeg
+Edgar_Degas,depiction,Edgar_Germain_Hilaire_Degas_004.jpg
+Edgar_Degas,depiction,Edgar_Germain_Hilaire_Degas_009.jpg
+Edgar_Degas,depiction,Edgar_Germain_Hilaire_Degas_029.jpg
+Edgar_Degas,depiction,Edgar_Germain_Hilaire_Degas_031.jpg
+Edgar_Degas,depiction,Edgar_Germain_Hilaire_Degas_037.jpg
+Edgar_Degas,depiction,Edgar_Germain_Hilaire_Degas_042.jpg
+Edgar_Degas,depiction,Edgar_Germain_Hilaire_Degas_044.jpg
+Edgar_Degas,depiction,Edgar_Germain_Hilaire_Degas_045.jpg
+Edgar_Degas,depiction,Entrance_of_the_Masked_Dancers_(1879).jpg
+Edgar_Degas,depiction,"Fin_d'arabesque,_Edgar_Degas.jpg"
+Edgar_Degas,depiction,"GUGG_Dancer_Moving_Forward,_Arms_Raised.jpg"
+Edgar_Degas,depiction,"GUGG_Seated_Woman,_Wiping_Her_Left_Side.jpg"
+Edgar_Degas,depiction,Male_Nude_-_Edgar_Degas.jpg
+Edgar_Degas,depiction,Marguerite_de_Gas_713.jpg
+Edgar_Degas,depiction,Mary_Stevenson_Cassatt.jpg
+Edgar_Degas,depiction,Mary_Stevenson_Cassatt_-_Mary_Cassatt_Self-Portrait_-_Google_Art_Project.jpg
+Edgar_Degas,depiction,Portrait_of_Henri_Michel-Lévy_by_Edgar_Degas.jpg
+Edgar_Degas,depiction,Portrait_of_a_Man_(1877).jpg
+Edgar_Degas,depiction,Self-portrait_by_Edgar_Degas.jpg
+Edgar_Degas,depiction,Self_portrait_of_Degas_1857-58.jpg
+Edgar_Degas,depiction,SpanishDance_c1884-DegasPC20080120-8849A.jpg
+Edgar_Degas,depiction,The_Collector_of_Prints_MET_DT1920.jpg
+Edgar_Degas,depiction,Three_Dancers_in_Yellow_Skirts_Edgar_Degas.jpg
+Edgar_Degas,birthName,Hilaire-Germain-Edgar De Gas
+Edgar_Degas,field,Sculpture
+Edgar_Degas,movement,Impressionism
+Edgar_Degas,notableWork,A_Cotton_Office_in_New_Orleans
+Edgar_Degas,notableWork,L'Absinthe
+Edgar_Degas,notableWork,"The_Ballet_Class_(Degas,_Musée_d'Orsay)"
+Edgar_Degas,notableWork,The_Bellelli_Family
+Edgar_Degas,notableWork,The_Tub
+Edgar_Degas,thumbnail,Self-portrait_by_Edgar_Degas.jpg?width=300
+Edgar_Degas,wikiPageUsesTemplate,Template:Cite_book
+Edgar_Degas,wikiPageUsesTemplate,Template:Degas
+Edgar_Degas,wikiPageUsesTemplate,Template:MMoAobject
+Edgar_Degas,wikiPageUsesTemplate,Template:Art_UK_bio
+Edgar_Degas,wikiPageUsesTemplate,Template:Authority_control_(arts)
+Edgar_Degas,wikiPageUsesTemplate,Template:Birth_date
+Edgar_Degas,wikiPageUsesTemplate,Template:Circa
+Edgar_Degas,wikiPageUsesTemplate,Template:Citation_needed
+Edgar_Degas,wikiPageUsesTemplate,Template:Cite_web
+Edgar_Degas,wikiPageUsesTemplate,Template:Commons
+Edgar_Degas,wikiPageUsesTemplate,Template:Death_date_and_age
+Edgar_Degas,wikiPageUsesTemplate,Template:EB1911_poster
+Edgar_Degas,wikiPageUsesTemplate,Template:Efn
+Edgar_Degas,wikiPageUsesTemplate,Template:External_media
+Edgar_Degas,wikiPageUsesTemplate,Template:FrenchSculptureCensus
+Edgar_Degas,wikiPageUsesTemplate,Template:Google_books
+Edgar_Degas,wikiPageUsesTemplate,Template:Harvid
+Edgar_Degas,wikiPageUsesTemplate,Template:IPA
+Edgar_Degas,wikiPageUsesTemplate,Template:IPAc-en
+Edgar_Degas,wikiPageUsesTemplate,Template:ISBN
+Edgar_Degas,wikiPageUsesTemplate,Template:Impressionists
+Edgar_Degas,wikiPageUsesTemplate,Template:Infobox_artist
+Edgar_Degas,wikiPageUsesTemplate,Template:Infobox_person
+Edgar_Degas,wikiPageUsesTemplate,Template:Interlanguage_link
+Edgar_Degas,wikiPageUsesTemplate,Template:Notelist
+Edgar_Degas,wikiPageUsesTemplate,Template:OCLC
+Edgar_Degas,wikiPageUsesTemplate,Template:Redirect
+Edgar_Degas,wikiPageUsesTemplate,Template:Refbegin
+Edgar_Degas,wikiPageUsesTemplate,Template:Refend
+Edgar_Degas,wikiPageUsesTemplate,Template:Reflist
+Edgar_Degas,wikiPageUsesTemplate,Template:Sfn
+Edgar_Degas,wikiPageUsesTemplate,Template:Short_description
+Edgar_Degas,wikiPageUsesTemplate,Template:Spnd
+Edgar_Degas,wikiPageUsesTemplate,Template:Use_dmy_dates
+Edgar_Degas,wikiPageUsesTemplate,Template:Webarchive
+Edgar_Degas,wikiPageUsesTemplate,Template:Wikiquote
+Edgar_Degas,wikiPageUsesTemplate,Template:YouTube
+Edgar_Degas,birthDate,1834-07-19
+Edgar_Degas,deathDate,1917-09-27
+Edgar_Degas,imageUpright,1
+Edgar_Degas,float,right
+Edgar_Degas,birthName,Hilaire-Germain-Edgar De Gas
+Edgar_Degas,wasDerivedFrom,Edgar_Degas?oldid=1312264535&ns=0
+Edgar_Degas,field,"Painting, sculpture, drawing"
+Edgar_Degas,works,
+Edgar_Degas,works,The Bellelli Family
+Edgar_Degas,works,The Tub
+Edgar_Degas,works,A Cotton Office in New Orleans
+Edgar_Degas,works,The Absinthe
+Edgar_Degas,works,The Ballet Class
+Edgar_Degas,caption,"Self-portrait , 1863"
+Edgar_Degas,width,210
+Edgar_Degas,date,2012-08-19
+Edgar_Degas,url,26580
+Edgar_Degas,headerimage,210
+Edgar_Degas,movement,Impressionism
+Edgar_Degas,video,", Art Institute of Chicago"
+Edgar_Degas,video,"Degas' The Dance Class, Smarthistory"
+Edgar_Degas,video,"Edgar Degas's Studies of Circus Performer, Miss Lala, Getty Museum"
+Edgar_Degas,hypernym,Artist
+Edgar_Degas,isPrimaryTopicOf,Edgar_Degas
+Edgar_Degas,wordnet_type,synset-artist-noun-1
+Edgar_Degas,sameAs,41863744

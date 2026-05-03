@@ -1,0 +1,162 @@
+subject,predicate,object
+Bahman_Mohasses,type,owl#Thing
+Bahman_Mohasses,type,Person
+Bahman_Mohasses,type,Person
+Bahman_Mohasses,type,Person
+Bahman_Mohasses,type,DUL.owl#NaturalPerson
+Bahman_Mohasses,type,Q19088
+Bahman_Mohasses,type,Q215627
+Bahman_Mohasses,type,Q483501
+Bahman_Mohasses,type,Q5
+Bahman_Mohasses,type,Q729
+Bahman_Mohasses,type,Animal
+Bahman_Mohasses,type,Animal
+Bahman_Mohasses,type,Artist
+Bahman_Mohasses,type,Artist
+Bahman_Mohasses,type,Artist
+Bahman_Mohasses,type,Eukaryote
+Bahman_Mohasses,type,Eukaryote
+Bahman_Mohasses,type,Species
+Bahman_Mohasses,type,Species
+Bahman_Mohasses,type,Person
+Bahman_Mohasses,sameAs,Bahman_Mohasses
+Bahman_Mohasses,sameAs,m.0y5f_vx
+Bahman_Mohasses,sameAs,311496711
+Bahman_Mohasses,sameAs,Q800248
+Bahman_Mohasses,sameAs,Bahman_Mohasses
+Bahman_Mohasses,sameAs,Bahman_Mohasses
+Bahman_Mohasses,sameAs,Bahman_Mohassess
+Bahman_Mohasses,sameAs,1081574216
+Bahman_Mohasses,sameAs,باهمان_موهاسيس
+Bahman_Mohasses,sameAs,بهمن_محصص
+Bahman_Mohasses,sameAs,4xYvk
+Bahman_Mohasses,name,Bahman Mohassess
+Bahman_Mohasses,name,بهمن محصص
+Bahman_Mohasses,label,Bahman Mohasses
+Bahman_Mohasses,label,Bahman Mohasses
+Bahman_Mohasses,label,Bahman Mohasses
+Bahman_Mohasses,label,Bahman Mohassess
+Bahman_Mohasses,deathPlace,Italy
+Bahman_Mohasses,deathPlace,Rome
+Bahman_Mohasses,deathPlace,Italy
+Bahman_Mohasses,deathPlace,Rome
+Bahman_Mohasses,deathDate,2010-07-28
+Bahman_Mohasses,birthPlace,Pahlavi_Iran
+Bahman_Mohasses,birthPlace,Rasht
+Bahman_Mohasses,birthPlace,Pahlavi_Iran
+Bahman_Mohasses,birthPlace,Rasht
+Bahman_Mohasses,birthDate,1931-03-01
+Bahman_Mohasses,subject,Category:1931_births
+Bahman_Mohasses,subject,Category:Iranian_painters
+Bahman_Mohasses,subject,Category:People_from_Rasht
+Bahman_Mohasses,subject,Category:2010_deaths
+Bahman_Mohasses,subject,Category:Iranian_theatre_directors
+Bahman_Mohasses,subject,Category:20th-century_Iranian_male_artists
+Bahman_Mohasses,subject,Category:Accademia_di_Belle_Arti_di_Roma_alumni
+Bahman_Mohasses,subject,Category:Iranian_printmakers
+Bahman_Mohasses,subject,Category:Gay_painters
+Bahman_Mohasses,subject,Category:Gay_sculptors
+Bahman_Mohasses,subject,Category:Iranian_modern_painters
+Bahman_Mohasses,subject,Category:Iranian_male_painters
+Bahman_Mohasses,subject,Category:Iranian_gay_artists
+Bahman_Mohasses,subject,Category:20th-century_Iranian_LGBTQ_people
+Bahman_Mohasses,subject,Category:21st-century_Iranian_LGBTQ_people
+Bahman_Mohasses,subject,Category:Iranian_LGBTQ_painters
+Bahman_Mohasses,subject,Category:Iranian_LGBTQ_sculptors
+Bahman_Mohasses,wikiPageWikiLink,Houshang_Irani
+Bahman_Mohasses,wikiPageWikiLink,Category:1931_births
+Bahman_Mohasses,wikiPageWikiLink,Culture_of_Iran
+Bahman_Mohasses,wikiPageWikiLink,Sohrab_Sepehri
+Bahman_Mohasses,wikiPageWikiLink,Jalil_Ziapour
+Bahman_Mohasses,wikiPageWikiLink,Iran
+Bahman_Mohasses,wikiPageWikiLink,Italy
+Bahman_Mohasses,wikiPageWikiLink,Luigi_Pirandello
+Bahman_Mohasses,wikiPageWikiLink,Moscow
+Bahman_Mohasses,wikiPageWikiLink,Rome
+Bahman_Mohasses,wikiPageWikiLink,Category:Iranian_painters
+Bahman_Mohasses,wikiPageWikiLink,Bandar-e_Anzali
+Bahman_Mohasses,wikiPageWikiLink,Henry_IV_(Pirandello)
+Bahman_Mohasses,wikiPageWikiLink,Pahlavi_Iran
+Bahman_Mohasses,wikiPageWikiLink,Tehran
+Bahman_Mohasses,wikiPageWikiLink,Minotaur
+Bahman_Mohasses,wikiPageWikiLink,Rasht
+Bahman_Mohasses,wikiPageWikiLink,Avant-garde
+Bahman_Mohasses,wikiPageWikiLink,Ardeshir_Mohasses
+Bahman_Mohasses,wikiPageWikiLink,Eugène_Ionesco
+Bahman_Mohasses,wikiPageWikiLink,Lahijan
+Bahman_Mohasses,wikiPageWikiLink,Venice_Biennale
+Bahman_Mohasses,wikiPageWikiLink,Accademia_di_Belle_Arti_di_Roma
+Bahman_Mohasses,wikiPageWikiLink,Francis_Bacon_(artist)
+Bahman_Mohasses,wikiPageWikiLink,Nima_Yooshij
+Bahman_Mohasses,wikiPageWikiLink,Islamic_art
+Bahman_Mohasses,wikiPageWikiLink,Category:People_from_Rasht
+Bahman_Mohasses,wikiPageWikiLink,Tehran_Museum_of_Contemporary_Art
+Bahman_Mohasses,wikiPageWikiLink,Russian_Academy_of_Arts
+Bahman_Mohasses,wikiPageWikiLink,Mitra_Farahani
+Bahman_Mohasses,wikiPageWikiLink,List_of_Iranian_artists
+Bahman_Mohasses,wikiPageWikiLink,Category:2010_deaths
+Bahman_Mohasses,wikiPageWikiLink,Category:Iranian_theatre_directors
+Bahman_Mohasses,wikiPageWikiLink,Category:Gay_artists
+Bahman_Mohasses,wikiPageWikiLink,Category:21st-century_LGBT_people
+Bahman_Mohasses,wikiPageWikiLink,Category:Accademia_di_Belle_Arti_di_Roma_alumni
+Bahman_Mohasses,wikiPageWikiLink,Goethe_Institute
+Bahman_Mohasses,wikiPageWikiLink,Tehran_University_of_Art
+Bahman_Mohasses,wikiPageWikiLink,Biennale_de_São_Paulo
+Bahman_Mohasses,wikiPageWikiLink,Malaparte
+Bahman_Mohasses,wikiPageWikiLink,1979_Revolution
+Bahman_Mohasses,wikiPageWikiLink,Fifi_Howls_from_Happiness
+Bahman_Mohasses,wikiPageWikiLink,Iranian_art
+Bahman_Mohasses,wikiPageWikiLink,File:Chairs_mohassess.jpg
+Bahman_Mohasses,wikiPageWikiLink,Ghandriz_hall
+Bahman_Mohasses,wikiPageWikiLink,Gholamhossein_Gharib
+Bahman_Mohasses,wikiPageWikiLink,Seyyed_Mohammed_Habib_Mohammedi
+Bahman_Mohasses,wikiPageWikiLink,Category:LGBT_artists_from_Iran
+Bahman_Mohasses,wikiPageExternalLink,
+Bahman_Mohasses,wikiPageExternalLink,135110
+Bahman_Mohasses,wikiPageExternalLink,
+Bahman_Mohasses,wikiPageExternalLink,100729_l11_bahman_mohasses.shtml
+Bahman_Mohasses,wikiPageExternalLink,131105_l44_golestan_mohasses_fifi_move
+Bahman_Mohasses,description,אמן איטלקי
+Bahman_Mohasses,description,Iraani kunstnik
+Bahman_Mohasses,description,artista iraní
+Bahman_Mohasses,description,ealaíontóir Iaránach
+Bahman_Mohasses,description,ইরানী শিল্পী
+Bahman_Mohasses,description,artist iranian
+Bahman_Mohasses,description,artist iranian
+Bahman_Mohasses,description,artista iraniano
+Bahman_Mohasses,description,artista iranià
+Bahman_Mohasses,description,artiste iranien
+Bahman_Mohasses,description,فنان إيراني
+Bahman_Mohasses,description,Iranian artist (1931-2010)
+Bahman_Mohasses,description,"iranischer Maler, Bildhauer und Übersetzer"
+Bahman_Mohasses,description,kunstschilder uit Iran (1931-2010)
+Bahman_Mohasses,description,هنرمند، مترجم، نقاش، و مجسمه‌ساز ایرانی
+Bahman_Mohasses,description,İranlı ressam (1931-2010)
+Bahman_Mohasses,homepage,
+Bahman_Mohasses,name,Bahman Mohassess
+Bahman_Mohasses,name,بهمن محصص
+Bahman_Mohasses,depiction,Bahman_Mohasses.jpg
+Bahman_Mohasses,depiction,Chairs_mohassess.jpg
+Bahman_Mohasses,almaMater,University_of_Art
+Bahman_Mohasses,knownFor,"Painter, sculptor, translator, theatre director"
+Bahman_Mohasses,thumbnail,Bahman_Mohasses.jpg?width=300
+Bahman_Mohasses,wikiPageUsesTemplate,Template:Authority_control
+Bahman_Mohasses,wikiPageUsesTemplate,Template:Birth_date
+Bahman_Mohasses,wikiPageUsesTemplate,Template:Cite_journal
+Bahman_Mohasses,wikiPageUsesTemplate,Template:Death_date_and_age
+Bahman_Mohasses,wikiPageUsesTemplate,Template:IMDb_title
+Bahman_Mohasses,wikiPageUsesTemplate,Template:Infobox_artist
+Bahman_Mohasses,wikiPageUsesTemplate,Template:Infobox_person
+Bahman_Mohasses,wikiPageUsesTemplate,Template:Interlanguage_link
+Bahman_Mohasses,wikiPageUsesTemplate,Template:Langx
+Bahman_Mohasses,wikiPageUsesTemplate,Template:Reflist
+Bahman_Mohasses,wikiPageUsesTemplate,Template:Rotten-tomatoes
+Bahman_Mohasses,wikiPageUsesTemplate,Template:Short_description
+Bahman_Mohasses,wikiPageUsesTemplate,Template:URL
+Bahman_Mohasses,wikiPageUsesTemplate,Template:Use_dmy_dates
+Bahman_Mohasses,birthDate,1931-03-01
+Bahman_Mohasses,deathDate,2010-07-28
+Bahman_Mohasses,wasDerivedFrom,Bahman_Mohasses?oldid=1311647476&ns=0
+Bahman_Mohasses,hypernym,Painter
+Bahman_Mohasses,isPrimaryTopicOf,Bahman_Mohasses
+Bahman_Mohasses,sameAs,311496711

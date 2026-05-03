@@ -1,0 +1,383 @@
+subject,predicate,object
+Balthus,type,owl#Thing
+Balthus,type,Person
+Balthus,type,Person
+Balthus,type,Person
+Balthus,type,DUL.owl#NaturalPerson
+Balthus,type,Q19088
+Balthus,type,Q215627
+Balthus,type,Q483501
+Balthus,type,Q5
+Balthus,type,Q729
+Balthus,type,Animal
+Balthus,type,Animal
+Balthus,type,Artist
+Balthus,type,Artist
+Balthus,type,Artist
+Balthus,type,Eukaryote
+Balthus,type,Eukaryote
+Balthus,type,Species
+Balthus,type,Species
+Balthus,type,Person
+Balthus,sameAs,Balthus
+Balthus,sameAs,m.03lvgz
+Balthus,sameAs,68923634
+Balthus,sameAs,118506331
+Balthus,sameAs,Q325925
+Balthus,sameAs,Balthus
+Balthus,sameAs,Balthus
+Balthus,sameAs,Balthus
+Balthus,sameAs,Balthus
+Balthus,sameAs,Balthus
+Balthus,sameAs,Balthus
+Balthus,sameAs,בלטוס
+Balthus,sameAs,バルテュス
+Balthus,sameAs,Balthus
+Balthus,sameAs,Balthus
+Balthus,sameAs,Бальтюс
+Balthus,sameAs,巴尔蒂斯
+Balthus,sameAs,Balthus
+Balthus,sameAs,Балтус
+Balthus,sameAs,Balthus
+Balthus,sameAs,160095751
+Balthus,sameAs,cf74c309-d619-4f98-afd2-2655880e4109
+Balthus,sameAs,p069462739
+Balthus,sameAs,بالثوس
+Balthus,sameAs,Balthus
+Balthus,sameAs,Balthus
+Balthus,sameAs,Balthus
+Balthus,sameAs,Balthus
+Balthus,sameAs,بالتوس
+Balthus,sameAs,Balthus
+Balthus,sameAs,ბალთუსი
+Balthus,sameAs,Balthus
+Balthus,sameAs,Balthus
+Balthus,sameAs,Balthus
+Balthus,sameAs,Balthus
+Balthus,sameAs,Балтус
+Balthus,sameAs,Балтус
+Balthus,sameAs,2zxPL
+Balthus,name,Balthus
+Balthus,label,Balthus
+Balthus,label,Balthus
+Balthus,label,Balthus
+Balthus,label,Balthus
+Balthus,label,Balthus
+Balthus,label,Balthus
+Balthus,label,Balthus
+Balthus,label,バルテュス
+Balthus,label,Balthus
+Balthus,label,Balthus
+Balthus,label,Balthus
+Balthus,label,Balthus
+Balthus,label,Balthus
+Balthus,label,Бальтюс
+Balthus,label,Balthus
+Balthus,label,巴尔蒂斯
+Balthus,deathPlace,Rossinière
+Balthus,deathPlace,"Rossinière, Switzerland"
+Balthus,deathDate,2001-02-18
+Balthus,birthPlace,"Paris, France"
+Balthus,birthDate,1908-02-29
+Balthus,subject,Category:Polish_erotic_artists
+Balthus,subject,Category:2001_deaths
+Balthus,subject,Category:Painters_from_Paris
+Balthus,subject,Category:20th-century_French_painters
+Balthus,subject,Category:Recipients_of_the_Praemium_Imperiale
+Balthus,subject,Category:1908_births
+Balthus,subject,Category:Cat_artists
+Balthus,subject,Category:French_male_painters
+Balthus,subject,Category:French_erotic_artists
+Balthus,subject,Category:French_people_of_Russian-Jewish_descent
+Balthus,subject,Category:Wordless_novels
+Balthus,subject,Category:Polish_male_painters
+Balthus,subject,Category:20th-century_French_male_artists
+Balthus,subject,Category:20th-century_Polish_male_artists
+Balthus,subject,Category:French_modern_painters
+Balthus,subject,Category:Pseudonymous_painters
+Balthus,subject,Category:Honorary_members_of_the_Royal_Academy
+Balthus,wikiPageWikiLink,Emily_Brontë
+Balthus,wikiPageWikiLink,French_Academy_in_Rome
+Balthus,wikiPageWikiLink,Rainer_Maria_Rilke
+Balthus,wikiPageWikiLink,Supermodel
+Balthus,wikiPageWikiLink,Cantonal_Museum_of_Fine_Arts
+Balthus,wikiPageWikiLink,Bern
+Balthus,wikiPageWikiLink,Essen
+Balthus,wikiPageWikiLink,Florence
+Balthus,wikiPageWikiLink,Geneva
+Balthus,wikiPageWikiLink,Lausanne
+Balthus,wikiPageWikiLink,Morocco
+Balthus,wikiPageWikiLink,Russia
+Balthus,wikiPageWikiLink,U2
+Balthus,wikiPageWikiLink,World_War_I
+Balthus,wikiPageWikiLink,Baladine_Klossowska
+Balthus,wikiPageWikiLink,Erich_Klossowski
+Balthus,wikiPageWikiLink,Roberta_Smith
+Balthus,wikiPageWikiLink,The_Cenci
+Balthus,wikiPageWikiLink,Category:Polish_erotic_artists
+Balthus,wikiPageWikiLink,Aix-en-Provence
+Balthus,wikiPageWikiLink,Antoine_de_Saint-Exupéry
+Balthus,wikiPageWikiLink,Bono
+Balthus,wikiPageWikiLink,Cubism
+Balthus,wikiPageWikiLink,David_Bowie
+Balthus,wikiPageWikiLink,Drawing
+Balthus,wikiPageWikiLink,Federico_Fellini
+Balthus,wikiPageWikiLink,Francisco_Goya
+Balthus,wikiPageWikiLink,Fresco
+Balthus,wikiPageWikiLink,German_Empire
+Balthus,wikiPageWikiLink,Nazi_Germany
+Balthus,wikiPageWikiLink,Pablo_Picasso
+Balthus,wikiPageWikiLink,Painting
+Balthus,wikiPageWikiLink,Pedophilia
+Balthus,wikiPageWikiLink,Piero_della_Francesca
+Balthus,wikiPageWikiLink,Pierre_Matisse
+Balthus,wikiPageWikiLink,Prime_minister
+Balthus,wikiPageWikiLink,Renaissance
+Balthus,wikiPageWikiLink,Salvador_Dalí
+Balthus,wikiPageWikiLink,The_New_York_Times
+Balthus,wikiPageWikiLink,André_Breton
+Balthus,wikiPageWikiLink,French_Resistance
+Balthus,wikiPageWikiLink,Jean-Pierre_Léaud
+Balthus,wikiPageWikiLink,Novogrudok
+Balthus,wikiPageWikiLink,Percy_Bysshe_Shelley
+Balthus,wikiPageWikiLink,Alberto_Giacometti
+Balthus,wikiPageWikiLink,Félix_Vallotton
+Balthus,wikiPageWikiLink,Jean-Étienne_Liotard
+Balthus,wikiPageWikiLink,Maya_Hawke
+Balthus,wikiPageWikiLink,Philip_Pullman
+Balthus,wikiPageWikiLink,Alfred_A._Knopf
+Balthus,wikiPageWikiLink,Claude_Jade
+Balthus,wikiPageWikiLink,East_Prussia
+Balthus,wikiPageWikiLink,Louvre
+Balthus,wikiPageWikiLink,Savoy
+Balthus,wikiPageWikiLink,Aix-les-Bains
+Balthus,wikiPageWikiLink,Albert_Camus
+Balthus,wikiPageWikiLink,Gustave_Courbet
+Balthus,wikiPageWikiLink,Hurlevent
+Balthus,wikiPageWikiLink,Jean-Baptiste-Camille_Corot
+Balthus,wikiPageWikiLink,Jean_Cocteau
+Balthus,wikiPageWikiLink,Modern_art
+Balthus,wikiPageWikiLink,Museum_of_Modern_Art
+Balthus,wikiPageWikiLink,Pierre_Bonnard
+Balthus,wikiPageWikiLink,Antonin_Artaud
+Balthus,wikiPageWikiLink,Rossinière
+Balthus,wikiPageWikiLink,Albert_Skira
+Balthus,wikiPageWikiLink,Oliver_Mark
+Balthus,wikiPageWikiLink,Henri_Michaux
+Balthus,wikiPageWikiLink,Northern_Lights_(Pullman_novel)
+Balthus,wikiPageWikiLink,Émile_Chambon
+Balthus,wikiPageWikiLink,Tokyo_Metropolitan_Art_Museum
+Balthus,wikiPageWikiLink,Maurice_Denis
+Balthus,wikiPageWikiLink,Kimono
+Balthus,wikiPageWikiLink,Stephen_Dobyns
+Balthus,wikiPageWikiLink,Moss_(Maya_Hawke_album)
+Balthus,wikiPageWikiLink,Elle_Macpherson
+Balthus,wikiPageWikiLink,François_Truffaut
+Balthus,wikiPageWikiLink,Guy_Davenport
+Balthus,wikiPageWikiLink,Jacques_Rivette
+Balthus,wikiPageWikiLink,Joseph_Reinhardt
+Balthus,wikiPageWikiLink,Metropolitan_Museum_of_Art
+Balthus,wikiPageWikiLink,Museum_Folkwang
+Balthus,wikiPageWikiLink,Praemium_Imperiale
+Balthus,wikiPageWikiLink,Harold_Budd
+Balthus,wikiPageWikiLink,Palazzo_Grassi
+Balthus,wikiPageWikiLink,Ugo_Betti
+Balthus,wikiPageWikiLink,André_Gide
+Balthus,wikiPageWikiLink,Edgar_Degas
+Balthus,wikiPageWikiLink,Kishin_Shinoyama
+Balthus,wikiPageWikiLink,Lewis_Carroll
+Balthus,wikiPageWikiLink,Man_Ray
+Balthus,wikiPageWikiLink,Nicolas_Poussin
+Balthus,wikiPageWikiLink,Paul_Cézanne
+Balthus,wikiPageWikiLink,Southern_France
+Balthus,wikiPageWikiLink,Tay–Sachs_disease
+Balthus,wikiPageWikiLink,Venice_Biennale
+Balthus,wikiPageWikiLink,André_Derain
+Balthus,wikiPageWikiLink,André_Malraux
+Balthus,wikiPageWikiLink,Die_Zeit
+Balthus,wikiPageWikiLink,Henri_Cartier-Bresson
+Balthus,wikiPageWikiLink,Martine_Franck
+Balthus,wikiPageWikiLink,Tempera
+Balthus,wikiPageWikiLink,Théodore_Géricault
+Balthus,wikiPageWikiLink,Joyce_Carol_Oates
+Balthus,wikiPageWikiLink,Simone_Martini
+Balthus,wikiPageWikiLink,Taschen
+Balthus,wikiPageWikiLink,Duane_Michals
+Balthus,wikiPageWikiLink,Michel_Leiris
+Balthus,wikiPageWikiLink,Raphaël_Aubert
+Balthus,wikiPageWikiLink,Grand_Chalet
+Balthus,wikiPageWikiLink,William_Minor_(poet)
+Balthus,wikiPageWikiLink,"Musée_des_Arts_Décoratifs,_Paris"
+Balthus,wikiPageWikiLink,Così_fan_tutte
+Balthus,wikiPageWikiLink,Julius_Caesar_(play)
+Balthus,wikiPageWikiLink,Pierre_Klossowski
+Balthus,wikiPageWikiLink,Thomas_Harris
+Balthus,wikiPageWikiLink,Rola_coat_of_arms
+Balthus,wikiPageWikiLink,Balthus_Through_the_Looking_Glass
+Balthus,wikiPageWikiLink,Damian_Pettigrew
+Balthus,wikiPageWikiLink,Jean_Clair
+Balthus,wikiPageWikiLink,Pierre_Leyris
+Balthus,wikiPageWikiLink,Beatenberg
+Balthus,wikiPageWikiLink,Jacques_Lacan
+Balthus,wikiPageWikiLink,Jean-Louis_Barrault
+Balthus,wikiPageWikiLink,Joan_Miró
+Balthus,wikiPageWikiLink,Kenitra
+Balthus,wikiPageWikiLink,Mon_(emblem)
+Balthus,wikiPageWikiLink,French_New_Wave
+Balthus,wikiPageWikiLink,Honoré_Daumier
+Balthus,wikiPageWikiLink,The_White_Arcades
+Balthus,wikiPageWikiLink,Morvan
+Balthus,wikiPageWikiLink,Museum_Ludwig
+Balthus,wikiPageWikiLink,Hazzan
+Balthus,wikiPageWikiLink,Nude_Before_a_Mirror
+Balthus,wikiPageWikiLink,René_Char
+Balthus,wikiPageWikiLink,Semir_Zeki
+Balthus,wikiPageWikiLink,Setsuko_Klossowska_de_Rola
+Balthus,wikiPageWikiLink,The_State_of_Siege
+Balthus,wikiPageWikiLink,Champrovent
+Balthus,wikiPageWikiLink,André_Masson
+Balthus,wikiPageWikiLink,Hannibal_(Harris_novel)
+Balthus,wikiPageWikiLink,Szlachta
+Balthus,wikiPageWikiLink,Pierre_Jean_Jouve
+Balthus,wikiPageWikiLink,Renato_Guttuso
+Balthus,wikiPageWikiLink,Christopher_Hope_(novelist)
+Balthus,wikiPageWikiLink,Naryshkin_family
+Balthus,wikiPageWikiLink,Confabulation
+Balthus,wikiPageWikiLink,Joseph_Breitbach
+Balthus,wikiPageWikiLink,Category:2001_deaths
+Balthus,wikiPageWikiLink,Category:Painters_from_Paris
+Balthus,wikiPageWikiLink,Category:20th-century_French_painters
+Balthus,wikiPageWikiLink,Philip_Kennicott
+Balthus,wikiPageWikiLink,Category:Recipients_of_the_Praemium_Imperiale
+Balthus,wikiPageWikiLink,Category:Modern_painters
+Balthus,wikiPageWikiLink,Category:1908_births
+Balthus,wikiPageWikiLink,Category:Cat_artists
+Balthus,wikiPageWikiLink,Category:French_male_painters
+Balthus,wikiPageWikiLink,Category:French_erotic_artists
+Balthus,wikiPageWikiLink,Category:French_people_of_Russian-Jewish_descent
+Balthus,wikiPageWikiLink,Petty_nobility
+Balthus,wikiPageWikiLink,Category:Polish_male_painters
+Balthus,wikiPageWikiLink,Category:20th-century_French_male_artists
+Balthus,wikiPageWikiLink,Category:20th-century_Polish_male_artists
+Balthus,wikiPageWikiLink,Sephardic
+Balthus,wikiPageWikiLink,"Harry_N._Abrams,_Inc."
+Balthus,wikiPageWikiLink,Korelichi
+Balthus,wikiPageWikiLink,Ragnit
+Balthus,wikiPageWikiLink,Les_Enfants_Terribles
+Balthus,wikiPageWikiLink,File:Balthusnude.jpg
+Balthus,wikiPageWikiLink,File:Guitarlesson.jpg
+Balthus,wikiPageWikiLink,Fes
+Balthus,wikiPageWikiLink,Minister_of_Culture_(France)
+Balthus,wikiPageWikiLink,Modernist
+Balthus,wikiPageWikiLink,Mozart
+Balthus,wikiPageWikiLink,Romanov
+Balthus,wikiPageWikiLink,Watercolor
+Balthus,wikiPageWikiLink,Russian_Jews
+Balthus,wikiPageWikiLink,Musée_d'Art_Moderne_de_la_Ville_de_Paris
+Balthus,wikiPageWikiLink,Surrealists
+Balthus,wikiPageWikiLink,De_Chirico
+Balthus,wikiPageWikiLink,Jean_Auguste_Dominique_Ingres
+Balthus,wikiPageWikiLink,Gallimard
+Balthus,wikiPageWikiLink,Tate_Gallery
+Balthus,wikiPageWikiLink,"Museum_of_Contemporary_Art,_Chicago"
+Balthus,wikiPageWikiLink,Adolphe_Mouron_Cassandre
+Balthus,wikiPageWikiLink,Musée_Cantonal_des_Beaux-Arts
+Balthus,wikiPageWikiLink,Malraux
+Balthus,wikiPageWikiLink,Bed_and_Board_(1970_film)
+Balthus,wikiPageWikiLink,Planète_(TV_channel)
+Balthus,wikiPageWikiLink,Robert_Dassanowsky
+Balthus,wikiPageWikiLink,Villa_de_Medici
+Balthus,wikiPageWikiLink,Prince_Sadruddhin_Aga_Khan
+Balthus,wikiPageWikiLink,Tommaso_Masaccio
+Balthus,wikiPageWikiLink,File:BalthusChaletbackview.jpg
+Balthus,wikiPageWikiLink,File:Roma_Villa_Medici.jpg
+Balthus,wikiPageWikiLink,Category:Honorary_Members_of_the_Royal_Academy
+Balthus,wikiPageExternalLink,
+Balthus,wikiPageExternalLink,
+Balthus,wikiPageExternalLink,
+Balthus,wikiPageExternalLink,balthus.htm
+Balthus,wikiPageExternalLink,020401.html
+Balthus,description,Prantsusmaa maalikunstnik
+Balthus,description,livour galleg
+Balthus,description,margolari frantziarra
+Balthus,description,pictor francez
+Balthus,description,piktor francez
+Balthus,description,pintor francès
+Balthus,description,pintor francés
+Balthus,description,pintor franses
+Balthus,description,péintéir Francach
+Balthus,description,ֆրանսիացի նկարիչ
+Balthus,description,צייר צרפתי
+Balthus,description,رسام فرنسي
+Balthus,description,ফরাসি চিত্রশিল্পী
+Balthus,description,peintre français
+Balthus,description,pintor francés
+Balthus,description,pintor francês
+Balthus,description,pittore francese
+Balthus,description,Γάλλος ζωγράφος
+Balthus,description,نقاش فرانسوی
+Balthus,description,French painter
+Balthus,description,французький художник
+Balthus,description,fransk bildkonstnär
+Balthus,description,画家
+Balthus,description,Frans kunstschilder (1908–2001)
+Balthus,description,Fransız ressam (1908 – 2001)
+Balthus,description,artista polaco-francés
+Balthus,description,polnisch-französischer Maler
+Balthus,description,polsko-francouzský malíř
+Balthus,name,Balthus
+Balthus,depiction,"Oliver_Mark_-_Balthus,_Rossinière_2000_(2).jpg"
+Balthus,depiction,BalthusChaletbackview.jpg
+Balthus,depiction,BalthusFace.jpg
+Balthus,depiction,Balthusnude.jpg
+Balthus,depiction,Guitarlesson.jpg
+Balthus,depiction,"Oliver_Mark_-_Balthus,_Rossinière_2000_(1).jpg"
+Balthus,depiction,Roma_Villa_Medici.jpg
+Balthus,imageSize,200
+Balthus,awards,Praemium_Imperiale
+Balthus,award,Praemium_Imperiale
+Balthus,birthName,Balthasar Klossowski
+Balthus,child,Harumi_Klossowska_de_Rola
+Balthus,field,Drawing
+Balthus,field,Painting
+Balthus,field,Watercolor_painting
+Balthus,notableWork,Nude_Before_a_Mirror
+Balthus,spouse,Setsuko_Klossowska_de_Rola
+Balthus,thumbnail,BalthusFace.jpg?width=300
+Balthus,footer,"Balthus portraits by Oliver Mark, Rossinière 2000"
+Balthus,wikiPageUsesTemplate,Template:French_Academy_in_Rome_directors
+Balthus,wikiPageUsesTemplate,Template:Authority_control_(arts)
+Balthus,wikiPageUsesTemplate,Template:Birth_date
+Balthus,wikiPageUsesTemplate,Template:Citation_needed
+Balthus,wikiPageUsesTemplate,Template:Death_date_and_age
+Balthus,wikiPageUsesTemplate,Template:For
+Balthus,wikiPageUsesTemplate,Template:IMDb_title
+Balthus,wikiPageUsesTemplate,Template:ISBN
+Balthus,wikiPageUsesTemplate,Template:Infobox_artist
+Balthus,wikiPageUsesTemplate,Template:MoMA_artist
+Balthus,wikiPageUsesTemplate,Template:Multiple_image
+Balthus,wikiPageUsesTemplate,Template:Reflist
+Balthus,wikiPageUsesTemplate,Template:Short_description
+Balthus,wikiPageUsesTemplate,Template:Transliteration
+Balthus,wikiPageUsesTemplate,Template:Which%3F
+Balthus,wikiPageUsesTemplate,Template:Commons_category
+Balthus,birthDate,1908-02-29
+Balthus,deathDate,2001-02-18
+Balthus,spouse,"Antoinette de Watteville , Setsuko Klossowska de Rola"
+Balthus,direction,vertical
+Balthus,birthName,Balthasar Klossowski
+Balthus,wasDerivedFrom,Balthus?oldid=1303368997&ns=0
+Balthus,field,Drawing
+Balthus,field,Painting
+Balthus,field,Watercolor_painting
+Balthus,works,The Mountain
+Balthus,works,The Street
+Balthus,works,Nude Before a Mirror
+Balthus,align,right
+Balthus,caption,Balthus by Damian Pettigrew
+Balthus,children,"Stanislas Klossowski de Rola, Thaddeus Klossowski de Rola, Harumi Klossowska de Rola"
+Balthus,image,"Oliver Mark - Balthus, Rossinière 2000 .jpg"
+Balthus,nativeName,Balthasar Klossowski de Rola
+Balthus,hypernym,Artist
+Balthus,isPrimaryTopicOf,Balthus
+Balthus,sameAs,68923634

@@ -1,0 +1,636 @@
+subject,predicate,object
+Marcel_Duchamp,type,owl#Thing
+Marcel_Duchamp,type,Person
+Marcel_Duchamp,type,Person
+Marcel_Duchamp,type,Person
+Marcel_Duchamp,type,DUL.owl#NaturalPerson
+Marcel_Duchamp,type,Q19088
+Marcel_Duchamp,type,Q215627
+Marcel_Duchamp,type,Q483501
+Marcel_Duchamp,type,Q5
+Marcel_Duchamp,type,Q729
+Marcel_Duchamp,type,Animal
+Marcel_Duchamp,type,Animal
+Marcel_Duchamp,type,Artist
+Marcel_Duchamp,type,Artist
+Marcel_Duchamp,type,Artist
+Marcel_Duchamp,type,Eukaryote
+Marcel_Duchamp,type,Eukaryote
+Marcel_Duchamp,type,Species
+Marcel_Duchamp,type,Species
+Marcel_Duchamp,type,Person
+Marcel_Duchamp,type,Artist
+Marcel_Duchamp,type,PersonWithOccupation
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,36917441
+Marcel_Duchamp,sameAs,m.0bqch
+Marcel_Duchamp,sameAs,"Duchamp,%20Marcel"
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,11852772X
+Marcel_Duchamp,sameAs,Q5912
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,מרסל_דושאן
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,マルセル・デュシャン
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,"Дюшан,_Марсель"
+Marcel_Duchamp,sameAs,馬塞爾·杜尚
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Марсель_Дзюшан
+Marcel_Duchamp,sameAs,Μαρσέλ_Ντυσάν
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,마르셀_뒤샹
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,44ce0797-3ff8-4741-a303-71edd081cc9a
+Marcel_Duchamp,sameAs,p068624166
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,مارسيل_دوشامب
+Marcel_Duchamp,sameAs,مارسيل_دوشامب
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marsel_Düşan
+Marcel_Duchamp,sameAs,Марсель_Дюшан
+Marcel_Duchamp,sameAs,Марсел_Дюшан
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Марсель_Дюшан
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,مارسل_دوشان
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Մարսել_Դյուշան
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,მარსელ_დიუშანი
+Marcel_Duchamp,sameAs,Marcellus_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marsels_Dišāns
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Марсел_Дишан
+Marcel_Duchamp,sameAs,മാർസൽ_ഡുഷാംപ്
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,Марсел_Дишан
+Marcel_Duchamp,sameAs,มาร์แซล_ดูว์ช็อง
+Marcel_Duchamp,sameAs,Марсель_Дюшан
+Marcel_Duchamp,sameAs,Marcel_Duchamp
+Marcel_Duchamp,sameAs,4narY
+Marcel_Duchamp,name,Marcel Duchamp
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,Μαρσέλ Ντυσάν
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,مارسيل دوشامب
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,マルセル・デュシャン
+Marcel_Duchamp,label,마르셀 뒤샹
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,"Дюшан, Марсель"
+Marcel_Duchamp,label,Marcel Duchamp
+Marcel_Duchamp,label,Марсель Дюшан
+Marcel_Duchamp,label,馬塞爾·杜尚
+Marcel_Duchamp,deathPlace,Neuilly-sur-Seine
+Marcel_Duchamp,deathPlace,"Neuilly-sur-Seine, France"
+Marcel_Duchamp,deathDate,1968-10-02
+Marcel_Duchamp,birthPlace,Blainville-Crevon
+Marcel_Duchamp,birthPlace,"Blainville-Crevon, France"
+Marcel_Duchamp,birthDate,1887-07-28
+Marcel_Duchamp,subject,Category:French_atheists
+Marcel_Duchamp,subject,Category:20th-century_French_artists
+Marcel_Duchamp,subject,Category:Recycled_art_artists
+Marcel_Duchamp,subject,Category:Members_of_the_American_Academy_of_Arts_and_Letters
+Marcel_Duchamp,subject,"Category:People_from_Ridgefield,_New_Jersey"
+Marcel_Duchamp,subject,Category:French_librarians
+Marcel_Duchamp,subject,Category:Artists_from_New_York_City
+Marcel_Duchamp,subject,Category:1968_deaths
+Marcel_Duchamp,subject,Category:20th-century_French_sculptors
+Marcel_Duchamp,subject,Category:20th-century_French_painters
+Marcel_Duchamp,subject,Category:Naturalized_citizens_of_the_United_States
+Marcel_Duchamp,subject,Category:1887_births
+Marcel_Duchamp,subject,Category:People_from_Seine-Maritime
+Marcel_Duchamp,subject,Category:Dada
+Marcel_Duchamp,subject,Category:Lycée_Pierre-Corneille_alumni
+Marcel_Duchamp,subject,Category:Works_by_Marcel_Duchamp
+Marcel_Duchamp,subject,Category:French_conceptual_artists
+Marcel_Duchamp,subject,Category:French_surrealist_artists
+Marcel_Duchamp,subject,Category:French_male_painters
+Marcel_Duchamp,subject,Category:French_male_sculptors
+Marcel_Duchamp,subject,Category:French_emigrants_to_the_United_States
+Marcel_Duchamp,subject,Category:Dadaists
+Marcel_Duchamp,subject,Category:Pataphysicians
+Marcel_Duchamp,subject,Category:Chess_Olympiad_competitors
+Marcel_Duchamp,subject,Category:French_chess_players
+Marcel_Duchamp,subject,Category:French_chess_writers
+Marcel_Duchamp,subject,Category:French_experimental_filmmakers
+Marcel_Duchamp,subject,Category:French_mixed-media_artists
+Marcel_Duchamp,subject,Category:20th-century_French_male_writers
+Marcel_Duchamp,subject,Category:20th-century_French_chess_players
+Marcel_Duchamp,subject,Category:20th-century_French_male_artists
+Marcel_Duchamp,subject,Category:Sibling_artists
+Marcel_Duchamp,subject,Category:Oulipo_members
+Marcel_Duchamp,subject,Category:People_from_Greenwich_Village
+Marcel_Duchamp,subject,Category:French_cubist_artists
+Marcel_Duchamp,subject,Category:Artists_from_Normandy
+Marcel_Duchamp,subject,Category:French_modern_artists
+Marcel_Duchamp,subject,"Category:Writers_from_Bergen_County,_New_Jersey"
+Marcel_Duchamp,subject,Category:20th-century_French_non-fiction_writers
+Marcel_Duchamp,subject,Category:Sportspeople_from_Seine-Maritime
+Marcel_Duchamp,subject,Category:Académie_Julian_alumni
+Marcel_Duchamp,subject,Category:French_parodists
+Marcel_Duchamp,subject,Category:20th-century_French_sportsmen
+Marcel_Duchamp,wikiPageWikiLink,Emmy_Hennings
+Marcel_Duchamp,wikiPageWikiLink,Hugo_Ball
+Marcel_Duchamp,wikiPageWikiLink,Max_Stirner
+Marcel_Duchamp,wikiPageWikiLink,Richard_Huelsenbeck
+Marcel_Duchamp,wikiPageWikiLink,The_Ego_and_Its_Own
+Marcel_Duchamp,wikiPageWikiLink,Enneagram_(geometry)
+Marcel_Duchamp,wikiPageWikiLink,Oulipo
+Marcel_Duchamp,wikiPageWikiLink,VVV_(magazine)
+Marcel_Duchamp,wikiPageWikiLink,Pun
+Marcel_Duchamp,wikiPageWikiLink,Walter_Pach
+Marcel_Duchamp,wikiPageWikiLink,Salon_des_Indépendants
+Marcel_Duchamp,wikiPageWikiLink,Berlin
+Marcel_Duchamp,wikiPageWikiLink,Buenos_Aires
+Marcel_Duchamp,wikiPageWikiLink,Chess
+Marcel_Duchamp,wikiPageWikiLink,Epitaph
+Marcel_Duchamp,wikiPageWikiLink,Knight_(chess)
+Marcel_Duchamp,wikiPageWikiLink,Leonardo_da_Vinci
+Marcel_Duchamp,wikiPageWikiLink,Mind
+Marcel_Duchamp,wikiPageWikiLink,World_War_I
+Marcel_Duchamp,wikiPageWikiLink,Zurich
+Marcel_Duchamp,wikiPageWikiLink,John_Cage
+Marcel_Duchamp,wikiPageWikiLink,Lycée_Pierre-Corneille
+Marcel_Duchamp,wikiPageWikiLink,Typography
+Marcel_Duchamp,wikiPageWikiLink,Staatliches_Museum_Schwerin
+Marcel_Duchamp,wikiPageWikiLink,Stefan_Banz
+Marcel_Duchamp,wikiPageWikiLink,Catherine_Perret
+Marcel_Duchamp,wikiPageWikiLink,Corresponding_squares
+Marcel_Duchamp,wikiPageWikiLink,Visual_pun
+Marcel_Duchamp,wikiPageWikiLink,Fourth_dimension_in_art
+Marcel_Duchamp,wikiPageWikiLink,Proto-Cubism
+Marcel_Duchamp,wikiPageWikiLink,Category:French_atheists
+Marcel_Duchamp,wikiPageWikiLink,Category:Recycled_art_artists
+Marcel_Duchamp,wikiPageWikiLink,Aesthetics
+Marcel_Duchamp,wikiPageWikiLink,Blainville-Crevon
+Marcel_Duchamp,wikiPageWikiLink,Conceptual_art
+Marcel_Duchamp,wikiPageWikiLink,Cubism
+Marcel_Duchamp,wikiPageWikiLink,Dada
+Marcel_Duchamp,wikiPageWikiLink,Fauvism
+Marcel_Duchamp,wikiPageWikiLink,Fountain_(Duchamp)
+Marcel_Duchamp,wikiPageWikiLink,Henri_Matisse
+Marcel_Duchamp,wikiPageWikiLink,Hudson_River
+Marcel_Duchamp,wikiPageWikiLink,Impressionism
+Marcel_Duchamp,wikiPageWikiLink,L.H.O.O.Q.
+Marcel_Duchamp,wikiPageWikiLink,Maria_Martins_(artist)
+Marcel_Duchamp,wikiPageWikiLink,Mary_Reynolds_(artist)
+Marcel_Duchamp,wikiPageWikiLink,Montparnasse_Cemetery
+Marcel_Duchamp,wikiPageWikiLink,Neuilly-sur-Seine
+Marcel_Duchamp,wikiPageWikiLink,"Nude_Descending_a_Staircase,_No._2"
+Marcel_Duchamp,wikiPageWikiLink,Pablo_Picasso
+Marcel_Duchamp,wikiPageWikiLink,Pop_art
+Marcel_Duchamp,wikiPageWikiLink,Post-Impressionism
+Marcel_Duchamp,wikiPageWikiLink,Romanian_language
+Marcel_Duchamp,wikiPageWikiLink,Rouen
+Marcel_Duchamp,wikiPageWikiLink,Salvador_Dalí
+Marcel_Duchamp,wikiPageWikiLink,Surrealism
+Marcel_Duchamp,wikiPageWikiLink,"The_Bride_Stripped_Bare_by_Her_Bachelors,_Even"
+Marcel_Duchamp,wikiPageWikiLink,Étant_donnés
+Marcel_Duchamp,wikiPageWikiLink,André_Breton
+Marcel_Duchamp,wikiPageWikiLink,Greenwich_Village
+Marcel_Duchamp,wikiPageWikiLink,Kinetic_art
+Marcel_Duchamp,wikiPageWikiLink,Puteaux
+Marcel_Duchamp,wikiPageWikiLink,Tate
+Marcel_Duchamp,wikiPageWikiLink,Anagram
+Marcel_Duchamp,wikiPageWikiLink,Guillaume_Apollinaire
+Marcel_Duchamp,wikiPageWikiLink,RealPlayer
+Marcel_Duchamp,wikiPageWikiLink,Sotheby's
+Marcel_Duchamp,wikiPageWikiLink,Mobile_(sculpture)
+Marcel_Duchamp,wikiPageWikiLink,Henri-Pierre_Roché
+Marcel_Duchamp,wikiPageWikiLink,The_Blind_Man
+Marcel_Duchamp,wikiPageWikiLink,André_Mare
+Marcel_Duchamp,wikiPageWikiLink,Archives_of_American_Art
+Marcel_Duchamp,wikiPageWikiLink,View_(magazine)
+Marcel_Duchamp,wikiPageWikiLink,"Category:People_from_Ridgefield,_New_Jersey"
+Marcel_Duchamp,wikiPageWikiLink,Aleatoric_music
+Marcel_Duchamp,wikiPageWikiLink,Contemporary_art
+Marcel_Duchamp,wikiPageWikiLink,Fluxus
+Marcel_Duchamp,wikiPageWikiLink,Futurism
+Marcel_Duchamp,wikiPageWikiLink,Installation_art
+Marcel_Duchamp,wikiPageWikiLink,Retina
+Marcel_Duchamp,wikiPageWikiLink,Avant-garde
+Marcel_Duchamp,wikiPageWikiLink,Mona_Lisa
+Marcel_Duchamp,wikiPageWikiLink,Samuel_Beckett
+Marcel_Duchamp,wikiPageWikiLink,Tristan_Tzara
+Marcel_Duchamp,wikiPageWikiLink,Alte_Pinakothek
+Marcel_Duchamp,wikiPageWikiLink,Funnel
+Marcel_Duchamp,wikiPageWikiLink,Museum_of_Modern_Art
+Marcel_Duchamp,wikiPageWikiLink,Oxford_University_Press
+Marcel_Duchamp,wikiPageWikiLink,René_Clair
+Marcel_Duchamp,wikiPageWikiLink,Robert_Delaunay
+Marcel_Duchamp,wikiPageWikiLink,Aphorism
+Marcel_Duchamp,wikiPageWikiLink,J._P._Morgan
+Marcel_Duchamp,wikiPageWikiLink,Chessboard
+Marcel_Duchamp,wikiPageWikiLink,Frederick_John_Kiesler
+Marcel_Duchamp,wikiPageWikiLink,Alexander_Archipenko
+Marcel_Duchamp,wikiPageWikiLink,Bicycle_Wheel
+Marcel_Duchamp,wikiPageWikiLink,Francis_Picabia
+Marcel_Duchamp,wikiPageWikiLink,John_Heartfield
+Marcel_Duchamp,wikiPageWikiLink,Richard_Hamilton_(artist)
+Marcel_Duchamp,wikiPageWikiLink,Robert_Desnos
+Marcel_Duchamp,wikiPageWikiLink,Robert_Motherwell
+Marcel_Duchamp,wikiPageWikiLink,Robert_Rauschenberg
+Marcel_Duchamp,wikiPageWikiLink,Armory_Show
+Marcel_Duchamp,wikiPageWikiLink,LTM_Recordings
+Marcel_Duchamp,wikiPageWikiLink,Pierre_Dumont_(painter)
+Marcel_Duchamp,wikiPageWikiLink,James_Johnson_Sweeney
+Marcel_Duchamp,wikiPageWikiLink,Jacques_Villon
+Marcel_Duchamp,wikiPageWikiLink,Maya_Deren
+Marcel_Duchamp,wikiPageWikiLink,New_York_Dada
+Marcel_Duchamp,wikiPageWikiLink,De_ou_par_Marcel_Duchamp_ou_Rrose_Sélavy_(La_Boîte-en-valise)
+Marcel_Duchamp,wikiPageWikiLink,Robert_Antoine_Pinchon
+Marcel_Duchamp,wikiPageWikiLink,Art_of_Europe
+Marcel_Duchamp,wikiPageWikiLink,Rongwrong
+Marcel_Duchamp,wikiPageWikiLink,Alexina_Duchamp
+Marcel_Duchamp,wikiPageWikiLink,Christie's
+Marcel_Duchamp,wikiPageWikiLink,Graphic_design
+Marcel_Duchamp,wikiPageWikiLink,Metropolitan_Museum_of_Art
+Marcel_Duchamp,wikiPageWikiLink,Philadelphia_Museum_of_Art
+Marcel_Duchamp,wikiPageWikiLink,Postmodernism
+Marcel_Duchamp,wikiPageWikiLink,Coffee_roasting
+Marcel_Duchamp,wikiPageWikiLink,Marc_Allégret
+Marcel_Duchamp,wikiPageWikiLink,Wolfgang_Paalen
+Marcel_Duchamp,wikiPageWikiLink,Belle_da_Costa_Greene
+Marcel_Duchamp,wikiPageWikiLink,Irene_Gammel
+Marcel_Duchamp,wikiPageWikiLink,La_Maison_Cubiste
+Marcel_Duchamp,wikiPageWikiLink,Académie_Julian
+Marcel_Duchamp,wikiPageWikiLink,Assemblage_(art)
+Marcel_Duchamp,wikiPageWikiLink,Bobby_Fischer
+Marcel_Duchamp,wikiPageWikiLink,Endgame_(play)
+Marcel_Duchamp,wikiPageWikiLink,Man_Ray
+Marcel_Duchamp,wikiPageWikiLink,Marble
+Marcel_Duchamp,wikiPageWikiLink,Paul_Cézanne
+Marcel_Duchamp,wikiPageWikiLink,Shock_art
+Marcel_Duchamp,wikiPageWikiLink,Henri_Poincaré
+Marcel_Duchamp,wikiPageWikiLink,Alexander_Calder
+Marcel_Duchamp,wikiPageWikiLink,Bird_in_Space
+Marcel_Duchamp,wikiPageWikiLink,Constantin_Brâncuși
+Marcel_Duchamp,wikiPageWikiLink,Fernand_Léger
+Marcel_Duchamp,wikiPageWikiLink,Jasper_Johns
+Marcel_Duchamp,wikiPageWikiLink,Juan_Gris
+Marcel_Duchamp,wikiPageWikiLink,Kurt_Schwitters
+Marcel_Duchamp,wikiPageWikiLink,Nymphaeaceae
+Marcel_Duchamp,wikiPageWikiLink,Odilon_Redon
+Marcel_Duchamp,wikiPageWikiLink,Paul_Éluard
+Marcel_Duchamp,wikiPageWikiLink,Peggy_Guggenheim
+Marcel_Duchamp,wikiPageWikiLink,Centre_Pompidou
+Marcel_Duchamp,wikiPageWikiLink,Marriage_of_convenience
+Marcel_Duchamp,wikiPageWikiLink,Stephen_Jay_Gould
+Marcel_Duchamp,wikiPageWikiLink,Flashlight
+Marcel_Duchamp,wikiPageWikiLink,Académie_royale_de_peinture_et_de_sculpture
+Marcel_Duchamp,wikiPageWikiLink,Salon_d'Automne
+Marcel_Duchamp,wikiPageWikiLink,Marcel_Janco
+Marcel_Duchamp,wikiPageWikiLink,Society_of_Independent_Artists
+Marcel_Duchamp,wikiPageWikiLink,Beatrice_Wood
+Marcel_Duchamp,wikiPageWikiLink,Hannah_Höch
+Marcel_Duchamp,wikiPageWikiLink,Raymond_Roussel
+Marcel_Duchamp,wikiPageWikiLink,Section_d'Or
+Marcel_Duchamp,wikiPageWikiLink,Rhonda_Roland_Shearer
+Marcel_Duchamp,wikiPageWikiLink,Fountain_Archive
+Marcel_Duchamp,wikiPageWikiLink,Chess_set
+Marcel_Duchamp,wikiPageWikiLink,Bottle_Rack
+Marcel_Duchamp,wikiPageWikiLink,Hypermodernism_(chess)
+Marcel_Duchamp,wikiPageWikiLink,Max_Ernst
+Marcel_Duchamp,wikiPageWikiLink,Raoul_Hausmann
+Marcel_Duchamp,wikiPageWikiLink,Stereokinetic_stimulus
+Marcel_Duchamp,wikiPageWikiLink,Hans_Richter_(artist)
+Marcel_Duchamp,wikiPageWikiLink,Musée_National_d'Art_Moderne
+Marcel_Duchamp,wikiPageWikiLink,Chess_Olympiad
+Marcel_Duchamp,wikiPageWikiLink,Suzanne_Duchamp
+Marcel_Duchamp,wikiPageWikiLink,Correspondence_chess
+Marcel_Duchamp,wikiPageWikiLink,Spoonerism
+Marcel_Duchamp,wikiPageWikiLink,Jacques_Doucet_(fashion_designer)
+Marcel_Duchamp,wikiPageWikiLink,Entr'acte_(film)
+Marcel_Duchamp,wikiPageWikiLink,Art_of_This_Century_gallery
+Marcel_Duchamp,wikiPageWikiLink,Readymades_of_Marcel_Duchamp
+Marcel_Duchamp,wikiPageWikiLink,In_Advance_of_the_Broken_Arm
+Marcel_Duchamp,wikiPageWikiLink,Edward_Winter_(chess_historian)
+Marcel_Duchamp,wikiPageWikiLink,Birdcage
+Marcel_Duchamp,wikiPageWikiLink,Galerie_Maeght
+Marcel_Duchamp,wikiPageWikiLink,Monument_to_Balzac
+Marcel_Duchamp,wikiPageWikiLink,Art_manifesto
+Marcel_Duchamp,wikiPageWikiLink,Walter_Conrad_Arensberg
+Marcel_Duchamp,wikiPageWikiLink,Johannes_Baader
+Marcel_Duchamp,wikiPageWikiLink,Plastic_arts
+Marcel_Duchamp,wikiPageWikiLink,Lucas_Cranach_the_Elder
+Marcel_Duchamp,wikiPageWikiLink,"Ridgefield,_New_Jersey"
+Marcel_Duchamp,wikiPageWikiLink,Category:French_librarians
+Marcel_Duchamp,wikiPageWikiLink,Category:Artists_from_New_York_City
+Marcel_Duchamp,wikiPageWikiLink,Category:Cubist_artists
+Marcel_Duchamp,wikiPageWikiLink,Marcel_Duchamp_Prize
+Marcel_Duchamp,wikiPageWikiLink,Nouveau_réalisme
+Marcel_Duchamp,wikiPageWikiLink,Tate_Britain
+Marcel_Duchamp,wikiPageWikiLink,Raymond_Duchamp-Villon
+Marcel_Duchamp,wikiPageWikiLink,Downtown_music
+Marcel_Duchamp,wikiPageWikiLink,Joseph_Nechvatal
+Marcel_Duchamp,wikiPageWikiLink,Eve_Babitz
+Marcel_Duchamp,wikiPageWikiLink,Anti-art
+Marcel_Duchamp,wikiPageWikiLink,Concentric_objects
+Marcel_Duchamp,wikiPageWikiLink,Medical_thermometer
+Marcel_Duchamp,wikiPageWikiLink,Albert_Gleizes
+Marcel_Duchamp,wikiPageWikiLink,Roger_de_La_Fresnaye
+Marcel_Duchamp,wikiPageWikiLink,Gesamtkunstwerk
+Marcel_Duchamp,wikiPageWikiLink,Art_movement
+Marcel_Duchamp,wikiPageWikiLink,Eugenio_Granell
+Marcel_Duchamp,wikiPageWikiLink,Du_%22Cubisme%22
+Marcel_Duchamp,wikiPageWikiLink,The_Witch's_Cradle
+Marcel_Duchamp,wikiPageWikiLink,Jean_Metzinger
+Marcel_Duchamp,wikiPageWikiLink,Chess_endgame
+Marcel_Duchamp,wikiPageWikiLink,Vitaly_Halberstadt
+Marcel_Duchamp,wikiPageWikiLink,Arturo_Schwarz
+Marcel_Duchamp,wikiPageWikiLink,Music_of_Changes
+Marcel_Duchamp,wikiPageWikiLink,"Belle_Haleine,_Eau_de_Voilette"
+Marcel_Duchamp,wikiPageWikiLink,Galeries_Dalmau
+Marcel_Duchamp,wikiPageWikiLink,Exposition_Internationale_du_Surréalisme
+Marcel_Duchamp,wikiPageWikiLink,Opposition_(chess)
+Marcel_Duchamp,wikiPageWikiLink,Société_Anonyme_(art)
+Marcel_Duchamp,wikiPageWikiLink,Joan_Bakewell
+Marcel_Duchamp,wikiPageWikiLink,Draw_(chess)
+Marcel_Duchamp,wikiPageWikiLink,Category:1968_deaths
+Marcel_Duchamp,wikiPageWikiLink,Category:20th-century_French_sculptors
+Marcel_Duchamp,wikiPageWikiLink,Category:20th-century_French_painters
+Marcel_Duchamp,wikiPageWikiLink,Category:Modern_artists
+Marcel_Duchamp,wikiPageWikiLink,Category:1887_births
+Marcel_Duchamp,wikiPageWikiLink,Category:People_from_Seine-Maritime
+Marcel_Duchamp,wikiPageWikiLink,Category:Dada
+Marcel_Duchamp,wikiPageWikiLink,Category:Lycée_Pierre-Corneille_alumni
+Marcel_Duchamp,wikiPageWikiLink,Category:French_conceptual_artists
+Marcel_Duchamp,wikiPageWikiLink,Category:French_surrealist_artists
+Marcel_Duchamp,wikiPageWikiLink,Category:French_male_painters
+Marcel_Duchamp,wikiPageWikiLink,Category:French_male_sculptors
+Marcel_Duchamp,wikiPageWikiLink,Category:French_emigrants_to_the_United_States
+Marcel_Duchamp,wikiPageWikiLink,Category:Pataphysicians
+Marcel_Duchamp,wikiPageWikiLink,Category:Chess_Olympiad_competitors
+Marcel_Duchamp,wikiPageWikiLink,Category:French_chess_players
+Marcel_Duchamp,wikiPageWikiLink,Category:French_chess_writers
+Marcel_Duchamp,wikiPageWikiLink,Category:French_experimental_filmmakers
+Marcel_Duchamp,wikiPageWikiLink,Category:French_mixed-media_artists
+Marcel_Duchamp,wikiPageWikiLink,Category:20th-century_French_male_writers
+Marcel_Duchamp,wikiPageWikiLink,Linda_Dalrymple_Henderson
+Marcel_Duchamp,wikiPageWikiLink,Category:20th-century_chess_players
+Marcel_Duchamp,wikiPageWikiLink,Category:20th-century_French_male_artists
+Marcel_Duchamp,wikiPageWikiLink,Category:Sibling_artists
+Marcel_Duchamp,wikiPageWikiLink,Category:Oulipo_members
+Marcel_Duchamp,wikiPageWikiLink,Category:People_from_Greenwich_Village
+Marcel_Duchamp,wikiPageWikiLink,Category:People_with_acquired_American_citizenship
+Marcel_Duchamp,wikiPageWikiLink,Bourgeois
+Marcel_Duchamp,wikiPageWikiLink,Katherine_Dreier
+Marcel_Duchamp,wikiPageWikiLink,Category:20th-century_French_non-fiction_writers
+Marcel_Duchamp,wikiPageWikiLink,File:Etant_donnes.jpg
+Marcel_Duchamp,wikiPageWikiLink,File:Duchamp_-_Nude_Descending_a_Staircase.jpg
+Marcel_Duchamp,wikiPageWikiLink,"File:Marcel_Duchamp,_1911-12,_Nude_(Study),_Sad_Young_Man_on_a_Train_(Nu_-esquisse-,_jeune_homme_triste_dans_un_train),_Peggy_Guggenheim_Collection,_Venice.jpg"
+Marcel_Duchamp,wikiPageWikiLink,"File:Man_Ray,_1920,_Three_Heads_(Joseph_Stella_and_Marcel_Duchamp),_gelatin_silver_print,_20.7_x_15.7_cm,_Museum_of_Modern_Art.jpg"
+Marcel_Duchamp,wikiPageWikiLink,File:Duchamp_LargeGlass.jpg
+Marcel_Duchamp,wikiPageWikiLink,"File:Marcel_Duchamp,_1919,_L.H.O.O.Q.jpg"
+Marcel_Duchamp,wikiPageWikiLink,Category:Sportspeople_from_Seine-Maritime
+Marcel_Duchamp,wikiPageWikiLink,Category:Académie_Julian_alumni
+Marcel_Duchamp,wikiPageWikiLink,"File:Marcel_Duchamp,_photo_Man_Ray,_391_n._13,_July_1920.jpg"
+Marcel_Duchamp,wikiPageWikiLink,Abstract_Expressionism
+Marcel_Duchamp,wikiPageWikiLink,Anti-war
+Marcel_Duchamp,wikiPageWikiLink,Chess_master
+Marcel_Duchamp,wikiPageWikiLink,Jura_mountains
+Marcel_Duchamp,wikiPageWikiLink,LHOOQ
+Marcel_Duchamp,wikiPageWikiLink,Symbolism_(arts)
+Marcel_Duchamp,wikiPageWikiLink,"The_Bride_Stripped_Bare_By_Her_Bachelors,_Even"
+Marcel_Duchamp,wikiPageWikiLink,Cabaret_Voltaire_(Zurich)
+Marcel_Duchamp,wikiPageWikiLink,Centre_Georges_Pompidou
+Marcel_Duchamp,wikiPageWikiLink,Category:French_parodists
+Marcel_Duchamp,wikiPageWikiLink,File:Duchamp_Mile_of_String.jpg
+Marcel_Duchamp,wikiPageWikiLink,Surrealists
+Marcel_Duchamp,wikiPageWikiLink,Futurism_(art)
+Marcel_Duchamp,wikiPageWikiLink,The_Morgan_Library_&_Museum
+Marcel_Duchamp,wikiPageWikiLink,Found_objects
+Marcel_Duchamp,wikiPageWikiLink,Manuscripts
+Marcel_Duchamp,wikiPageWikiLink,Tate_Gallery
+Marcel_Duchamp,wikiPageWikiLink,Woodcarving
+Marcel_Duchamp,wikiPageWikiLink,Puteaux_Group
+Marcel_Duchamp,wikiPageWikiLink,Ubuweb
+Marcel_Duchamp,wikiPageWikiLink,Why_Not_Sneeze_Rose_Sélavy%3F
+Marcel_Duchamp,wikiPageWikiLink,Alfred_Barr
+Marcel_Duchamp,wikiPageWikiLink,Anémic_Cinéma
+Marcel_Duchamp,wikiPageWikiLink,Commercialized
+Marcel_Duchamp,wikiPageWikiLink,Hans_Arp
+Marcel_Duchamp,wikiPageWikiLink,Painterly
+Marcel_Duchamp,wikiPageWikiLink,Western_art_history
+Marcel_Duchamp,wikiPageWikiLink,Drive_belt
+Marcel_Duchamp,wikiPageWikiLink,Nimzo-Indian
+Marcel_Duchamp,wikiPageWikiLink,Photoelectric_cell
+Marcel_Duchamp,wikiPageWikiLink,Cuttlefish_bone
+Marcel_Duchamp,wikiPageWikiLink,Georg_Grosz
+Marcel_Duchamp,wikiPageWikiLink,Pasadena_Art_Museum
+Marcel_Duchamp,wikiPageWikiLink,Nude_Descending_a_Staircase_No._2
+Marcel_Duchamp,wikiPageWikiLink,The_Large_Glass
+Marcel_Duchamp,wikiPageWikiLink,Smithsonian_Archives_of_American_Art
+Marcel_Duchamp,wikiPageWikiLink,Stereoscopic
+Marcel_Duchamp,wikiPageWikiLink,Walter_Arensberg
+Marcel_Duchamp,wikiPageWikiLink,"File:Marcel_Duchamp_(Rrose_Selavy),_Man_Ray,_1920-21,_Belle_Haleine,_Eau_de_Voilette.jpg"
+Marcel_Duchamp,wikiPageWikiLink,Category:Marcel_Duchamp_works
+Marcel_Duchamp,wikiPageWikiLink,File:Label_for_the_Belle_Haleine_cropped.png
+Marcel_Duchamp,wikiPageWikiLink,"File:Marcel_Duchamp,_1917,_Fountain,_photograph_by_Alfred_Stieglitz.jpg"
+Marcel_Duchamp,wikiPageWikiLink,"File:Marcel_Duchamp,_Jacques_Villon,_Raymond_Duchamp-Villon_in_the_garden_of_Villon's_studio,_Puteaux,_France,_c.1913.jpg"
+Marcel_Duchamp,wikiPageWikiLink,Category:French_dadaist
+Marcel_Duchamp,wikiPageWikiLink,"File:Marcel_Duchamp's_gravestone_in_Rouen,_France.jpg"
+Marcel_Duchamp,wikiPageWikiLink,File:The_blind_man_MET_b1120124_001.jpg
+Marcel_Duchamp,wikiPageWikiLink,"File:Five-Way_Portrait_of_Marcel_Duchamp,_21_June_1917,_New_York_City.jpg"
+Marcel_Duchamp,wikiPageExternalLink,duchamp.jsp%3Fpostid=866
+Marcel_Duchamp,wikiPageExternalLink,fdrcat.html
+Marcel_Duchamp,wikiPageExternalLink,inside29.html
+Marcel_Duchamp,wikiPageExternalLink,
+Marcel_Duchamp,wikiPageExternalLink,
+Marcel_Duchamp,wikiPageExternalLink,51446.html
+Marcel_Duchamp,wikiPageExternalLink,
+Marcel_Duchamp,wikiPageExternalLink,5138-11258757
+Marcel_Duchamp,wikiPageExternalLink,14
+Marcel_Duchamp,wikiPageExternalLink,duchamp.html
+Marcel_Duchamp,wikiPageExternalLink,popup24.htm
+Marcel_Duchamp,wikiPageExternalLink,duchamp_legacy.htm
+Marcel_Duchamp,wikiPageExternalLink,ENS-duchamp_en.html
+Marcel_Duchamp,wikiPageExternalLink,
+Marcel_Duchamp,wikiPageExternalLink,
+Marcel_Duchamp,wikiPageExternalLink,random_duchamp.htm
+Marcel_Duchamp,wikiPageExternalLink,watch%3Fv=DzwADsrOEJk
+Marcel_Duchamp,wikiPageExternalLink,oral-history-interview-eve-babitz-12164
+Marcel_Duchamp,wikiPageExternalLink,marcelduchamp.html
+Marcel_Duchamp,wikiPageExternalLink,audio5E.html
+Marcel_Duchamp,wikiPageExternalLink,duchamp.html
+Marcel_Duchamp,wikiPageExternalLink,duchamp.html
+Marcel_Duchamp,description,O nyɛla USA yiliyiinda
+Marcel_Duchamp,description,francuski malarz
+Marcel_Duchamp,description,fransk konstnär
+Marcel_Duchamp,description,livour galleg
+Marcel_Duchamp,description,pemeran laki-laki asal Amerika Serikat
+Marcel_Duchamp,description,അമേരിക്കയിലെ ചലച്ചിത്ര അഭിനേതാവ്
+Marcel_Duchamp,description,އެމެރިކާއަށް އުފަން އެކްޓަރެއް
+Marcel_Duchamp,description,френски художник
+Marcel_Duchamp,description,ֆրանսիացի նկարիչ
+Marcel_Duchamp,description,মার্কিন দাবাড়ু
+Marcel_Duchamp,description,Frans dadaïstisch kunstenaar (1887–1968)
+Marcel_Duchamp,description,Fransız ressam ve heykeltraş (1887–1968)
+Marcel_Duchamp,description,French painter and sculptor (1887–1968)
+Marcel_Duchamp,description,"французький та американський художник, скульптор, теоретик мистецтва, шахіст"
+Marcel_Duchamp,description,ranskalainen taiteilija ja readymade-taiteen keksijä
+Marcel_Duchamp,description,aktor franses
+Marcel_Duchamp,description,artist Ffrengig-Americanaidd
+Marcel_Duchamp,description,franca/usona artisto
+Marcel_Duchamp,description,francia festő és szobrász
+Marcel_Duchamp,description,francouzský malíř
+Marcel_Duchamp,description,franséisch-amerikanesche Moler an Kënschtler
+Marcel_Duchamp,description,"peintre, plasticien et homme de lettres français (1887–1968)"
+Marcel_Duchamp,description,französisch-amerikanischer Maler und Objektkünstler (1887–1968)
+Marcel_Duchamp,description,pictor e sculptor francese
+Marcel_Duchamp,description,pintor i escultor francès
+Marcel_Duchamp,description,pintor y escultor francés
+Marcel_Duchamp,description,péintéir agus dealbhóir Francach
+Marcel_Duchamp,description,"французский и американский художник, теоретик искусства, шахматист"
+Marcel_Duchamp,description,"pittore, scultore e scacchista statunitense (1887-1968)"
+Marcel_Duchamp,description,फ्रान्सेली अतियथार्थवादी कलाकार
+Marcel_Duchamp,description,フランスの芸術家、「現代アート」概念の父 (1887-1968)
+Marcel_Duchamp,description,французскі і амерыканскі мастак-тэарэтык
+Marcel_Duchamp,description,француски уметник
+Marcel_Duchamp,description,אמן צרפתי-אמריקאי
+Marcel_Duchamp,description,فنانٌ فرنسيْ
+Marcel_Duchamp,description,"Γαλλο-Αμερικανός ηθοποιός, σκακιστής, ζωγράφος, γλύπτης και χαράκτης"
+Marcel_Duchamp,description,達達主義美籍法裔藝術家
+Marcel_Duchamp,description,프랑스의 예술가
+Marcel_Duchamp,exactMatch,i94966
+Marcel_Duchamp,name,Marcel Duchamp
+Marcel_Duchamp,depiction,"Marcel_Duchamp,_1917,_Fountain,_photograph_by_Alfred_Stieglitz.jpg"
+Marcel_Duchamp,depiction,Alphonse_Allais.jpg
+Marcel_Duchamp,depiction,Duchamp_-_Nude_Descending_a_Staircase.jpg
+Marcel_Duchamp,depiction,Duchamp_LargeGlass.jpg
+Marcel_Duchamp,depiction,Duchamp_Mile_of_String.jpg
+Marcel_Duchamp,depiction,Etant_donnes.jpg
+Marcel_Duchamp,depiction,"Five-Way_Portrait_of_Marcel_Duchamp,_21_June_1917,_New_York_City.jpg"
+Marcel_Duchamp,depiction,Label_for_the_Belle_Haleine_cropped.png
+Marcel_Duchamp,depiction,"Man_Ray,_1920,_Three_Heads_(Joseph_Stella_and_Marcel_Duchamp),_gelatin_silver_print,_20.7_x_15.7_cm,_Museum_of_Modern_Art.jpg"
+Marcel_Duchamp,depiction,"Man_Ray,_1920-21,_Portrait_of_Marcel_Duchamp,_gelatin_silver_print,_Yale_University_Art_Gallery.jpg"
+Marcel_Duchamp,depiction,"Marcel_Duchamp's_gravestone_in_Rouen,_France.jpg"
+Marcel_Duchamp,depiction,"Marcel_Duchamp,_1910,_Joueur_d'échecs_(The_Chess_Game),_oil_on_canvas,_114_x_146.5_cm,_Philadelphia_Museum_of_Art.jpg"
+Marcel_Duchamp,depiction,"Marcel_Duchamp,_1911,_Coffee_Mill_(Moulin_à_café),_oil_and_graphite_on_board,_33_x_12.7_cm,_Tate,_London.jpg"
+Marcel_Duchamp,depiction,"Marcel_Duchamp,_1911,_La_sonate_(Sonata),_oil_on_canvas,_145.1_x_113.3_cm,_Philadelphia_Museum_of_Art.jpg"
+Marcel_Duchamp,depiction,"Marcel_Duchamp,_1911-12,_Nude_(Study),_Sad_Young_Man_on_a_Train_(Nu_-esquisse-,_jeune_homme_triste_dans_un_train),_Peggy_Guggenheim_Collection,_Venice.jpg"
+Marcel_Duchamp,depiction,"Marcel_Duchamp,_1912,_Le_Roi_et_la_Reine_entourés_de_Nus_vites_(The_King_and_Queen_Surrounded_by_Swift_Nudes),_oil_on_canvas,_114.6_x_128.9_cm,_Philadelphia_Museum_of_Art.jpg"
+Marcel_Duchamp,depiction,"Marcel_Duchamp,_1919,_L.H.O.O.Q.jpg"
+Marcel_Duchamp,depiction,"Marcel_Duchamp,_Jacques_Villon,_Raymond_Duchamp-Villon_in_the_garden_of_Villon's_studio,_Puteaux,_France,_c.1913.jpg"
+Marcel_Duchamp,depiction,"Marcel_Duchamp,_Nude_Descending_a_Staircase,_No._2,_in_the_Frederick_C._Torrey_home,_c._1913.jpg"
+Marcel_Duchamp,depiction,"Marcel_Duchamp,_photo_Man_Ray,_391_n._13,_July_1920.jpg"
+Marcel_Duchamp,depiction,"Marcel_Duchamp_(Rrose_Selavy),_Man_Ray,_1920-21,_Belle_Haleine,_Eau_de_Voilette.jpg"
+Marcel_Duchamp,depiction,Monte_Carlo_Bond_1924.jpg
+Marcel_Duchamp,depiction,The_blind_man_MET_b1120124_001.jpg
+Marcel_Duchamp,birthName,Henri-Robert-Marcel Duchamp
+Marcel_Duchamp,movement,Conceptual_art
+Marcel_Duchamp,movement,Cubism
+Marcel_Duchamp,movement,Dada
+Marcel_Duchamp,notableWork,Fountain_(Duchamp)
+Marcel_Duchamp,notableWork,L.H.O.O.Q.
+Marcel_Duchamp,notableWork,"Nude_Descending_a_Staircase,_No._2"
+Marcel_Duchamp,notableWork,"The_Bride_Stripped_Bare_by_Her_Bachelors,_Even"
+Marcel_Duchamp,notableWork,Étant_donnés
+Marcel_Duchamp,partner,Maria_Martins_(artist)
+Marcel_Duchamp,partner,Mary_Reynolds_(artist)
+Marcel_Duchamp,thumbnail,"Man_Ray,_1920-21,_Portrait_of_Marcel_Duchamp,_gelatin_silver_print,_Yale_University_Art_Gallery.jpg?width=300"
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Cite_book
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Authority_control_(arts)
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Birth_date
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Blockquote
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Chess_diagram
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Chessgames_player
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Cubism
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Cvt
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Dada
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Death_date_and_age
+Marcel_Duchamp,wikiPageUsesTemplate,Template:FrenchSculptureCensus
+Marcel_Duchamp,wikiPageUsesTemplate,Template:IPA
+Marcel_Duchamp,wikiPageUsesTemplate,Template:IPAc-en
+Marcel_Duchamp,wikiPageUsesTemplate,Template:ISBN
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Ill
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Infobox_artist
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Internet_Archive_author
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Library_resources_box
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Main
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Marcel_Duchamp
+Marcel_Duchamp,wikiPageUsesTemplate,Template:MoMA_artist
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Modernism
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Redirect
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Reflist
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Rp
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Short_description
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Ubl
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Use_dmy_dates
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Webarchive
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Wikiquote
+Marcel_Duchamp,wikiPageUsesTemplate,Template:Commons_category
+Marcel_Duchamp,birthDate,1887-07-28
+Marcel_Duchamp,deathDate,1968-10-02
+Marcel_Duchamp,title,Duchamp Bottles Belle Greene: Just Desserts For His Canning
+Marcel_Duchamp,birthName,Henri-Robert-Marcel Duchamp
+Marcel_Duchamp,wasDerivedFrom,Marcel_Duchamp?oldid=1308642133&ns=0
+Marcel_Duchamp,field,"Painting, sculpture, film"
+Marcel_Duchamp,works,Fountain
+Marcel_Duchamp,works,"Nude Descending a Staircase, No. 2"
+Marcel_Duchamp,works,Étant donnés
+Marcel_Duchamp,works,LHOOQ
+Marcel_Duchamp,works,"The Bride Stripped Bare By Her Bachelors, Even"
+Marcel_Duchamp,caption,"Portrait of Marcel Duchamp, 1920–21"
+Marcel_Duchamp,caption,"by Man Ray, Yale University Art Gallery"
+Marcel_Duchamp,date,2008-06-18
+Marcel_Duchamp,date,2013-05-22
+Marcel_Duchamp,url,duchamp.jsp%3Fpostid=866
+Marcel_Duchamp,url,14
+Marcel_Duchamp,movement,Conceptual_art
+Marcel_Duchamp,movement,Cubism
+Marcel_Duchamp,movement,Dada
+Marcel_Duchamp,partner,Maria_Martins_(artist)
+Marcel_Duchamp,partner,Mary_Reynolds_(artist)
+Marcel_Duchamp,about,yes
+Marcel_Duchamp,by,yes
+Marcel_Duchamp,onlinebooks,no
+Marcel_Duchamp,wikititle,Marcel Duchamp
+Marcel_Duchamp,isPrimaryTopicOf,Marcel_Duchamp
+Marcel_Duchamp,wordnet_type,synset-artist-noun-1
+Marcel_Duchamp,sameAs,36917441
