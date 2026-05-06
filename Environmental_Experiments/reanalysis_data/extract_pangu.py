@@ -3,31 +3,22 @@ import pandas as pd
 import xarray as xr
 from datasets import load_dataset
 
-
-# Login using e.g. `huggingface-cli login` to access this dataset
 ds = load_dataset("teoaivalis/extreme-floods-kg")
 
-# Print dataset info
 print(ds)
 
-# Inspect one record
 print(ds["train"][0])
 
-# Convert to pandas DataFrame
 import pandas as pd
 df = pd.DataFrame(ds["train"])
 print(df.head())
 
-#################################################################
-
-# 1. SETUP DATA
 pangu_path = 'gs://weatherbench2/datasets/pangu/2018-2022_0012_0p25.zarr'
 ds_pangu = xr.open_zarr(pangu_path, consolidated=True)
 
 base_output_dir = "pangu_predictions"
 os.makedirs(base_output_dir, exist_ok=True)
 
-# CONFIGURATION
 target_levels = [1000, 850, 500, 250]
 pangu_vars = [
     '10m_u_component_of_wind', '10m_v_component_of_wind', '10m_wind_speed', 
@@ -39,7 +30,6 @@ pangu_vars = [
 def safe_name(text):
     return "".join([c if c.isalnum() else "_" for c in str(text)])
 
-# 2. EXTRACTION LOOP
 processed_count = 0
 print("Starting Pangu Extraction (Descending Latitude fix)...")
 
@@ -47,7 +37,6 @@ for _, row in df.iterrows():
     event_id = row['event_id']
     event_date = pd.to_datetime(row['date'])
     
-    # Range check (Pangu 2018-2022)
     if not (pd.Timestamp('2018-01-01') <= event_date <= pd.Timestamp('2022-12-31')):
         continue
 
@@ -68,30 +57,24 @@ for _, row in df.iterrows():
         lon_360 = lon % 360
         filepath = os.path.join(event_folder, f"{s_region}_Pangu_pred.csv")
         
-        # Check if we should skip
         if os.path.exists(filepath) and os.path.getsize(filepath) > 1000:
             continue
 
         try:
-            # STEP A: Selection
-            # Since latitude is 90 -> -90, we MUST slice from (lat + 1) to (lat - 1)
             subset = ds_pangu.sel({
                 'latitude': slice(lat + 1.0, lat - 1.0), 
                 'longitude': slice(lon_360 - 1.0, lon_360 + 1.0),
                 'prediction_timedelta': lead_time
             })
             
-            # STEP B: Temporal & Level Selection
             patch = subset.sel(time=init_time, level=target_levels, method='nearest').compute()
             
-            # STEP C: Transform
             df_final = patch[pangu_vars].to_dataframe().reset_index()
             
             if df_final.empty:
                 print(f"    [EMPTY]  {name} - check coords: {lat}, {lon_360}")
                 continue
             
-            # STEP D: Add Metadata
             df_final['event_id'] = event_id
             df_final['region_label'] = name
             df_final['valid_time'] = df_final['time'] + df_final['prediction_timedelta']

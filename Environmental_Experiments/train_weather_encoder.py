@@ -8,11 +8,9 @@ import pandas as pd
 import numpy as np
 from tqdm import tqdm
 
-# --- 1. CONFIGURATION ---
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f" Using device: {device}")
 
-# Directories for training
 train_roots = [
     "/home/teoaivalis/floods_kg/reanalysis_data/era5_ground_truth",
     "/home/teoaivalis/floods_kg/reanalysis_data/era5_baselines_clean"
@@ -20,7 +18,7 @@ train_roots = [
     #"/home/teoaivalis/floods_kg/reanalysis_data/era5_ground_truth_timedelta_previous_day"
 ]
 
-# The specific folder we want to extract embeddings for
+
 target_day_label = "era5_ground_truth"
 
 save_emb_path = "era5_cnn_512_event_day_only.npy"
@@ -30,7 +28,7 @@ surface_vars = ['2m_temperature', 'mean_sea_level_pressure']
 level_vars = ['temperature', 'specific_humidity', 'u_component_of_wind', 'v_component_of_wind', 'geopotential']
 levels = [1000, 850, 500, 250]
 
-# --- 2. PHYSICS-AWARE LOSS FUNCTION ---
+
 def physics_aware_loss(pred, target):
     l1_loss = F.l1_loss(pred, target)
     pred_dx = pred[..., 1:] - pred[..., :-1]
@@ -40,7 +38,7 @@ def physics_aware_loss(pred, target):
     grad_loss = F.l1_loss(pred_dx, target_dx) + F.l1_loss(pred_dy, target_dy)
     return l1_loss + (0.5 * grad_loss)
 
-# --- 3. 3D ARCHITECTURE (RESNET) ---
+
 class ResBlock3D(nn.Module):
     def __init__(self, channels):
         super(ResBlock3D, self).__init__()
@@ -104,7 +102,7 @@ class WeatherAutoencoder3D(nn.Module):
         rec = self.decoder(emb)
         return rec, emb
 
-# --- 4. 3D DATA PROCESSING FUNCTION ---
+
 def process_to_3d_cube(csv_path):
     df = pd.read_csv(csv_path)
     df.columns = df.columns.str.strip()
@@ -131,7 +129,7 @@ def process_to_3d_cube(csv_path):
     cube = np.concatenate([np.stack(level_tensors), np.stack(surf_tensors)], axis=0)
     return torch.from_numpy(cube).float().to(device)
 
-# --- 5. PREPARE MULTI-DAY DATASET ---
+
 all_tensors = []
 valid_metadata = [] 
 
@@ -152,7 +150,7 @@ dataset_tensor = torch.stack(all_tensors)
 dataloader = DataLoader(TensorDataset(dataset_tensor), batch_size=32, shuffle=True)
 print(f" Total Cubes Loaded for Training: {len(all_tensors)}")
 
-# --- 6. TRAINING ---
+
 autoencoder = WeatherAutoencoder3D().to(device)
 optimizer = optim.Adam(autoencoder.parameters(), lr=0.001)
 epochs = 100 
@@ -175,7 +173,7 @@ for epoch in range(epochs):
 
 torch.save(autoencoder.state_dict(), save_model_path)
 
-# --- 7. EXTRACT EMBEDDINGS (EVENT DAY ONLY) ---
+
 print(f"\n Extracting embeddings for '{target_day_label}' only...")
 autoencoder.eval()
 all_embeddings = {}
@@ -189,19 +187,16 @@ with torch.inference_mode():
             all_embeddings[folder_name] = embedding
 
 np.save(save_emb_path, all_embeddings)
-print(f" SUCCESS! Extracted {len(all_embeddings)} embeddings to: {save_emb_path}")
+print(f"Extracted {len(all_embeddings)} embeddings to: {save_emb_path}")
 
-# --- 8. EXTRACT EMBEDDINGS FOR PANGU PREDICTIONS ---
 pangu_root = "/home/teoaivalis/floods_kg/reanalysis_data/pangu_predictions"
 save_pangu_emb_path = "pangu_cnn_512_embeddings.npy"
 
 print(f"\n Scanning Pangu directory: {pangu_root}")
 pangu_embeddings = {}
 
-# Ensure model is in eval mode
 autoencoder.eval()
 
-# Get list of folders in pangu_root
 pangu_folders = [f for f in os.listdir(pangu_root) if os.path.isdir(os.path.join(pangu_root, f))]
 
 with torch.inference_mode():
@@ -210,20 +205,14 @@ with torch.inference_mode():
         
         if os.path.exists(csv_path):
             try:
-                # 1. Process the Pangu CSV into the same 3D cube format
                 x_pangu = process_to_3d_cube(csv_path) 
-                
-                # 2. Add batch dimension and move to device
                 x_pangu = x_pangu.unsqueeze(0) 
-                
-                # 3. Extract the 512-dim embedding
                 embedding = autoencoder.encoder(x_pangu).cpu().numpy().flatten()
-                
                 pangu_embeddings[folder_name] = embedding
             except Exception as e:
                 print(f" Error processing {folder_name}: {e}")
                 continue
 
-# Save the Pangu embeddings separately
+
 np.save(save_pangu_emb_path, pangu_embeddings)
-print(f" SUCCESS! Extracted {len(pangu_embeddings)} Pangu embeddings to: {save_pangu_emb_path}")
+print(f" Extracted {len(pangu_embeddings)} Pangu embeddings to: {save_pangu_emb_path}")

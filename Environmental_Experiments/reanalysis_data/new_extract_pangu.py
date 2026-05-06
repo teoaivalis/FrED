@@ -4,17 +4,12 @@ import xarray as xr
 import numpy as np
 from datasets import load_dataset
 
-# 1. SETUP DATA & PATHS
-# Pangu-Weather 24-hour lead time predictions from WeatherBench 2
 pangu_path = 'gs://weatherbench2/datasets/pangu/2018-2022_0012_0p25.zarr'
 base_output_dir = "new_pangu_predictions"
 os.makedirs(base_output_dir, exist_ok=True)
 
-# 2. PANGU RIGID CONFIGURATION
-# Pangu REQUIRES these 13 levels in this exact order
 target_levels = [1000, 925, 850, 700, 600, 500, 400, 300, 250, 200, 150, 100, 50]
 
-# Pangu REQUIRES these exact 9 variables
 surface_vars = [
     'mean_sea_level_pressure', 
     '10m_u_component_of_wind', 
@@ -33,34 +28,26 @@ all_vars = surface_vars + upper_vars
 def safe_name(text):
     return "".join([c if c.isalnum() else "_" for c in str(text)])
 
-# 3. LOAD DATASETS
-print("Connecting to Pangu Zarr store...")
 ds_pangu = xr.open_zarr(pangu_path, consolidated=True)
 
-print("Loading Floods KG...")
 ds = load_dataset("teoaivalis/extreme-floods-kg")
 df = pd.DataFrame(ds["train"])
 
-# 4. EXTRACTION LOOP
 processed_count = 0
-print("Starting Pangu Extraction for Latent Embeddings...")
 
 for _, row in df.iterrows():
     event_id = row['event_id']
     event_date = pd.to_datetime(row['date']).floor('6h') # Align to 6h steps
     
-    # Range check (Pangu 2018-2022)
     if not (pd.Timestamp('2018-01-01') <= event_date <= pd.Timestamp('2022-12-31')):
         continue
 
-    # Logic: Prediction made 24h ago targeting the event date
     init_time = event_date - pd.Timedelta(hours=24)
     lead_time = pd.Timedelta(hours=24)
 
     event_folder = os.path.join(base_output_dir, safe_name(event_id))
     os.makedirs(event_folder, exist_ok=True)
     
-    # Points to extract: Center and any affected regions
     points = [("center", row['location']['lat'], row['location']['lon'])]
     for reg in row.get('affected_regions', []):
         points.append((reg['region'], reg['lat'], reg['lon']))
@@ -70,34 +57,27 @@ for _, row in df.iterrows():
     for name, lat, lon in points:
         s_region = safe_name(name)
         lon_360 = lon % 360
-        # Saving as .nc to preserve the 3D/4D array structure
         filepath = os.path.join(event_folder, f"{s_region}_Pangu_data.nc")
         
         if os.path.exists(filepath):
             continue
 
         try:
-            # STEP A: Spatial Selection (8x8 pixel patch for Swin Transformer window)
-            # WB2 Latitude is 90 (N) to -90 (S), so slice(High, Low)
             subset = ds_pangu[all_vars].sel({
                 'latitude': slice(lat + 1.0, lat - 1.0), 
                 'longitude': slice(lon_360 - 1.0, lon_360 + 1.0),
                 'prediction_timedelta': lead_time
             })
-            
-            # STEP B: Temporal & Level Selection
-            # This ensures we get all 13 levels even if your CSV only had 4
+
             patch = subset.sel(time=init_time, level=target_levels, method='nearest').compute()
             
             if patch.latitude.size == 0:
                 print(f"    [EMPTY] {name} at {lat}, {lon_360}")
                 continue
 
-            # STEP C: Meta-data tagging and Saving
             patch.attrs['event_id'] = event_id
             patch.attrs['region_label'] = name
             
-            # Save as NetCDF
             patch.to_netcdf(filepath)
             processed_count += 1
             print(f"    [SAVED NC] {name}")
