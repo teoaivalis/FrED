@@ -30,7 +30,7 @@ def safe_name(text):
 
 ds_pangu = xr.open_zarr(pangu_path, consolidated=True)
 
-ds = load_dataset("teoaivalis/extreme-floods-kg")
+ds = load_dataset("yourname/extreme-floods-kg")
 df = pd.DataFrame(ds["train"])
 
 processed_count = 0

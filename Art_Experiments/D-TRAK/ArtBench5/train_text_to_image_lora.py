@@ -623,8 +623,8 @@ def main():
     ####
     import pandas as pd
     #df = pd.read_csv('../../codes/artbench/ArtBench-10.csv')
-    df = pd.read_csv('/home/teoaivalis/.cache/kagglehub/datasets/alexanderliao/artbench10/versions/2/ArtBench-10.csv')
-    df['path'] = df.apply(lambda x: "/home/teoaivalis/neurips/artbench-merged/{}/{}".format(
+    df = pd.read_csv('/home/yourname/.cache/kagglehub/datasets/alexanderliao/artbench10/versions/2/ArtBench-10.csv')
+    df['path'] = df.apply(lambda x: "/home/yourname/neurips/artbench-merged/{}/{}".format(
     #df['path'] = df.apply(lambda x: "../../codes/artbench/data/artbench-10-imagefolder/{}/{}".format(
         x['label'], 
         x['name']), axis=1)

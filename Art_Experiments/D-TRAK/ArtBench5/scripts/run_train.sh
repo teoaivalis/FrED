@@ -3,7 +3,7 @@ echo "main_process_port: $2"
 echo "setting: $3"
 
 export MODEL_NAME="lambdalabs/miniSD-diffusers"
-export DATASET_NAME="/home/teoaivalis/.cache/kagglehub/datasets/alexanderliao/artbench10/versions/2/ArtBench-10.csv"
+export DATASET_NAME="/home/yourname/.cache/kagglehub/datasets/alexanderliao/artbench10/versions/2/ArtBench-10.csv"
 export HF_HOME="~/codes/.cache/huggingface"
 
 

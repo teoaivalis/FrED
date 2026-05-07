@@ -12,10 +12,10 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 print(f" Using device: {device}")
 
 train_roots = [
-    "/home/teoaivalis/floods_kg/reanalysis_data/era5_ground_truth",
-    "/home/teoaivalis/floods_kg/reanalysis_data/era5_baselines_clean"
-    #"/home/teoaivalis/floods_kg/reanalysis_data/era5_ground_truth_timedelta_next_day",
-    #"/home/teoaivalis/floods_kg/reanalysis_data/era5_ground_truth_timedelta_previous_day"
+    "/home/yourname/floods_kg/reanalysis_data/era5_ground_truth",
+    "/home/yourname/floods_kg/reanalysis_data/era5_baselines_clean"
+    #"/home/yourname/floods_kg/reanalysis_data/era5_ground_truth_timedelta_next_day",
+    #"/home/yourname/floods_kg/reanalysis_data/era5_ground_truth_timedelta_previous_day"
 ]
 
 
@@ -189,7 +189,7 @@ with torch.inference_mode():
 np.save(save_emb_path, all_embeddings)
 print(f"Extracted {len(all_embeddings)} embeddings to: {save_emb_path}")
 
-pangu_root = "/home/teoaivalis/floods_kg/reanalysis_data/pangu_predictions"
+pangu_root = "/home/yourname/floods_kg/reanalysis_data/pangu_predictions"
 save_pangu_emb_path = "pangu_cnn_512_embeddings.npy"
 
 print(f"\n Scanning Pangu directory: {pangu_root}")

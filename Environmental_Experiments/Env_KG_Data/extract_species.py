@@ -11,7 +11,7 @@ RADIUS = 10
 INAT_URL = "https://api.inaturalist.org/v1/observations/species_counts"
 HEADERS = {'User-Agent': 'FloodBiodiversityResearchBot/1.0 (contact: your@email.com)'}
 
-ds = load_dataset("teoaivalis/extreme-floods-kg")
+ds = load_dataset("yourname/extreme-floods-kg")
 df = pd.DataFrame(ds["train"])
 
 def fetch_species_for_event(event_id, lat, lon):

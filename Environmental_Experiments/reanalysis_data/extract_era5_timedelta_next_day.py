@@ -4,7 +4,7 @@ import xarray as xr
 from datasets import load_dataset
 
 
-ds = load_dataset("teoaivalis/extreme-floods-kg")
+ds = load_dataset("yourname/extreme-floods-kg")
 
 print(ds)
 

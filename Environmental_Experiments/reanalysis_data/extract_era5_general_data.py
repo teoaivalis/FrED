@@ -8,7 +8,7 @@ from tqdm import tqdm
 ERA5_START = pd.Timestamp('1959-01-01')
 ERA5_LIMIT = pd.Timestamp('2023-01-10') 
 
-dataset_name = "teoaivalis/extreme-floods-kg"
+dataset_name = "yourname/extreme-floods-kg"
 era5_path = 'gs://weatherbench2/datasets/era5/1959-2023_01_10-wb13-6h-1440x721_with_derived_variables.zarr'
 
 base_output_dir = "era5_baselines_clean" 

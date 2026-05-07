@@ -56,7 +56,7 @@ def main():
     image_embeddings = []
     missing_files = []
     
-    image_folder = "/home/teoaivalis/contrastive_learning/worldkg_images"
+    image_folder = "/home/yourname/contrastive_learning/worldkg_images"
 
     print("\nfeature extraction...")
     

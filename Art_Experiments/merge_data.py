@@ -2,8 +2,8 @@ import os
 import shutil
 from pathlib import Path
 
-base_path = Path("/home/teoaivalis/neurips/artbench-10-imagefolder")
-merged_path = Path("/home/teoaivalis/neurips/artbench-merged")
+base_path = Path("/home/yourname/neurips/artbench-10-imagefolder")
+merged_path = Path("/home/yourname/neurips/artbench-merged")
 
 os.makedirs(merged_path, exist_ok=True)
 

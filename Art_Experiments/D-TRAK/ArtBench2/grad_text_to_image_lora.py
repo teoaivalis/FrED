@@ -570,8 +570,8 @@ def main():
     from datasets import DatasetDict, Dataset, load_dataset, Image
 
     if ("idx-train.pkl" in args.index_path) or ("idx-val.pkl" in args.index_path):
-        df = pd.read_csv('/home/teoaivalis/.cache/kagglehub/datasets/alexanderliao/artbench10/versions/2/ArtBench-10.csv')
-        df['path'] = df.apply(lambda x: "/home/teoaivalis/neurips/artbench-merged/{}/{}".format(x['label'], x['name']), axis=1)
+        df = pd.read_csv('/home/yourname/.cache/kagglehub/datasets/alexanderliao/artbench10/versions/2/ArtBench-10.csv')
+        df['path'] = df.apply(lambda x: "/home/yourname/neurips/artbench-merged/{}/{}".format(x['label'], x['name']), axis=1)
         #df = pd.read_csv('../../codes/artbench/ArtBench-10.csv')
         #df['path'] = df.apply(lambda x: "../../codes/artbench/data/artbench-10-imagefolder/{}/{}".format(
         #    x['label'], 
