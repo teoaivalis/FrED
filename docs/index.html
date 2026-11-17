@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Meet FrED 🔍</title>
+<style>
+  :root {
+    --dblue: #1f3b73;   /* matches the poster's blue */
+    --ngreen: #3a9d5d;
+    --orange: #f28c28;
+    --cream: #fff8ec;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  html, body { height: 100%; }
+  body {
+    font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    background: radial-gradient(circle at 50% 30%, #2d5299 0%, var(--dblue) 60%, #13264d 100%);
+    color: white;
+    display: flex; flex-direction: column; align-items: center; justify-content: center;
+    min-height: 100dvh; overflow: hidden; text-align: center; padding: 1.5rem;
+    -webkit-tap-highlight-color: transparent;
+  }
+  /* floating "training samples" in the background */
+  .dot {
+    position: fixed; width: 10px; height: 10px; border-radius: 50%;
+    background: rgba(255,255,255,0.25);
+    animation: float 6s ease-in-out infinite;
+    transition: background .4s, transform .4s;
+  }
+  .dot.hit { background: var(--orange); box-shadow: 0 0 14px var(--orange); transform: scale(1.8); }
+  @keyframes float { 0%,100% { translate: 0 0; } 50% { translate: 0 -14px; } }
+
+  .bubble {
+    position: relative; background: var(--cream); color: #222;
+    border-radius: 22px; padding: 1rem 1.3rem; max-width: 320px;
+    font-size: 1.1rem; line-height: 1.4; margin-bottom: 1.2rem;
+    box-shadow: 0 8px 24px rgba(0,0,0,.25);
+    animation: pop .5s cubic-bezier(.2,1.6,.4,1) both;
+  }
+  .bubble::after {
+    content: ""; position: absolute; left: 50%; bottom: -14px; translate: -50% 0;
+    border: 14px solid transparent; border-top-color: var(--cream); border-bottom: 0;
+  }
+  .bubble b { color: var(--dblue); }
+  @keyframes pop { from { transform: scale(.6); opacity: 0; } to { transform: scale(1); opacity: 1; } }
+
+  #fred {
+    width: min(70vw, 300px); cursor: pointer; border: none; background: none;
+    animation: idle 2.4s ease-in-out infinite;
+    filter: drop-shadow(0 12px 18px rgba(0,0,0,.35));
+  }
+  #fred:active { transform: scale(.95); }
+  #fred.tracing { animation: wiggle .35s ease-in-out infinite; }
+  #fred.found { animation: jump .6s cubic-bezier(.3,1.8,.5,1) 2; }
+  @keyframes idle { 0%,100% { transform: translateY(0) rotate(-2deg); } 50% { transform: translateY(-10px) rotate(2deg); } }
+  @keyframes wiggle { 0%,100% { transform: rotate(-6deg); } 50% { transform: rotate(6deg); } }
+  @keyframes jump { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-40px) scale(1.05); } }
+
+  /* knowledge-graph antenna nodes light up while tracing */
+  .kg-node { transition: fill .3s; }
+  .tracing .kg-node, .found .kg-node { fill: var(--orange); }
+  .tracing .kg-node:nth-of-type(2) { transition-delay: .15s; }
+  .tracing .kg-node:nth-of-type(3) { transition-delay: .3s; }
+  .eye-pupil { transition: transform .2s; }
+  .found .eye-pupil { transform: scale(1.25); }
+
+  .hint { margin-top: 1rem; font-size: .95rem; opacity: .85; animation: blink 1.6s ease-in-out infinite; }
+  @keyframes blink { 50% { opacity: .35; } }
+
+  .go {
+    display: none; margin-top: 1.2rem; padding: .9rem 1.8rem; border-radius: 999px;
+    background: var(--orange); color: white; font-weight: 700; font-size: 1.1rem;
+    text-decoration: none; box-shadow: 0 6px 18px rgba(0,0,0,.3);
+    animation: pop .5s cubic-bezier(.2,1.6,.4,1) both;
+  }
+  .skip { position: fixed; bottom: 1rem; font-size: .8rem; color: rgba(255,255,255,.6); }
+  .skip a { color: inherit; }
+  .confetti {
+    position: fixed; width: 9px; height: 14px; top: -20px; pointer-events: none;
+    animation: fall linear forwards;
+  }
+  @keyframes fall { to { transform: translateY(110vh) rotate(720deg); } }
+</style>
+</head>
+<body>
+
+<div class="bubble" id="bubble">
+  Hi, I'm <b>FrED</b>! 👋<br>
+  I work out which training data an AI's output came from.<br>
+  <b>Tap me</b> and I'll show you!
+</div>
+
+<button id="fred" aria-label="Tap FrED to open the demo">
+  <svg viewBox="0 0 200 240" xmlns="http://www.w3.org/2000/svg">
+    <!-- knowledge-graph "antenna" -->
+    <g stroke="#cfe3ff" stroke-width="3" fill="none" stroke-linecap="round">
+      <path d="M100 62 L100 32"/>
+      <path d="M100 32 L72 14"/>
+      <path d="M100 32 L130 18"/>
+      <path d="M72 14 L130 18" stroke-dasharray="4 5" opacity=".7"/>
+    </g>
+    <g>
+      <circle class="kg-node" cx="100" cy="32" r="8" fill="#7fb3ff"/>
+      <circle class="kg-node" cx="72" cy="14" r="7" fill="#a78bfa"/>
+      <circle class="kg-node" cx="130" cy="18" r="7" fill="#5eead4"/>
+    </g>
+    <!-- feet -->
+    <ellipse cx="78" cy="226" rx="20" ry="9" fill="#2a8a5c"/>
+    <ellipse cx="122" cy="226" rx="20" ry="9" fill="#2a8a5c"/>
+    <!-- body -->
+    <rect x="38" y="60" width="124" height="166" rx="62" fill="#3fb57a"/>
+    <ellipse cx="100" cy="168" rx="40" ry="38" fill="#a6e8c4"/>
+    <!-- cheeks -->
+    <circle cx="62" cy="128" r="9" fill="#ff9e9e" opacity=".55"/>
+    <circle cx="138" cy="128" r="9" fill="#ff9e9e" opacity=".55"/>
+    <!-- eyes -->
+    <circle cx="78" cy="108" r="17" fill="white"/>
+    <circle cx="122" cy="108" r="17" fill="white"/>
+    <g class="eye-pupil" style="transform-origin:80px 110px"><circle cx="80" cy="110" r="8" fill="#1b1b2f"/><circle cx="83" cy="106" r="3" fill="white"/></g>
+    <g class="eye-pupil" style="transform-origin:124px 110px"><circle cx="124" cy="110" r="8" fill="#1b1b2f"/><circle cx="127" cy="106" r="3" fill="white"/></g>
+    <!-- smile -->
+    <path d="M84 136 Q100 152 116 136" stroke="#1b1b2f" stroke-width="4" fill="none" stroke-linecap="round"/>
+    <!-- left arm waving -->
+    <path d="M42 140 Q18 120 22 96" stroke="#3fb57a" stroke-width="14" fill="none" stroke-linecap="round"/>
+    <!-- right arm holding magnifying glass -->
+    <path d="M158 150 Q178 150 182 172" stroke="#3fb57a" stroke-width="14" fill="none" stroke-linecap="round"/>
+    <line x1="182" y1="176" x2="168" y2="204" stroke="#6b4423" stroke-width="7" stroke-linecap="round"/>
+    <circle cx="186" cy="166" r="16" fill="rgba(200,230,255,.55)" stroke="#f28c28" stroke-width="5"/>
+    <circle cx="181" cy="160" r="4" fill="white" opacity=".8"/>
+  </svg>
+</button>
+
+<p class="hint" id="hint">👆 tap FrED</p>
+<a class="go" id="go" href="https://huggingface.co/spaces/teoaivalis/fred_art_demo">Try the demo →</a>
+
+<p class="skip"><a href="https://huggingface.co/spaces/teoaivalis/fred_art_demo">Skip straight to the demo</a></p>
+
+<script>
+  const DEMO = "https://huggingface.co/spaces/teoaivalis/fred_art_demo";
+  const fred = document.getElementById("fred");
+  const bubble = document.getElementById("bubble");
+  const hint = document.getElementById("hint");
+  const go = document.getElementById("go");
+
+  // scatter "training samples" around the screen
+  const dots = [];
+  for (let i = 0; i < 26; i++) {
+    const d = document.createElement("div");
+    d.className = "dot";
+    d.style.left = Math.random() * 100 + "vw";
+    d.style.top = Math.random() * 100 + "vh";
+    d.style.animationDelay = (Math.random() * 6) + "s";
+    document.body.appendChild(d);
+    dots.push(d);
+  }
+
+  function say(html) {
+    bubble.innerHTML = html;
+    bubble.style.animation = "none"; bubble.offsetHeight; bubble.style.animation = "";
+  }
+
+  function confetti() {
+    const colors = ["#f28c28", "#3fb57a", "#7fb3ff", "#a78bfa", "#fff8ec"];
+    for (let i = 0; i < 60; i++) {
+      const c = document.createElement("div");
+      c.className = "confetti";
+      c.style.left = Math.random() * 100 + "vw";
+      c.style.background = colors[i % colors.length];
+      c.style.animationDuration = (1.6 + Math.random() * 1.6) + "s";
+      c.style.animationDelay = (Math.random() * .4) + "s";
+      document.body.appendChild(c);
+    }
+  }
+
+  let started = false;
+  fred.addEventListener("click", () => {
+    if (started) { window.location.href = DEMO; return; }
+    started = true;
+    hint.style.display = "none";
+    fred.classList.add("tracing");
+    say("🔍 Tracing… checking the <b>latent space</b> and the <b>knowledge graph</b>…");
+
+    // light up a few "influential" samples one by one
+    const picks = [...dots].sort(() => Math.random() - .5).slice(0, 5);
+    picks.forEach((d, i) => setTimeout(() => d.classList.add("hit"), 300 + i * 280));
+
+    setTimeout(() => {
+      fred.classList.remove("tracing");
+      fred.classList.add("found");
+      say("🎉 <b>Found them!</b><br>Now try it yourself with real artworks.");
+      confetti();
+      go.style.display = "inline-block";
+    }, 2000);
+
+    setTimeout(() => { window.location.href = DEMO; }, 4800);
+  });
+</script>
+</body>
+</html>
